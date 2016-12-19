@@ -1,4 +1,0 @@
----
-name: Miha Artnak
----
-THE

@@ -48,7 +48,7 @@ helper.help(Handlebars)
 
 # TODO: use minimatch globbing in all patterns & DRY
 project_pattern = 'projects/([a-z]|-|[0-9])+.(txt|md)'
-member_pattern = 'members/([a-z]|-)+.md'
+# member_pattern = 'members/([a-z]|-)+.md'
 # image_pattern = 'projects\/.+\/.+\.(png|PNG|jpg|JPG|jpeg|JPEG|gif|GIF)';
 
 # BUILD SCRIPT
@@ -69,8 +69,6 @@ metalsmith = Metalsmith(__dirname)
 	.use(remove_drafts()).use(remove_ignored())
 	# Collections of peole and projects
 	.use(collections(
-		members:
-			pattern: 'members/*.md'
 		projects:
 			pattern: 'projects/*.md'
 			sortBy: 'order'	
@@ -80,9 +78,6 @@ metalsmith = Metalsmith(__dirname)
 		homepage:
 			layout: 'home.hbt'
 			pattern: 'index.md'
-		member:
-			layout: 'member.hbt'
-			pattern: member_pattern
 		project:
 			layout: 'project.hbt'
 			collection: 'projects'
@@ -115,7 +110,6 @@ metalsmith = Metalsmith(__dirname)
 		else
 			console.log('Built HTML files from Markdown and Handlebars')
 			console.log("1 Homepage")
-			console.log("#{this._metadata.members.length} Members")
 			console.log("#{this._metadata.projects.length} Projects")
 		return
 	)
