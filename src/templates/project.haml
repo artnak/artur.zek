@@ -5,19 +5,21 @@
 
 		{{> head }}
 
-		%title {{ name }} | ZEK
+		%title {{ name }} | {{ site.title }}
 
-		%meta{property: 'og:title', content: '{{ name }} | ZEK'}
+		{{# if site.title }}
+		%meta{:property => 'og:title', :content => '{{ name }} | {{ site.title }}'}
+		{{/ if }}
 
 		{{# if description }}
-		%meta{property: 'og:description', content: '{{ chain "markdown" "strip_html" description }}'}
+		%meta{:property => 'og:description', :content => '{{ chain "markdown" "strip_html" description }}'}
 		{{/ if }}
 
 		{{# if cover }}
-		%meta{property: 'og:image', content: 'http://{{ site.asset_host }}/{{ encode paths.name }}/{{ encode cover }}?w=1200&fm=jpg'}
+		%meta{:property => 'og:image', :content => 'http://{{ site.asset_host }}/{{ encode paths.name }}/{{ encode cover }}?w=1200&fm=jpg'}
 		{{/ if }}
 
-	%body.project.page{class: 'project-{{paths.name}}'}
+	%body.project.page{:class => 'project-{{paths.name}}'}
 
 		#page
 
@@ -26,19 +28,19 @@
 			%section.main
 
 				{{# if previous}}
-				%a.prev-arrow.prev-arrow-medium-up{href: '/projects/{{ previous.paths.name }}', title: '{{ previous.name }}'}
-					%img{src: '/assets/arrow-left.svg'}
-				%a.prev-arrow.prev-arrow-small{href: '/projects/{{ previous.paths.name }}', title: '{{ previous.name }}'}
-					%img{src: '/assets/arrow-left-small.svg'}
+				%a.prev-arrow.prev-arrow-medium-up{:href => '/projects/{{ previous.paths.name }}', :title => '{{ previous.name }}'}
+					%img{:src => '/assets/arrow-left.svg'}
+				%a.prev-arrow.prev-arrow-small{:href => '/projects/{{ previous.paths.name }}', :title => '{{ previous.name }}'}
+					%img{:src => '/assets/arrow-left-small.svg'}
 				{{/ if }}
 				
 				%h1 {{ name }}
 
 				{{# if next}}
-				%a.next-arrow.next-arrow-medium-up{href: '/projects/{{ next.paths.name }}', title: '{{ next.name }}'}
-					%img{src: '/assets/arrow-right.svg'}
-				%a.next-arrow.next-arrow-small{href: '/projects/{{ next.paths.name }}', title: '{{ next.name }}'}
-					%img{src: '/assets/arrow-right-small.svg'}
+				%a.next-arrow.next-arrow-medium-up{:href => '/projects/{{ next.paths.name }}', :title => '{{ next.name }}'}
+					%img{:src => '/assets/arrow-right.svg'}
+				%a.next-arrow.next-arrow-small{:href => '/projects/{{ next.paths.name }}', :title => '{{ next.name }}'}
+					%img{:src => '/assets/arrow-right-small.svg'}
 				{{/ if }}
 
 				{{# if description }}
@@ -48,7 +50,7 @@
 				{{# if cover}}
 				.cover
 					{{# responsive_image cover }}
-					%img.imgix-fluid{'data-src': 'http://zek.imgix.net/{{ src }}?fm=jpg&q=70', width: '{{ width }}', height: '{{ height }}', src: '/assets/1by1.png'}
+					%img.imgix-fluid{'data-src' => 'http://zek.imgix.net/{{ src }}?fm=jpg&q=70', :width => '{{ width }}', :height => '{{ height }}', :src => '/assets/1by1.png'}
 					{{/ responsive_image }}
 				{{/ if }}
 
@@ -60,11 +62,11 @@
 				%h1.name
 					{{ name }}
 				.fb
-					%a{href: '#'} facebook
+					%a{:href => '#'} facebook
 				.tw
-					%a{href: '#'} twitter
+					%a{:href => '#'} twitter
 				.tu
-					%a{href: '#'} tumblr
+					%a{:href => '#'} tumblr
 			{{/ if }}
 
 			%section.related
@@ -73,13 +75,13 @@
 
 				{{# if previous }}
 				.prev-thumb
-					%a{href: '/projects/{{ previous.paths.name }}'}
+					%a{:href => '/projects/{{ previous.paths.name }}'}
 						%span.title
 							%span.meta Previous project
 							%span.name.equalize {{ previous.name }}
 						{{# responsive_image previous previous.thumbnail }}
 						.img
-							.imgix-fluid{'data-src': 'http://zek.imgix.net/{{ src }}'}
+							.imgix-fluid{'data-src' => 'http://zek.imgix.net/{{ src }}'}
 						{{/ responsive_image }}
 				{{ else }}
 				.prev-thumb
@@ -88,13 +90,13 @@
 
 				{{# if next}}
 				.next-thumb
-					%a{href: '/projects/{{ next.paths.name }}'}
+					%a{:href => '/projects/{{ next.paths.name }}'}
 						%span.title
 							%span.meta Next project
 							%span.name.equalize {{ next.name }}
 						{{# responsive_image next next.thumbnail }}
 						.img
-							.imgix-fluid{'data-src': 'http://zek.imgix.net/{{ src }}'}
+							.imgix-fluid{'data-src' => 'http://zek.imgix.net/{{ src }}'}
 						{{/ responsive_image }}
 				{{ else }}
 				.next-thumb

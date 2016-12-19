@@ -5,14 +5,17 @@
 
 		{{> head }}
 		
-		%title ZEK
+		%title {{ site.title }}
 
-		%meta{property: 'og:title', content: 'ZEK'}
-
-		%meta{property: 'og:description', content: "We're the ZEK Crew ;)"}
-		
-		%meta{property: 'og:image', content: 'http://{{ site.hostname }}/assets/facebook-cover.jpg'}
-
+		{{# if site.title }}
+		%meta{:property => 'og:title', :content => '{{ site.title }}'}
+		{{/ if }}
+		{{# if site.og_description }}
+		%meta{:property => 'og:description', :content => "{{ site.og_description }}"}
+		{{/ if }}
+		{{# if site.og_image }}
+		%meta{:property => 'og:image', :content => '{{ site.og_image }}'}
+		{{/ if }}
 	%body.home.page
 
 		#page

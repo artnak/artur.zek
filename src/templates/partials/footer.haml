@@ -1,14 +1,14 @@
 %footer
 	.links
 		{{# if site.facebook_url }}
-		%a.fb{href: '{{ site.facebook_url }}', title: '{{ site.facebook_title }}'}
+		%a.fb{:href => '{{ site.facebook_url }}', :title => '{{ site.facebook_title }}'}
 			%span facebook
 		{{/ if }}
 		{{# if site.email_address }}
-		%a.email{href: '{{ site.email_address }}', title: '{{ site.email_title }}'}
+		%a.email{:href => '{{ site.email_address }}', :title => '{{ site.email_title }}'}
 			%span email
 		{{/ if }}
 		{{# if site.instagram_url }}
-		%a.instagram{href: '{{ site.instagram_url}}', title: '{{ site.instagram_title }}'}
+		%a.instagram{:href => '{{ site.instagram_url}}', :title => '{{ site.instagram_title }}'}
 			%span instagram
 		{{/ if }}
