@@ -19,7 +19,8 @@ overwrite_images_with_local_paths = ->
 
 module.exports = ->
 	# If we're in production
-	if document.location.href.indexOf('localhost') == -1
+	# if document.location.href.indexOf('localhost') == -1
+	if false
 		# deploy imgix image replacement
 		imgix.onready ->
 			imgix.fluid
