@@ -29,4 +29,4 @@ add_winking_behaviour = ->
 module.exports = ->
 	if $('body').hasClass('home')
 		add_scroll_behaviour()
-		add_winking_behaviour()
+		# add_winking_behaviour()
