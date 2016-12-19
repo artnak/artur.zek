@@ -5,7 +5,7 @@ og_image: http://fi2.eu.apcdn.com/full/50598.jpg
 postscript: |
   Edit or delete this
 
-hostname: artnak-zek.netlify.com
+hostname: localhost:9080
 asset_host: artnak-zek.netlify.com
 
 facebook_url: https://www.facebook.com/themihaartnak

@@ -3,5 +3,5 @@
 # # # # # # # # # # # # # # #
 
 module.exports =
-	asset_host: 'zek.imgix.net'
-	hostname: 'static-zek.ljudje.si'
+	asset_host: 'artnak-zek.netlify.com'
+	hostname: 'localhost:9080'

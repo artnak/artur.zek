@@ -2,14 +2,15 @@
 # # # RESPONSIVE IMAGES # # #
 # # # # # # # # # # # # # # #
 
-imgix = require('imgix')
+# imgix = require('imgix')
 conf = require('./config')
 
 # Replace responsive images with local paths (development mode helper)
 overwrite_images_with_local_paths = ->
 	$('.imgix-fluid').each (i, el) ->
 		path = $(el).data('src')
-		path = path.replace("http://#{conf.asset_host}/", '/assets/projects/')
+		# path = path.replace("http://#{conf.asset_host}/", '/assets/projects/')
+		path = '/assets/projects/' + path
 		$(el).attr('data-src', path)
 		bkg_img = "url(#{path})"
 		if el.tagName == 'IMG'
