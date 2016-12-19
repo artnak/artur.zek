@@ -1,1 +1,1 @@
-Artur / ZEK a.k.a. The Miha Artnak is a human from Ljubljana, Slovenia. [More](https://docs.google.com/document/d/1459aaXcjh_6BWiiWjeBMQ4ff3uxMVn4Awb7PP1vg3aQ/)
+A R T U R / Z E K  a.k.a. The Miha Artnak is a human  [More](https://docs.google.com/document/d/1459aaXcjh_6BWiiWjeBMQ4ff3uxMVn4Awb7PP1vg3aQ/)
