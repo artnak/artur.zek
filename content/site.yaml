@@ -1,9 +1,12 @@
+title: Artur / ZEK
+og_description: Also known as The Miha Artnak
+og_image: http://fi2.eu.apcdn.com/full/50598.jpg 
+
 postscript: |
   Edit or delete this
 
-hostname: static-zek.ljudje.si
-
-asset_host: zek.imgix.net
+hostname: artnak-zek.netlify.com
+asset_host: artnak-zek.netlify.com
 
 facebook_url: https://www.facebook.com/themihaartnak
 facebook_title: Like Facebook page
@@ -11,3 +14,5 @@ email_address: miha@artnak.net
 email_title: Send email
 instagram_url: https://www.instagram.com/streets_artnak/
 instagram_title: Check Instagram
+
+analytics_id: UA-XXXXXX-X
