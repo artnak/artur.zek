@@ -4,6 +4,7 @@ thumbnail: thumb.png
 cover: foreword-artnak.jpg
 description: 
 order: 5000
+draft: true
 ---
 
 Typography is everywhere. In fact, everything is everywhere. All you have to do is pay attention. Imagination is boundless. However, there are some rules that apply in the infinite space. Once we attach the incessantly upgrading semantics to art theory, we can quickly recognize a face or a letter in a wall stain. The context and visual education, stemming from pictograms, silhouettes and basic shapes, both continue a never-ending story of the visual. One must not forget about the importance of cultural history and location. If we cannot see anything in the stain, it does not mean the same applies for someone from a different environment. When it comes to type, we are faced with an additional challenge, for it is never only about the visual knowledge, but also the knowledge on meaning and contents. In pages to come, I address type analysis, which I transform into shapes and back to letters. I have constructed a unique categorization system, for which I cannot claim to be universal. However, it does in fact make a great tool when exploring for ideas, because it saves time. I take on basic parts of the letter as well as the entire form; I add style or context, sometimes effects. This is of course display typography; it can be easily recognized from the expressive medium, but prior to that an expressive ego is sought for: the question of resolving the form.
