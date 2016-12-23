@@ -55,8 +55,8 @@ order: 4000
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 
-{{> img src="the-miha-artnak-tipografit-2.jpg"}}
-{{> img src="the-miha-artnak-tipografit-4.jpg" size="small"}}
+{{> img src="the-miha-artnak-tipografit-4.jpg"}}
+{{> img src="the-miha-artnak-tipografit-2.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> video_loop src="tipografit-artur-zek.mp4" frame="false" }}
@@ -71,35 +71,35 @@ order: 4000
 {{> img src="tipografiti-06.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="tipografiti-07.jpg" size="small"}}
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
-
 {{> img src="tipografiti-08.jpg" size="small"}}
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
+{{> img src="tipografiti-07.jpg" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} 
 	
 {{> img src="tipografiti-10.jpg" size="small"}}
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> img src="tipografiti-11.jpg" size="small"}}
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> img src="tipografiti-12.jpg" size="small"}}
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> img src="tipografiti-13.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="tipografiti-14.jpg" size="small"}}
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> img src="tipografiti-15.jpg" size="small"}}
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> img src="tipografiti-16.jpg" size="small"}}
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> img src="tipografiti-17.jpg" size="small"}}
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> img src="tipografiti-18.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }}

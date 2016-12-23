@@ -31,14 +31,17 @@ order: 1000
 {{> label title="Way far" description="mixed media, 2011" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+{{> img src="nike-the-miha-artnak-foto-tilen-sepic.jpg" size="small"}} 
+{{> label title="Nike" description="poster, 2005" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
 {{> img src="scream.jpg" }}
-{{> label title="Scream" description="print, 2007" }}
+{{> label title="Scream" description="print, 2004" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="stickers-artnak.JPG" size="small"}} 
-{{> label title="Stickers" description="sticker, 2005" }}
+{{> label title="Stickers" description="sticker, 2004" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
-
 
 
 

@@ -62,7 +62,7 @@ order: 9000
 {{> img src="rit-te-imam.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-{{> img src="dobra-volja-je-najbolja.jpg" }}
+{{> img src="dobra-volja-je-najbolja2.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> youtube id="7g2n824X0a8" }} 

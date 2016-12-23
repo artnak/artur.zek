@@ -2,13 +2,13 @@
 name: Flag of Earth
 thumbnail: flag-of-earth-02.jpg
 cover: flag-of-earth-02.jpg
-description: January 2013
+description: January, 2013
 order: 3000
 ---
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-In order to consider ourselves as one as a whole, instead of dividing us to us and to them, this was one of the attempts to reach that goal. It was one of new years resolutions in designing politics with Srđan Prodanović.
+In order to consider ourselves as humans, instead of dividing to us and them, this was one of the attempts to reach that goal. It was one of new years resolutions in designing politics with Srđan Prodanović.
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="flag-earth-sun-moon.jpg" size="small"}}
