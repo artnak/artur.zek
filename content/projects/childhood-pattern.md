@@ -28,7 +28,7 @@ It was the summer of 2011 and Slovenian artist The Miha Artnak went on doing a g
 
 {{> vimeo id="39790215" }}
 {{ spacer }} {{ spacer }} {{ spacer }} 
-{{> label title="Childhood Pattern" description="Directors: The Miha Artnak, Tilen Sepič; Writer and actor: The Miha Artnak; Video production: Tilen Sepič; Mix: žakpižon; Mix for trailer by Felis Catus; Sound: Peter Žargi; Photography: Ada Hamza; Translation: Nika Jurman; Runtime: 15 min (approx.); Color: Color (HD); Country: Slovenia; Language: Slovenian (English Subtitles); Year: 2012; Also Known As: Vzorec iz otroštva" }}
+{{> label title="Childhood Pattern" description="Directors: The Miha Artnak, Tilen Sepič / Writer and actor: The Miha Artnak / Video production: Tilen Sepič / Mix for movie: žakpižon / Mix for trailer: Felis Catus / Sound: Peter Žargi / Photography: Ada Hamza / Translation: Nika Jurman / Runtime: 15 min (approx.); Color: Color (HD); Country: Slovenia; Language: Slovenian (English Subtitles); Year: 2012; Also Known As: Vzorec iz otroštva" }}
 
 {{ spacer }}             
 

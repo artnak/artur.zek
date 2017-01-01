@@ -48,11 +48,13 @@ order: 11000
 
 {{> img src="zajc.jpg" size="small" }}
 
-{{> img src="zajci.jpg" size="small" }}
-
 {{> img src="zajca-zaloska.jpg" size="small" }}
 
+{{> img src="zajci.jpg" size="small" }}
+
 {{> img src="zajci-zaloska.jpg" size="small" }}
+
+{{> img src="zajc-fluo.jpg" size="small" }}
 
 {{> img src="zajc-benetke.jpg" size="small" }}
 

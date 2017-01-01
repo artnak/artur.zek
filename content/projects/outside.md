@@ -8,11 +8,13 @@ order: 999
 
 {{> img src="srna-Tine-Lindic.jpg" size="small"}}
 {{> label title="Dead Santa" description="December, 2015" }}
+{{> label title="" description="Photo: Nika Jurman, Tine Lindič" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="dobrodosli.jpg" }}
 {{> youtube id="jk4ZJ8GDj_I" }} 
-{{> label title="أهلاً و سهلاً" description="mixed media, 2015" }}
+{{> label title="أهلاً و سهلاً" description="wood, paint, 2015" }}
+{{> label title="" description="With friends from Metlika" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="newmsg.jpg" }}
@@ -21,6 +23,11 @@ order: 999
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F990461967648526%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 {{> label title="New Message" description="mixed media, 2014" }}
+{{> label title="" description="With Urša de Reya and Andraž Tarman / Photo: Tilen Sepič / Installation art made for Sodobni obrazi Emone / Project managers: Damijana Slabe and Nadja Ocepek with help of: Katarina Bobek, Katarina Žagar, Alja Fir, Anja Tomažič, ZVKDS / emonec.com" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> vimeo id="54765173" }}
+{{> label title="Heads or Tails" description="stencil, 2013" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="panda-orka.jpg" }}
@@ -30,20 +37,19 @@ order: 999
 {{> img src="cat-chase.jpg" }}
 {{> img src="cat-chase2.jpg" size="small"}}
 {{> label title="Cat to the Chase" description="stencil, 2012" }}
+{{> label title="" description="Photo: Lucijan Kranjc" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="chase.jpg" }}
 {{> img src="chase2.jpg" size="small"}}
 {{> label title="The Chase" description="stencil, 2011" }}
+{{> label title="" description="Photo: Matevž Paternoster" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> vimeo id="54765173" }}
-{{> label title="Heads or Tails" description="stencil, 2013" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="pattern.jpg" }}
-{{> img src="pattern2.jpg" size="small"}}
-{{> label title="Childhood Pattern" description="making of, 2011" }}
+{{> img src="pattern-plakat.jpg" size="small"}}
+{{> label title="Childhood Pattern" description="[more here](http://artur.zekcrew.com/projects/childhood-pattern), 2011" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="lovka.jpg" }}
@@ -55,14 +61,17 @@ order: 999
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 {{> img src="lovka2.jpg" size="small"}}
-{{> label title="Plastic Bag Monster" description="mixed media, 2011" }}
+{{> label title="Plastic Bag Monster" description="mixed media, 2010-2011" }}
+{{> label title="" description="With Ekologi Brez Meja, Lukatarina, Nataša Zuljan and Eco Vitae / Kongresni trg, Ljubljana, November 2010, BTC, Ljubljana, April 2011, Europese commissie, Brussels, May 2011, Luka Koper, June 2011 / Photo: Vladimir&vladimir, Žiga Šmidovnik" }}
 
 In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from kindergardens, primary schools, high schools, faculties and random people from Ljubljana to build a plastic bag monster.
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="rise.jpg" }}
-{{> img src="rise3.jpg" size="small"}}
-{{> label title="The Rise of the Fall" description="mixed media, 2011" }}
+{{> img src="rise3.jpg" }}
+{{> img src="rise4.jpg" size="small"}}
+{{> video_loop src="rise.mp4" frame="false" }}
+{{> label title="Pomlad je sen zime / The Rise of the Fall" description="mixed media, 2011" }}
+{{> label title="" description="With Andraž Tarman and Erik Vidmar (Tisa) / Photo: Tilen Sepič, Matjaž Tančič" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="lie3.jpg" }}
@@ -72,7 +81,7 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="city.jpg" }}
-{{> label title="Citynight" description="paint, 2011" }}
+{{> label title="Spoznavanje narave družbe / Nature of Society" description="paint, 2011" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="train2.jpg" }}
