@@ -16,6 +16,9 @@ order: 9000
 {{> youtube id="sv9DqiYX23A" }} 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
+{{> img src="ms-universe.jpg" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
 {{> img src="education-artnak.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} 
 

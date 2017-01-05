@@ -57,6 +57,9 @@ order: 6000
 {{> img src="starship.jpg" size="small" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+{{> img src="kozarec.png" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
 {{> img src="3.jpg" size="small"}}
 {{ spacer }} {{ spacer }} 
 
