@@ -1,5 +1,5 @@
 ---
-name: €100
+name: 100€
 thumbnail: tozba1.jpg
 cover: tozba1.jpg
 description: 

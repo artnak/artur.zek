@@ -24,7 +24,7 @@ In order to consider ourselves as humans, instead of dividing to us and them, th
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> label title="Next stop:" description="Mars" }}
-{{> img src="earth-mars.png" }}
+{{> img src="flag-of-mars.jpg" size="small"}}
 
 
 

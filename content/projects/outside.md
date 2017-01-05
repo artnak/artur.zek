@@ -1,6 +1,6 @@
 ---
 name: Outside
-thumbnail: cat-chase.jpg
+thumbnail: outside-thumb.jpg
 cover: bozicek5.jpg
 description:
 order: 999
@@ -20,7 +20,7 @@ order: 999
 {{> img src="newmsg.jpg" }}
 {{> img src="newmsg2.jpg" size="small"}}
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F990461967648526%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+## <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F990461967648526%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 {{> label title="New Message" description="mixed media, 2014" }}
 {{> label title="" description="With Urša de Reya and Andraž Tarman / Photo: Tilen Sepič / Installation art made for Sodobni obrazi Emone / Project managers: Damijana Slabe and Nadja Ocepek with help of: Katarina Bobek, Katarina Žagar, Alja Fir, Anja Tomažič, ZVKDS / emonec.com" }}

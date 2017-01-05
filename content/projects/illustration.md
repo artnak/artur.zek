@@ -9,6 +9,9 @@ order: 6000
 {{> img src="tigr.png" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+{{> img src="volk.png" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
 {{> img src="spike.png" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
@@ -27,7 +30,7 @@ order: 6000
 {{> img src="pujsi.png" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="pujs.jpg" size="small"}}
+{{> img src="pujs.jpg"}}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="flaviar.png" }}
@@ -54,25 +57,25 @@ order: 6000
 {{> img src="starship.jpg" size="small" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="1.jpg" size="small"}}
-{{ spacer }} {{ spacer }} 
-
-{{> img src="2.jpg" size="small"}}
-{{ spacer }} {{ spacer }} 
-
 {{> img src="3.jpg" size="small"}}
 {{ spacer }} {{ spacer }} 
 
 {{> img src="5.jpg" size="small"}}
 {{ spacer }} {{ spacer }} 
 
-{{> img src="6.jpg" size="small"}}
+{{> img src="8.jpg" size="small"}}
+{{ spacer }} {{ spacer }} 
+
+{{> img src="1.jpg" size="small"}}
+{{ spacer }} {{ spacer }} 
+
+{{> img src="2.jpg" size="small"}}
 {{ spacer }} {{ spacer }} 
 
 {{> img src="7.jpg" size="small"}}
-{{ spacer }} {{ spacer }} 
+{{ spacer }} {{ spacer }}
 
-{{> img src="8.jpg" size="small"}}
+{{> img src="6.jpg" size="small"}}
 {{ spacer }} {{ spacer }} 
 
 {{> img src="goldfish.png" }}

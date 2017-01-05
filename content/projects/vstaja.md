@@ -14,7 +14,7 @@ order: 10000
 {{> youtube id="6f3js-xlxlc" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-Podaril sem del vizualne podobe ljudskim vstajam ob izražanju nezadovoljstva nad vlado in stanjem v Sloveniji. Nič nismo dosegli in zato ne more biti še konec. Se vidimo spet kmalu.
+Podaril sem del vizualne podobe ljudskim vstajam ob izražanju nezadovoljstva nad vlado in stanjem v Sloveniji.
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="pest-vstaja.jpg" size="small"}}
