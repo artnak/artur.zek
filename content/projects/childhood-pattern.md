@@ -46,4 +46,8 @@ It was the summer of 2011 and Slovenian artist The Miha Artnak went on doing a g
 
 {{> img src="the-miha-artnak-childhood-pattern-03.jpg" }}
 
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
+{{> img src="artnak-miha-erjavec.jpg" }}
+{{> label title="Mini-spraycan-photography-object" description="by Miha Erjavec" }}
 
