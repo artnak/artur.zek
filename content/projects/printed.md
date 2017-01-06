@@ -10,6 +10,10 @@ order: 1000
 {{> label title="I want to believe" description="Ljubljana, 2016" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+{{> img src="artur-razteg.jpg" size="small"}}
+{{> label title="Artur / ZEK" description="Ljubljana, 2016" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
 {{> img src="iraq.jpg" size="small"}}
 {{> label title="Iraq" description="Ljubljana, 2011" }}
 {{> label title="" description="With Tibor Kranjc" }}
@@ -20,16 +24,16 @@ order: 1000
 {{> label title="Layers" description="stickers, 2010" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+{{> img src="sunglasses.jpg" }}
+{{> label title="Way far" description="mixed media, 2012 - 2017" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
 {{> img src="hole.jpg" size="small"}}
 {{> label title="Hole" description="sticker, 2010" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="leon.jpg" size="small" }}
 {{> label title="Chameleon" description="transparent sticker, 2007" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
-
-{{> img src="sunglasses.jpg" size="small"}}
-{{> label title="Way far" description="mixed media, 2011" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="nike-the-miha-artnak-foto-tilen-sepic.jpg" size="small"}} 
