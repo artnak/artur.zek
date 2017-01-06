@@ -4,6 +4,7 @@ thumbnail: zek-neznan-avtor.jpg
 cover: vcasih-je-super-men-vcasih-je-bed-men.jpg
 description:
 order: 9000
+draft: true
 ---
 
 {{ spacer }} {{ spacer }} {{ spacer }} 

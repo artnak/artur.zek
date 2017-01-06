@@ -4,6 +4,7 @@ thumbnail: flag-of-earth-02.jpg
 cover: flag-of-earth-02.jpg
 description: January, 2013
 order: 3000
+draft: true
 ---
 
 {{ spacer }} {{ spacer }} {{ spacer }}
