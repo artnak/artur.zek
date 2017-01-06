@@ -6,7 +6,7 @@ postscript: |
   <center> <b>A R T U R / Z E K </b>  a.k.a. [The Miha Artnak](https://docs.google.com/document/d/1vJw2Uhh4Qugvt0ww_UMp3mLEAjIte-bwdVyVCOPMQLY/edit?usp=sharing) is a [human](http://people.ooo)</small> </center> 
 
 hostname: localhost:9080
-asset_host: artnak-zek.netlify.com
+asset_host: artur.netlify.com
 
 facebook_url: https://www.facebook.com/themihaartnak
 facebook_title: Like Facebook page
