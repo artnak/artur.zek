@@ -4,7 +4,6 @@ thumbnail: zek-neznan-avtor.jpg
 cover: vcasih-je-super-men-vcasih-je-bed-men.jpg
 description:
 order: 9000
-draft: true
 ---
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
@@ -15,9 +14,6 @@ draft: true
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> youtube id="sv9DqiYX23A" }} 
-{{ spacer }} {{ spacer }} {{ spacer }} 
-
-{{> img src="ms-universe.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> img src="education-artnak.jpg" size="small"}}
@@ -55,6 +51,9 @@ draft: true
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> img src="kroznik-klobuk.jpg" }}
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
+{{> img src="ms-universe.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> img src="najlepse-mesto-na-skretu.jpg" size="small" }}

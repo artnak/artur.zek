@@ -9,7 +9,9 @@ draft: true
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-In order to consider ourselves as humans, instead of dividing to us and them, this was one of the attempts to reach that goal. It was one of new years resolutions in designing politics with Srđan Prodanović.
+In order to consider ourselves as humanity, instead of us and them, this was one of the attempts to reach that goal. It was one of new years resolutions in designing politics.
+
+Flag of Earth was made by Miha Artnak and Srđan Prodanović.
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="flag-earth-sun-moon.jpg" size="small"}}
