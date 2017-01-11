@@ -48,6 +48,11 @@ It was the summer of 2011 and Slovenian artist The Miha Artnak went on doing a g
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
+{{> img src="prosnja.jpg" size="small"}}
+{{> label title="Unofficial application for spraying on the wall" description="2011" }}
+
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
 {{> img src="artnak-miha-erjavec.jpg" }}
 {{> label title="Mini-spraycan-photography-object" description="by Miha Erjavec" }}
 
