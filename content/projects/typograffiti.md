@@ -4,7 +4,6 @@ thumbnail: artur-oranzen1.png
 cover: artur-oranzen.png
 description: 
 order: 4000
-draft: true
 ---
 {{ spacer }} {{ spacer }} {{ spacer }}{{ spacer }} 
 {{> img src="oval-trikot-artur-2016.jpg" size="small"}}
