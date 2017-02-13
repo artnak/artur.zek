@@ -9,7 +9,13 @@ order: 6000
 {{> img src="tigr.png" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+{{> img src="1tigerpanter.png" }}
+
+{{> img src="1zmajsneg.png" }}
+
 {{> img src="volk.png" }}
+
+{{> img src="1jelena.png" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="spike.png" }}
@@ -31,6 +37,10 @@ order: 6000
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="pujs.jpg"}}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{ spacer }} {{ spacer }} {{ spacer }}
+{{> img src="2zima.png" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="flaviar.png" }}
@@ -90,7 +100,7 @@ order: 6000
 {{> img src="pinkpanter.png" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="delfin.png" }}
+{{> img src="delfin.png" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="palcek.png" size="small" }}
