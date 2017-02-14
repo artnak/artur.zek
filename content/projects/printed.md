@@ -6,7 +6,7 @@ description:
 order: 1000
 ---
 
-{{> img src="truth.jpg" }}
+{{> img src="truth1.jpg" }}
 {{> label title="I want to believe" description="Ljubljana, 2016" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
