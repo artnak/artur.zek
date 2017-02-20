@@ -7,12 +7,19 @@ order: 999
 ---
 
 {{> img src="srna-Tine-Lindic.jpg" size="small"}}
+
+<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1198587140169340.1073741829.194900877204643%26type%3D3&width=500" width="500" height="626" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
+
 {{> label title="Dead Santa" description="December, 2015" }}
 {{> label title="" description="Photo: Nika Jurman, Tine Lindič" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="dobrodosli.jpg" }}
-{{> youtube id="jk4ZJ8GDj_I" }} 
+
+{{> youtube id="wZnL5_w-DyM" }} 
+
+<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fposts%2F1150390351655686&width=500" width="500" height="626" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
+
 {{> label title="أهلاً و سهلاً" description="wood, paint, 2015" }}
 {{> label title="" description="With friends from Metlika" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
@@ -20,7 +27,7 @@ order: 999
 {{> img src="newmsg.jpg" }}
 {{> img src="newmsg2.jpg" size="small"}}
 
-## <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F990461967648526%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<h2> <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F990461967648526%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe> </h2>
 
 {{> label title="New Message" description="mixed media, 2014" }}
 {{> label title="" description="With Urša de Reya and Andraž Tarman / Photo: Tilen Sepič / Installation art made for Sodobni obrazi Emone / Project managers: Damijana Slabe and Nadja Ocepek with help of: Katarina Bobek, Katarina Žagar, Alja Fir, Anja Tomažič, ZVKDS / emonec.com" }}
@@ -42,6 +49,8 @@ order: 999
 
 {{> img src="chase.jpg" }}
 {{> img src="chase2.jpg" size="small"}}
+<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150781551647700%2F%3Ftype%3D3&width=500" width="500" height="443" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
+
 {{> label title="The Chase" description="stencil, 2011" }}
 {{> label title="" description="Photo: Matevž Paternoster" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
@@ -54,10 +63,10 @@ order: 999
 
 {{> img src="lovka.jpg" }}
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-type="article-full"><h4><a href="https://www.theguardian.com/environment/2013/nov/04/plastic-bag-charge-ban-europe">Plastic bag charge or ban 'could cut use in Europe by 80%'</a></h4><p>European Union member states could cut their plastic bag use by 80%, the European commission has said, by charging for bags or even banning them. Plastic bags are a major cause of seaborne pollution, which is a serious hazard for marine life, and some regions have already moved to cut their use through charging.</p></blockquote>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="https://www.theguardian.com/environment/2013/nov/04/plastic-bag-charge-ban-europe">Plastic bag charge or ban 'could cut use in Europe by 80%'</a></h4><p>European Union member states could cut their plastic bag use by 80%, the European commission has said, by charging for bags or even banning them. Plastic bags are a major cause of seaborne pollution, which is a serious hazard for marine life, and some regions have already moved to cut their use through charging.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-type="article-full"><h4><a href="http://www.epochtimes.com/gb/11/6/18/n3289609.htm">塑料艺术妙手创作 欧盟楼前"怪兽"警世 - 大纪元</a></h4><p>（大纪元记者李孜布鲁塞尔采访报导）欧盟（执行）委员会位于布鲁塞尔的总部大楼是人们一向认为安全戒备比较森严的地方。近日，一个由塑料垃圾袋做成的怪兽状的"艺术品"被摆放在欧盟总部大楼的大门口，让人们吃惊不小，成为了一道特别的风景线。这件作品的作...</p></blockquote>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="http://www.epochtimes.com/gb/11/6/18/n3289609.htm">塑料艺术妙手创作 欧盟楼前"怪兽"警世 - 大纪元</a></h4><p>（大纪元记者李孜布鲁塞尔采访报导）欧盟（执行）委员会位于布鲁塞尔的总部大楼是人们一向认为安全戒备比较森严的地方。近日，一个由塑料垃圾袋做成的怪兽状的"艺术品"被摆放在欧盟总部大楼的大门口，让人们吃惊不小，成为了一道特别的风景线。这件作品的作...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 {{> img src="lovka2.jpg" size="small"}}
@@ -81,6 +90,8 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="city.jpg" }}
+{{> vimeo id="36658502" }}
+<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150782796542700%2F%3Ftype%3D3&width=500" width="500" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
 {{> label title="Spoznavanje narave družbe / Nature of Society" description="paint, 2011" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
@@ -96,8 +107,8 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 {{> img src="lokal.jpg" size="small"}}
 {{> label title="Global" description="posters, 2007" }}
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="http://www.mladina.si/media/www/slike.old/mladina/mglobal.jpg" data-card-type="article"><h4><a href="http://www.mladina.si/49813/umik-tozbe-za-70-000-evrov/">Umik tožbe za 70.000 evrov | MLADINA.si</a></h4><p>Ko je oktobra 2007 zaradi nasilja varnostnikov pred ljubljanskim klubom Global umrl 20-letni Gorazd Čamernik, je tragični dogodek spodbudil številne odzive.</p></blockquote>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="https://beta3.finance.si//pics//cache_gl/global.1192620080.JPG" data-card-type="article-full"><h4><a href="https://www.finance.si/208587/Tozba-zaradi-zlorabe-znaka-Global">Tožba zaradi zlorabe znaka Global</a></h4><p>Zaradi zlorabe znaka diskoteke Global, podjetje Nad mestom zahteva 70 tisoč evrov odškodnine, v Liberalni akademiji ocenjujejo, da je tožba "privlečena za lase" Najemnik diskoteke Global podjetje Nad mestom je pred dvema mesecema vložilo tožbo proti Liberalni akademiji (LA) zaradi zlorabe znaka diskoteke Global.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-
-
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="http://www.mladina.si/media/www/slike.old/mladina/mglobal.jpg" data-card-type="article"><h4><a href="http://www.mladina.si/49813/umik-tozbe-za-70-000-evrov/">Umik tožbe za 70.000 evrov | MLADINA.si</a></h4><p>Ko je oktobra 2007 zaradi nasilja varnostnikov pred ljubljanskim klubom Global umrl 20-letni Gorazd Čamernik, je tragični dogodek spodbudil številne odzive.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
