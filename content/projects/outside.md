@@ -89,7 +89,7 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 {{> label title="Laž" description="spray, 2013" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="city.jpg" }}
+{{> img src="canaria.jpg" }}
 {{> vimeo id="36658502" }}
 <h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150782796542700%2F%3Ftype%3D3&width=500" width="500" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
 {{> label title="Spoznavanje narave družbe / Nature of Society" description="paint, 2011" }}

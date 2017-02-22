@@ -2,8 +2,9 @@
 name: Flag of Earth
 thumbnail: flag-of-earth-02.jpg
 cover: flag-of-earth-02.jpg
-description: January, 2013
+description: We're all from planet Earth
 order: 3000
+draft: true
 ---
 
 {{ spacer }} {{ spacer }} {{ spacer }}
