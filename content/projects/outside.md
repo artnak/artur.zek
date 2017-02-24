@@ -14,7 +14,7 @@ order: 999
 {{> label title="" description="Photo: Nika Jurman, Tine Lindič" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="dobrodosli.jpg" }}
+{{> img src="dobrodosli2.jpg" }}
 
 {{> youtube id="wZnL5_w-DyM" }} 
 
@@ -24,7 +24,7 @@ order: 999
 {{> label title="" description="With friends from Metlika" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="newmsg.jpg" }}
+{{> img src="newmsg3.jpg" }}
 {{> img src="newmsg2.jpg" size="small"}}
 
 <h2> <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F990461967648526%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe> </h2>
@@ -41,13 +41,13 @@ order: 999
 {{> label title="Black & White" description="stencil, 2013" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="cat-chase.jpg" }}
+{{> img src="cat-chase3.jpg" }}
 {{> img src="cat-chase2.jpg" size="small"}}
 {{> label title="Cat to the Chase" description="stencil, 2012" }}
 {{> label title="" description="Photo: Lucijan Kranjc" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="chase.jpg" }}
+{{> img src="chase3.jpg" }}
 {{> img src="chase2.jpg" size="small"}}
 <h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150781551647700%2F%3Ftype%3D3&width=500" width="500" height="443" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
 
@@ -56,12 +56,12 @@ order: 999
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 
-{{> img src="pattern.jpg" }}
+{{> img src="pattern3.jpg" }}
 {{> img src="pattern-plakat.jpg" size="small"}}
 {{> label title="Childhood Pattern" description="[more here](http://artur.zekcrew.com/projects/childhood-pattern), 2011" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="lovka.jpg" }}
+{{> img src="lovka3.jpg" }}
 
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="https://www.theguardian.com/environment/2013/nov/04/plastic-bag-charge-ban-europe">Plastic bag charge or ban 'could cut use in Europe by 80%'</a></h4><p>European Union member states could cut their plastic bag use by 80%, the European commission has said, by charging for bags or even banning them. Plastic bags are a major cause of seaborne pollution, which is a serious hazard for marine life, and some regions have already moved to cut their use through charging.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -78,7 +78,10 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 
 {{> img src="rise3.jpg" }}
 {{> img src="rise4.jpg" size="small"}}
-{{> video_loop src="rise.mp4" frame="false" }}
+
+ <div class="tumblr"> <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/NTXyjC-zGfvoFK6m4C6QsA/17803253941" data-did="ea824d98681bff6d71deea5cd98246a4c7f09549"><a href="http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall">http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall</a></div>  <script async src="https://assets.tumblr.com/post.js"></script> </div>
+
+{{ spacer }}
 {{> label title="Pomlad je sen zime / The Rise of the Fall" description="mixed media, 2011" }}
 {{> label title="" description="With Andraž Tarman and Erik Vidmar (Tisa) / Photo: Tilen Sepič, Matjaž Tančič" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
@@ -89,7 +92,7 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 {{> label title="Laž" description="spray, 2013" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="canaria.jpg" }}
+{{> img src="canaria2.jpg" }}
 {{> vimeo id="36658502" }}
 <h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150782796542700%2F%3Ftype%3D3&width=500" width="500" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
 {{> label title="Spoznavanje narave družbe / Nature of Society" description="paint, 2011" }}
