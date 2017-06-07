@@ -1,16 +1,24 @@
 ---
 name: Works
 thumbnail: what-right-zek.jpg
-cover: misice.jpg
+cover: dead-captain-planet.jpg
 description:
 order: 2000
 ---
 
-{{> label title="The Miha Artnak: Mišice in misice / Lost Lust" description="mannequins, 2016" }}
+{{> label title="The Miha Artnak: Dead Captain Planet" description="print on paper, 2017" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="inner-battles-ape.jpg" }}
+{{> label title="The Miha Artnak: Inner Battles of an Ape" description="print on paper, 2017" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="prosimo.jpg" }}
 {{> label title="The Miha Artnak: Please, take the money" description="print on paper, 2016" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="misice.jpg" }}
+{{> label title="The Miha Artnak: Mišice in misice / Lost Lust" description="mannequins, 2016" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="milka-1.jpg"}}

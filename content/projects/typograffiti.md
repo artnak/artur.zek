@@ -1,12 +1,43 @@
 ---
 name: Typograffiti
-thumbnail: artur-oranzen1.png
+thumbnail: artur-throwup.png
 cover: artur-oranzen.png
 description: 
 order: 4000
 ---
 {{ spacer }} {{ spacer }} {{ spacer }}{{ spacer }} 
-{{> img src="oval-trikot-artur-2016.jpg" size="small"}}
+
+{{> img src="artur-heman.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="artur-best.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="artur-turkiz.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="artur-rain.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="artur-spider.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="artur-rock.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="artur-palcke.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="artur-bezier.JPG" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="artur-samurai.JPG" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="artur-storm.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="artur-city.png" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="tanek-artur-2016.jpg" size="small"}}

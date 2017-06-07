@@ -1,12 +1,19 @@
 ---
 name: Illustration
 thumbnail: pujsi.png
-cover: panter.png
+cover: bull.png
 description: 
 order: 6000
 ---
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="skeletor.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
 {{> img src="tigr.png" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="panter.png" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="1tigerpanter.png" }}
@@ -15,10 +22,10 @@ order: 6000
 
 {{> img src="volk.png" }}
 
-{{> img src="1jelena.png" size="small"}}
+{{> img src="spike.png" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="spike.png" }}
+{{> img src="pocesalnica.png" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="ropar.png" size="small"}}
