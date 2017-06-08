@@ -13,6 +13,10 @@ order: 2000
 {{> label title="The Miha Artnak: Inner Battles of an Ape" description="print on paper, 2017" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+{{> img src="dead-goldfish.jpg" }}
+{{> label title="The Miha Artnak: No more wishes" description="print on paper, 2016" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
 {{> img src="prosimo.jpg" }}
 {{> label title="The Miha Artnak: Please, take the money" description="print on paper, 2016" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
