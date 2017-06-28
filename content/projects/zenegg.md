@@ -14,6 +14,10 @@ This was our first crowdfunding end-to-end campaign we built - from idea to sust
 
 {{ spacer }}
 
+{{> img src="youtube_comment.png" size="small"}}
+
+{{ spacer }}
+
 ## Product Design: How a random sketch started a new chapter
 
 Gašper Premože is a brilliant product designer, with more than 10 years of experience in designing products. One day he was asked to do a massage product for a client where he included a wooden egg in one of his presentations. This idea seemed a bit out of the ordinary and didn’t match the brief. But he stayed up all night thinking there is something more to this. Leftover sketches started to blossom into a whole new concept.
@@ -36,6 +40,7 @@ The next step was even more important - the community. Building a community is t
 
 We had a launch event in our coworking space (Poligon, Ljubljana). That set an introduction to our story and the media did a piece about us. That's not enough off course. We had to continue trending. 29 days left of campaigning.
 
+{{ spacer }}
 {{> img src="wallpaper.jpg"}}
 
 
@@ -53,9 +58,14 @@ Which brings us to video - the most important component for our communication. W
 
 
 The production line's cost was around $2000 and we didn’t want to set our goal higher than that. It would appear greedy. Although in case of only reaching that goal, our team would lose $20.000 spent in services (research, product design, branding, video, communication, management). That’s the risk we took as a crew. It was also a good time to test our hypothesis. It went even better than we expected because Gašper truly is a genuine character.
+
 {{ spacer }}
 
-## ReadMe: It won't work without reasonable price, well built community & clear value propositons.
+## The Plan
+
+{{> img src="ZenEgg1.jpg"size="small"}}
+
+# It won't work without a reasonable price, supportive community & clear value propositons.
 {{ spacer }}
 
 {{> img src="infografika.jpg"}}
@@ -82,6 +92,3 @@ Today, ZenEgg is an online business searching for the right retailers to expand.
 Gašper's unique expression and our early communication had it's flaws but we'd just like to say that Gašper is a calm, meditating dude. His appearance is truthful and so is his product. ZenEgg is a collectable totem just like the fidget spinner. Only it's a wooden egg that looks nice. And has a pleasant smell.
 
 We usually collect pretty things because we're fond of aesthetics. The objects around us evoke memories or feelings. Instead of just looking at it as a cheap marketing trick, Gašper's product just wants to remind us of the philosophy of peace and self respect. That's his story. And we think it's admirable. 
-
-
-{{> img src="youtube_comment.png" size="small"}}
