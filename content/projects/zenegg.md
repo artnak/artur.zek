@@ -61,12 +61,7 @@ The production line's cost was around $2000 and we didn’t want to set our goal
 
 {{ spacer }}
 
-## The Plan
-
 {{> img src="ZenEgg1.jpg"size="small"}}
-
-# It won't work without a reasonable price, supportive community & clear value propositons.
-{{ spacer }}
 
 {{> img src="infografika.jpg"}}
 
