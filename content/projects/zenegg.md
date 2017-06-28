@@ -55,9 +55,14 @@ Which brings us to video - the most important component for our communication. W
 The production line's cost was around $2000 and we didn’t want to set our goal higher than that. It would appear greedy. Although in case of only reaching that goal, our team would lose $20.000 spent in services (research, product design, branding, video, communication, management). That’s the risk we took as a crew. It was also a good time to test our hypothesis. It went even better than we expected because Gašper truly is a genuine character.
 {{ spacer }}
 
+## ReadMe: It won't work without reasonable price, well built community & clear value propositons.
+{{ spacer }}
+
 {{> img src="infografika.jpg"}}
 
 {{ spacer }}
+
+
 
 ## Post-campaign: It's not over until you deliver all the pre-orders
 
@@ -74,9 +79,9 @@ Today, ZenEgg is an online business searching for the right retailers to expand.
 ## That feels gud-to touch. And... it has a pleasant smell
 {{ spacer }}
 
-Gašper's unique expression and our early communication had it's flaws. Video on Youtube exposes our failure and puts Gašper's in an akward position. We understand the value of the critique and are aware of the cynical's point of the view but we'd just like to add that Gašper really is a calm, meditating dude. His appearance is truthful and so is his product. He's actually a really nice guy. ZenEgg is a collectable totem just like fidget spinner. It's a wooden egg that looks nice. And has a pleasant smell.
+Gašper's unique expression and our early communication had it's flaws but we'd just like to say that Gašper is a calm, meditating dude. His appearance is truthful and so is his product. ZenEgg is a collectable totem just like the fidget spinner. Only it's a wooden egg that looks nice. And has a pleasant smell.
 
-We collect pretty things because we are fond of aesthetics. The objects around us evoke memories. Instead of just looking at it as a cheap marketing trick, Gašper's product just want to remind us of the philosophy of peace and self respect. That's his story. And we think it's admirable. 
+We usually collect pretty things because we're fond of aesthetics. The objects around us evoke memories or feelings. Instead of just looking at it as a cheap marketing trick, Gašper's product just wants to remind us of the philosophy of peace and self respect. That's his story. And we think it's admirable. 
 
 
 {{> img src="youtube_comment.png" size="small"}}
