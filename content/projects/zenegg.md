@@ -4,6 +4,7 @@ thumbnail: bela.png
 cover: ZenEgg.jpg
 description: The advantages of knowing the marketplace
 order: 13000
+draft: true
 ---
 
 We have a lot of experience with crowdfunding campaigns and helped many crowdfunders to surpass their goals ($1M till date) but we never owned any of their products or even helped them build it from scratch. We were always hired solely to focus on design and communication. That all changed when Gašper came into our lives.

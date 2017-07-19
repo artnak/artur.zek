@@ -42,7 +42,7 @@ On January, 2013 we separately drew what we thought was the logical visual repre
 {{ spacer }} 
 
 
-# “In order to consider ourselves as humanity, instead of us and them, this was one of the attempts to reach that goal. It was one of new year’s resolutions in designing politics with Srdjan. Eventually everyone should use the symbol. The goal is united love, but we’ll see what will it stand for in the future. Will it reflect our victory or our failure as humankind? The project is still in development.”
+# “In order to consider ourselves as humanity, instead of us and them, this was one of the attempts to reach that goal. It was one of new year’s resolutions in designing politics. Eventually everyone should use the symbol. The goal is united love, but we’ll see what will it stand for in the future. Will it reflect our victory or our failure as humankind? The project is still in development.”
 ## Miha Artnak 
 
 {{ spacer }} 
