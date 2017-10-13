@@ -131,7 +131,9 @@ I continued with the research and designed it into a system. This article was pu
 
 # Resources
 
+This is an open-source project so we put the open files online. You can also buy the flag here (150x100cm). We will print it out for you and send it to your address.
 
+{{> img src="resources.jpg" size="small"}}
 
 <script data-fatsell="flag" src="https://fatsell.com/embed/flag.js"></script>
 
@@ -148,7 +150,7 @@ I continued with the research and designed it into a system. This article was pu
 	</div>
 </div>
 
-This is an open-source project. We put the open files online. You can download the [flag.pdf](https://www.dropbox.com/s/xwdakz451nragfz/zastava-tisk.pdf?dl=0) or you can buy the flag (150x100cm). 
+
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 
