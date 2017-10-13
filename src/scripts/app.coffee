@@ -1,4 +1,6 @@
 $                = require('jquery')
+$.easing.def     = 'linear' # Fatsell support
+
 foundation       = require('foundation')
 
 responsive_img   = require('./responsive_img')
