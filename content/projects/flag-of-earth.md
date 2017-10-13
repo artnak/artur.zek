@@ -136,7 +136,7 @@ I continued with the research and designed it into a system. This article was pu
 
 <script data-fatsell="flag" src="https://fatsell.com/embed/flag.js"></script>
 
-This is an open-source project. We put the open files online. You can download the flag.pdf or you can buy the flag (60x120cm). 
+This is an open-source project. We put the open files online. You can download the [flag.pdf](https://www.dropbox.com/s/xwdakz451nragfz/zastava-tisk.pdf?dl=0) or you can buy the flag (150x100cm). 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 
