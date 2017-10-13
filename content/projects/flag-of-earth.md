@@ -132,9 +132,21 @@ I continued with the research and designed it into a system. This article was pu
 # Resources
 
 
-{{> img src="download_or_buy.jpg" size="small"}}
 
 <script data-fatsell="flag" src="https://fatsell.com/embed/flag.js"></script>
+
+<div style="margin: -3rem auto 0.5rem auto; text-align: center">or</div>
+
+<div class="fatsell">
+	<div class="fatsell-embed fatsell">
+		<div class="product product-centered" style="clear: both;">
+			<div class="name"></div>
+			<div class="ui">
+				<a href="https://www.dropbox.com/s/xwdakz451nragfz/zastava-tisk.pdf?dl=1" class="button radius">Download <strong>FREE</strong></a>
+			</div>
+		</div>
+	</div>
+</div>
 
 This is an open-source project. We put the open files online. You can download the [flag.pdf](https://www.dropbox.com/s/xwdakz451nragfz/zastava-tisk.pdf?dl=0) or you can buy the flag (150x100cm). 
 {{ spacer }} {{ spacer }} {{ spacer }}
