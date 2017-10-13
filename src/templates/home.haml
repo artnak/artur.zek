@@ -37,4 +37,8 @@
 				{{ markdown site.postscript }}
 			{{/ if }}
 
+			{{# if site.global_scripts }}
+			{{{ site.global_scripts }}}
+			{{/ if }}
+
 		{{> scripts }}

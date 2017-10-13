@@ -106,3 +106,7 @@
 			{{> footer }}
 
 		{{> scripts }}
+	
+		{{# if site.global_scripts }}
+		{{{ site.global_scripts }}}
+		{{/ if }}
