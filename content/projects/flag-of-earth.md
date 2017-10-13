@@ -50,7 +50,7 @@ At the current time, Humans are a Type 0 civilization.
  
 {{> img src="flag-of-earth.jpg" size="small"}}
 
-The symbol derives from abstraction. It's not culturally biased and allows iteration as we progress. The Earth's flag is a part of our solar system flags. By accepting the symbol, we are accepting (current) values (love, knowledge, responsibility/service, honour and progress) in order to reach Type I civilization. This, of course, is a suggestion.
+The symbol derives from abstraction. It's not culturally biased and allows iteration as we progress. The Earth's flag is a part of our solar system flags. By accepting the symbol, we are accepting (current) values (love, peace, knowledge, responsibility/service, honour and progress) in order to reach Type I civilization. This, of course, is a suggestion.
 
 {{ spacer }} {{ spacer }}
 
@@ -74,15 +74,15 @@ The symbol derives from abstraction. It's not culturally biased and allows itera
 {{ spacer }} {{ spacer }}
 {{> img src="all-planets-flags.png" size="small"}} 
 
+{{ spacer }}
+
 Design logic from the Flag of Earth stays the same and can be applied on all planet's flags from our Solar system. The distance from the Sun and the number of the moons of course changes. The design is still in progress.
 
-{{> label title="" description="Example: Saturn has 53 moons. None of them should be excluded, so they are presented equally. " }}
-
-{{ spacer }}
+<i>Example: Saturn has 53 moons. None of them should be excluded, so they are presented equally.</i>
 
 The flag's designs can change in relation to new discoveries. 
 
-{{> label title="" description="Example: New moon is discovered." }}  
+<i>Example: New moon is discovered.</i>  
 
 {{ spacer }}
 
@@ -115,6 +115,7 @@ While working on a design project a question sparked our imagination. What would
 
 We found out there were few attempts already put to practice. The logic of our predecessors was the same. Earth as a planet in our solar system. We even found almost exact design being made in 1979 by James W. Cadle (USA). This proved we were on a right path. Having the same ideas and opinions about the visual representation of our homeland in a different time and place brought us closer also culturally. 
 
+{{ spacer }}
 
 # "Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us preserve and increase this beauty, not destroy it!"
 ## Yuri Gagarin
@@ -132,6 +133,8 @@ I continued with the research and designed it into a system. This article was pu
 
 
 {{> img src="download_or_buy.jpg" size="small"}}
+
+<script data-fatsell="flag" src="https://fatsell.com/embed/flag.js"></script>
 
 This is an open-source project. We put the open files online. You can download the flag.pdf or you can buy the flag (60x120cm). 
 {{ spacer }} {{ spacer }} {{ spacer }}
