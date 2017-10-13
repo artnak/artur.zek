@@ -10,7 +10,7 @@ order: 1000
 {{> label title="The Miha Artnak: I want to believe" description="Ljubljana, 2016" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="artur-razteg.jpg" size="small"}}
+{{> img src="artur-razteg.jpg" }}
 {{> label title="The Miha Artnak: Artur / ZEK" description="Ljubljana, 2016" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
