@@ -15,10 +15,7 @@ order: 13000
 
 # Kardashev scale
 
-{{> img src="kardashev_scale.png" size="small"}}
-
-Image: [Wikipedia](https://www.wikiwand.com/en/Kardashev_scale)
-{{ spacer }} 
+{{> img src="kardashev-scale.png" size="small"}}
 
 In 1964, Soviet astronomer Nikolai Kardashev defined three levels of civilizations, based on the order of magnitude of power available to them. 
 
