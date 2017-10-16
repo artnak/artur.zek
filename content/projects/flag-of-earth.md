@@ -106,7 +106,7 @@ It's higly unlikely to come across another Type II civilization with the same sy
 
 # History
 
-The Flag of Earth was redesigned once more by Miha Artnak & Srđan Prodanović at Studio People in January, 2013.
+Type I civilization flag was designed by Miha Artnak & Srđan Prodanović at [Studio People](http://people.ooo) in January, 2013. Miha continued with the research and designed it into a system (2017).
 
 While working on a design project a question sparked our imagination. What would our planet's flag look like? We didn't do any research, we just separately drew what we thought was the logical visual representation. We immediately noticed that we had an identical solution. Only this drove us into research. 
 
@@ -121,9 +121,7 @@ We found out there were few attempts already put to practice. The logic of our p
 {{> img src="other-proposals.jpg" size="small"}}
 
 {{> label title="" description="Other proposals that were made through history" }}  
- 
 
-I continued with the research and designed it into a system. This article was published on 1st of September, 2017.
 {{ spacer }} {{ spacer }} 
 
 # Resources
