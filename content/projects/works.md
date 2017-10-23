@@ -1,11 +1,15 @@
 ---
 name: Works
 thumbnail: what-right-zek.jpg
-cover: dead-captain-planet.jpg
+cover: doveandpeace.jpg
 description:
 order: 2000
 ---
 
+{{> label title="The Miha Artnak: Dove & Peace" description="poop art, 2017" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="dead-captain-planet.jpg" }}
 {{> label title="The Miha Artnak: Dead Captain Planet" description="print on paper, 2017" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
