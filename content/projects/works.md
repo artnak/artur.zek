@@ -39,9 +39,9 @@ order: 1000
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="cactus.jpg" }}
-{{> video_loop src="cactus3.mp4" frame="false" }}
+{{> video_loop src="cactus2.mp4" frame="false" }}
 {{> label title="ZEK: Ψ" description="mixed media, 2011" }}
-{{> label title="" description="with Martin Šoštarič and Andraž Tarman from exhibition ZEK (2012)" }}
+{{> label title="" description="with Žiga Aljaž, Martin Šoštarič and Andraž Tarman from exhibition ZEK (2012)" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 

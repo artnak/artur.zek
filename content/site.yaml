@@ -17,8 +17,7 @@ instagram_url: https://www.instagram.com/streets_artnak/
 instagram_title: Check Instagram
 
 analytics_id: UA-43735632-10
-global_scripts: |
-  <!-- Facebook Pixel Code -->
+global_scripts: Facebook Pixel Code
   <script>
     !function(f,b,e,v,n,t,s)
     {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -34,4 +33,4 @@ global_scripts: |
   <noscript><img height="1" width="1" style="display:none"
     src="https://www.facebook.com/tr?id=500963770285938&ev=PageView&noscript=1"
   /></noscript>
-  <!-- End Facebook Pixel Code -->
+End Facebook Pixel Code
