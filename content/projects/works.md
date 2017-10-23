@@ -3,7 +3,7 @@ name: Works
 thumbnail: what-right-zek.jpg
 cover: doveandpeace.jpg
 description:
-order: 2000
+order: 1000
 ---
 
 {{> label title="The Miha Artnak: Dove & Peace" description="poop art, 2017" }}
