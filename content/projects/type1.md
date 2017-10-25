@@ -17,18 +17,21 @@ order: 998
 
 {{> img src="kardashev-scale.png" size="small"}}
 
-In 1964, Soviet astronomer Nikolai Kardashev defined three levels of civilizations, based on the order of magnitude of power available to them. 
+In 1964, Soviet astronomer <i>Nikolai Kardashev</i> defined three levels of civilizations, based on the order of magnitude of power available to them. 
 
 The scale has three designated categories:
 
-A Type I civilization — also called a planetary civilization — can use and store all of the energy which reaches its planet from its parent star.
+A <b>Type I civilization</b> — also called a planetary civilization — can use and store all of the energy which reaches its planet from its parent star.
 
-A Type II civilization — also called a stellar civilization — can harness the total energy of its planet's parent star.
+A <b>Type II civilization</b> — also called a stellar civilization — can harness the total energy of its planet's parent star.
 
-A Type III civilization — also called a galactic civilization — can control energy on the scale of its entire host galaxy.
+A <b>Type III civilization</b> — also called a galactic civilization — can control energy on the scale of its entire host galaxy.
 
-At the current time, Humans are a Type 0 civilization.
+<i>Together as humans we’re facing climate change, wars, pollution, economic inequality, hate crimes, violation of civil rights, government distrust, natural resource depletion and more of horrendous issues that need to be resolved in order to reach the next state of human civilization. </i>
+
+Humans are currently at <b>Type 0</b> civilization.
 {{ spacer }}
+
 
 # "These civilizations can effectively control the entire resources of their planet; they can predict weather patterns and earthquakes very accurately, and even control them using artificially induced greenhouse effects or space-based lasers. A Type 1 Civilization could conceivably halt an ice-age." 
 ## Dr. Michio Kaku
@@ -49,11 +52,7 @@ At the current time, Humans are a Type 0 civilization.
 
 The symbol derives from abstraction. It's not culturally biased and allows iteration as we progress. The Earth's flag is a part of our solar system flags. By accepting the symbol, we are accepting (current) values (love, peace, knowledge, responsibility/service, honour and progress) in order to reach Type I civilization. This, of course, is a suggestion.
 
-{{ spacer }} {{ spacer }}
-
-## Together as humans we’re facing climate change, wars, pollution, economic inequality, hate crimes, violation of civil rights, government distrust, natural resource depletion and more of horrendous issues that need to be resolved in order to reach the next state of human civilization.  
-
-{{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }}
 
 
 # Next stop: Mars?
@@ -98,15 +97,13 @@ Having so many flags offers a potential scenario for dividing us once more. Evol
 {{> img src="solar-flag.jpg" size="small"}}
 
 Symbols and flags are designed in order to unify common grounds and bring peace to the Planet. Solar flag would become a parent symbol to remind us that even living on other planets - we are united as one. 
-
-It's higly unlikely to come across another Type II civilization with the same symbol. Although there are more suns in the Universe, I believe the concept of a flag is unique to our planet. Maybe we even have unique color receptors. 
  
 {{ spacer }} {{ spacer }} 
 
 
 # History
 
-Type I civilization flag was designed by Miha Artnak & Srđan Prodanović at [Studio People](http://people.ooo) in January, 2013. Miha continued with the research and designed it into a system (2017).
+Type I civilization flag was designed by <b>Miha Artnak & Srđan Prodanović</b> at <b>[Studio People](http://people.ooo)</b> in January, 2013. Miha continued with the research and designed it into a system (2017).
 
 While working on a design project a question sparked our imagination. What would our planet's flag look like? We didn't do any research, we just separately drew what we thought was the logical visual representation. We immediately noticed that we had an identical solution. Only this drove us into research. 
 
@@ -126,7 +123,7 @@ We found out there were few attempts already put to practice. The logic of our p
 
 # Resources
 
-This is an open-source project so we put the open files online. You can also buy the flag here (150x100cm). We will print it out for you and send it to your address.
+This of course is an open-source project, that's why we put the pdf files online. You can also buy the flag here (150x100cm). We will print it out for you and send it to your address.
 
 {{> img src="resources.jpg" size="small"}}
 
