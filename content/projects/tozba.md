@@ -36,5 +36,5 @@ order: 12000
 
 {{> img src="tozba7.jpg" size="small"}}
 
-{{> label title="odvetnik Anže Ozimek" description="" }}
+{{> label title="Anže Ozimek" description="" }}
 
