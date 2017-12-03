@@ -42,7 +42,7 @@ Humans are currently at <b>Type 0</b> civilization.
 
 {{ spacer }} {{ spacer }}
 
-# We are creating visual language that supports the idea of becoming Type I civilization.
+# We are creating a visual language that supports the idea of becoming a Type I civilization.
 
 {{ spacer }} {{ spacer }} 
 
@@ -123,7 +123,7 @@ We found out there were few attempts already put to practice. The logic of our p
 
 # Resources
 
-This of course is an open-source project, that's why we put the pdf files online. You can also buy the flag here (150x100cm). We will print it out for you and send it to your address.
+This of course is an open-source project, that's why we put the pdf files online. You can also buy the printed flag here (150x100cm). We will print it out for you and send it to your address.
 
 {{> img src="resources.jpg" size="small"}}
 
