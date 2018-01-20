@@ -2,7 +2,7 @@
 name: I sold my artwork for $1.2M
 thumbnail: bela.png
 cover: die-artwork.jpg
-description: How lying got me on national TV, radio and newspaper
+description: Fake news on national TV, radio and newspaper
 order: 12001
 ---
 
