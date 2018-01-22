@@ -50,7 +50,7 @@ I made it to the national news TV as the main story (Svet na Kanalu A)
 
 # Fake address: The Guadrain
 
-[{{> img src="og_fb2.jpg" size="small"}}](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art)
+[{{> img src="guardian.png" size="small"}}](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art)
 
 {{> label title="with Srđan Prodanović" description="coding" }}
 
