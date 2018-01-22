@@ -97,5 +97,5 @@ and finally, revealed with some research journalism ...
 [{{> img src="vecer.png" size="small"}}](https://www.vecer.com/kako-je-slovencu-uspelo-prodati-golobje-iztrebke-za-milijon-evrov-6350439)
 
 {{ spacer }} {{ spacer }} 
-{{> img src="parody_law.png" size="small"}}
-{{ spacer }} {{ spacer }} 
+
+[{{> img src="parody_law.png" size="small"}}](https://www.wikiwand.com/en/Fair_use)
