@@ -7,9 +7,9 @@ order: 12001
 ---
   
 
-{{ spacer }} {{ spacer }} {{ spacer }} 
+{{ spacer }}   
 
-# #Art Market
+# # A R T M A R K E T  
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
@@ -63,7 +63,7 @@ I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437
 
 # Creating 'credibility'
 
-## Fake domain
+## THEGUADRAIN.COM
 
 ## 14th November, 2017 
 
