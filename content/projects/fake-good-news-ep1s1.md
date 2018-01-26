@@ -2,7 +2,7 @@
 name: Fake Good News 
 thumbnail: bela.png
 cover: hero2.png
-description: Season 1, Episode 1
+description: Episode 1, Season 1
 order: 12001
 ---
   
@@ -120,6 +120,8 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 [{{> img src="vecer.png" size="small"}}](https://www.vecer.com/kako-je-slovencu-uspelo-prodati-golobje-iztrebke-za-milijon-evrov-6350439)
 
+{{> vimeo id="252658012" }} 
+
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
 # Shop
@@ -148,7 +150,7 @@ MY ETH ADDRESS <b> 0xFF588b5ad611ab235Dc3c7Fe41af96C359968712 </b>
 # Written and directed by The Miha Artnak
 
 with: <b>Nika Jurman, Branko Jurman, Žiga Aljaž, Srđan Prodanović, Tadej Štrok, Matteo Pasi and Domen Kavčič.</b>
-
+	
 <i>Fake news is a type of yellow journalism or propaganda that consists of deliberate misinformation or hoaxes spread via traditional print and broadcast news media or online social media. Fake news is written and published with the intent to mislead in order to damage an agency, entity, or person, and/or gain financially or politically often using sensationalist, dishonest, or outright fabricated headlines to increase readership, online sharing, and Internet click revenue. In the latter case, it is similar to sensational online "clickbait" headlines and relies on advertising revenue generated from this activity, regardless of the veracity of the published stories. Intentionally misleading and deceptive fake news is different from obvious satire or parody, which is intended to humor rather than mislead its audience. 
 Source: Wikipedia
 
