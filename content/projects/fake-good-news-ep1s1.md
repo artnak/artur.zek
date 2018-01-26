@@ -196,7 +196,7 @@ ARTIST's ETH ADDRESS
 {{ spacer }} {{ spacer }} 
 
 # ______
-# Written and directed by The Miha Artnak
+Written and directed by <b>The Miha Artnak</b>
 
 with: <b>Nika Jurman, Branko Jurman, Žiga Aljaž, Srđan Prodanović, Tadej Štrok, Matteo Pasi and Domen Kavčič.</b>
 	
