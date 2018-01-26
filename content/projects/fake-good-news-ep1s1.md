@@ -2,14 +2,14 @@
 name: Fake Good News 
 thumbnail: bela.png
 cover: hero2.png
-description: Episode 1, Season 1
+description: Season 1 Episode 1 
 order: 12001
 ---
   
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# Art Market
+# #Art Market
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
@@ -19,43 +19,46 @@ order: 12001
 ## August, 2017
 
 <p style="text-align: center;">
-I colored the canvas black and left it overnight in one of the dove breeding houses. I wanted it to be painted with doves feces to get that expressionistic mood. And Doves have so much symbolism attached to it so there really is no worries here. I'd really like to thank Branko Jurman who helped me do the painting. Hvala ti Branko.
+I colored the canvas black and left it overnight in one of the dove breeding houses. I wanted it to be painted with doves feces to get that expressionistic mood. And Doves have so much symbolism attached to it that it's self explanatory. Many thanks goes to Branko Jurman who helped me do the painting. 
+
+	Hvala ti Branko.
 </p>
 
 [{{> img src="doves.png" size="small"}}](https://www.facebook.com/znmedias/)
 
 {{ spacer }} {{ spacer }} 
 
-# Creating the 'viral' news format
+# Creating 'viral' news storytelling
 
 ## September, 2017 
 
 <p style="text-align: center;">
-The artwork needs a valuation. So I did a video with my friends where my story of it's valuation is predefined.  
+I did a video with my friends where this artwork's value is a predefined fact <i>#millions #artmarket #plausible #simple</i>
 </p>
 
 <h2><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fznmedias%2Fvideos%2F10212942614514437%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></h2>
 
 {{> label title="with Žiga Aljaž and Tadej Štrok" description="video production" }}
 
-{{> label title="with Matteo Pasi" description="marketing" }}
-
 {{ spacer }} {{ spacer }} 
 
-# Creating the distributers
+# Creating 'distributers'
 
 ## 17th October, 2017 
-I started a Facebook page called [ZN](https://www.facebook.com/znmedias/) (ZEK News) media and published some existing viral videos to build a timeline.
+I started a Facebook page called [ZN](https://www.facebook.com/znmedias/) (ZEK News) media and published some existing viral videos to build a timeline
 
 [{{> img src="zn.png" size="small"}}](https://www.facebook.com/znmedias/)
 {{ spacer }} {{ spacer }} 
 
-# Creating followers
+# Creating 'believers'
 
 ## 30th October, 2017 
-I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437/) on ZN Facebook page and promoted it with 80 EUR. It got 80.000 views thanks to great marketing skills of Matteo Pasi
+I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437/) on ZN Facebook page and promoted it with 80 EUR. It got 80.000 views thanks to great marketing skills of a friend 
 
 {{> img src="results.png" size="small"}}
+
+{{> label title="with Matteo Pasi" description="marketing" }}
+
 {{ spacer }} {{ spacer }} 
 
 # Creating 'credibility'
@@ -64,26 +67,28 @@ I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437
 
 ## 14th November, 2017 
 
-I published my own article on [Guadrain](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art) (a fake replicate of original Guardian's webpage) with [Srđan Prodanović](https://github.com/some1else) who put the code to work
+I published my own article on [Guadrain](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art) (a fake replicate of original Guardian's webpage)
 [{{> img src="guardian.png" size="small"}}](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art)
 
-{{> label title="TheGuadrain.com" description="Fake domain" }}
+{{> label title="with[ Srđan Prodanović](https://github.com/some1else)" description="TheGuadrain.com" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
 
-# The effect
+# THE E F F E C T
+# __
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
-
-## 15th November, 2017 
 
 # Real Newspaper
+
+## 15th November, 2017 
 
 {{> img src="slovenske-novice.jpg"}}
 {{> label title="Slovenske novice" description="Front page of most printed newspaper in Slovenia" }}
 {{ spacer }} {{ spacer }} 
 
+# __
 # Real News Radio
 
 ## 16th November, 2017 
@@ -93,6 +98,7 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{ spacer }} {{ spacer }} 
 
+# __
 # Real News TV
 
 ## 16th November, 2017 
@@ -106,6 +112,8 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
+# __
+# Validation
 
 ## Research journalism 
 
@@ -124,13 +132,18 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# Shop
+# M Y • G A L L E R Y
+# __
 
 {{ spacer }} {{ spacer }} 
 
-## The Miha Artnak:
+## The Miha Artnak
 
 # Dove & Peace
+
+<p style="text-align: center;">
+<i>mixed media</i>
+</p>
 
 {{> img src="die-artwork.jpg" size="small"}}
 
@@ -140,7 +153,7 @@ PRICE <b> 5000 ETH</b>
 </p>
 
 <p style="text-align: center;">
-MY ETH ADDRESS <b> 0xFF588b5ad611ab235Dc3c7Fe41af96C359968712 </b>
+ARTIST's ETH ADDRESS <b> 0xFF588b5ad611ab235Dc3c7Fe41af96C359968712 </b>
 </p>
 
 <p style="text-align: center;">
