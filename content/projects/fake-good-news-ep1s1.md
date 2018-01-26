@@ -14,7 +14,9 @@ order: 12001
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
 
-# Creating the artwork (no bullshit) 
+# Creating the artwork
+
+## No bullshit
 
 ## August, 2017
 
@@ -28,12 +30,16 @@ I colored the canvas black and left it overnight in one of the dove breeding hou
 
 {{ spacer }} {{ spacer }} 
 
-# Creating 'viral' news storytelling
+# Creating 'viral news'
+
+## FACEBOOK VIDEO
 
 ## September, 2017 
 
 <p style="text-align: center;">
-I did a video with my friends where this artwork's value is a predefined fact <i>#millions #artmarket #plausible #simple</i>
+I did a video with my friends where this artwork's value is a predefined fact in video news storytelling </p>
+<p style="text-align: center;">
+<i>#millions #artmarket #plausible #simple</i>
 </p>
 
 <h2><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fznmedias%2Fvideos%2F10212942614514437%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></h2>
@@ -42,7 +48,8 @@ I did a video with my friends where this artwork's value is a predefined fact <i
 
 {{ spacer }} {{ spacer }} 
 
-# Creating 'distributers'
+# Creating 'media'
+## FACEBOOK PAGE
 
 ## 17th October, 2017 
 I started a Facebook page called [ZN](https://www.facebook.com/znmedias/) (ZEK News) media and published some existing viral videos to build a timeline
@@ -52,12 +59,15 @@ I started a Facebook page called [ZN](https://www.facebook.com/znmedias/) (ZEK N
 
 # Creating 'believers'
 
+## MARKETING 
+
 ## 30th October, 2017 
+
 I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437/) on ZN Facebook page and promoted it with 80 EUR. It got 80.000 views thanks to great marketing skills of a friend 
 
 {{> img src="results.png" size="small"}}
 
-{{> label title="with Matteo Pasi" description="marketing" }}
+{{> label title="with Matteo Pasi" description="ad campaign" }}
 
 {{ spacer }} {{ spacer }} 
 
@@ -70,15 +80,15 @@ I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437
 I published my own article on [Guadrain](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art) (a fake replicate of original Guardian's webpage)
 [{{> img src="guardian.png" size="small"}}](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art)
 
-{{> label title="with[ Srđan Prodanović](https://github.com/some1else)" description="TheGuadrain.com" }}
+{{> label title="with[Srđan Prodanović](https://github.com/some1else)" description="TheGuadrain.com" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
 
-# THE E F F E C T
+# R E S U L T S
 # __
 
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}  
 
 # Real Newspaper
 
@@ -148,20 +158,31 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 {{> img src="die-artwork.jpg" size="small"}}
 
  
-<p style="text-align: center;">
-PRICE <b> 5000 ETH</b>
+<p style="text-align: right;">
+PRICE 
+</p>
+<p style="text-align: right;">
+<b> 5000 ETH</b>
 </p>
 
-<p style="text-align: center;">
-ARTIST's ETH ADDRESS <b> 0xFF588b5ad611ab235Dc3c7Fe41af96C359968712 </b>
+<p style="text-align: right;">
+Free shipping
 </p>
 
+{{ spacer }}
+
 <p style="text-align: center;">
-<b> Free shipping </b>
+ARTIST's ETH ADDRESS 
 </p>
+<p style="text-align: center;">
+</p> 
+
+# 0xFF588b5ad611ab235Dc3c7Fe41af96C359968712
+
 
 {{ spacer }} {{ spacer }} 
 
+# __
 # Written and directed by The Miha Artnak
 
 with: <b>Nika Jurman, Branko Jurman, Žiga Aljaž, Srđan Prodanović, Tadej Štrok, Matteo Pasi and Domen Kavčič.</b>
@@ -170,6 +191,14 @@ with: <b>Nika Jurman, Branko Jurman, Žiga Aljaž, Srđan Prodanović, Tadej Št
 Source: Wikipedia
 
 No animals were harmed during the filming of this episode. </i>
+
+{{ spacer }} {{ spacer }} 
+
+## [@streets_artnak](www.instagram.com/streets_artnak)
+
+## [ZEK Crew](www.zek.crew.com)
+
+## [Ljudje](www.people.ooo)
 
 {{ spacer }} {{ spacer }} 
 
