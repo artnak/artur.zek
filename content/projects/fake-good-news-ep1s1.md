@@ -9,16 +9,20 @@ order: 12001
 
 {{ spacer }}   
 
-# # A R T M A R K E T  
+# A R T M A R K E T  
+
+## EPISODE 1
+# __
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
 
-# Creating the artwork
+August, 2017
+
+# The Artwork
 
 ## No bullshit
 
-## August, 2017
 
 <p style="text-align: center;">
 I colored the canvas black and left it overnight in one of the dove breeding houses. I wanted it to be painted with doves feces to get that expressionistic mood. And Doves have so much symbolism attached to it that it's self explanatory. Many thanks goes to Branko Jurman who helped me do the painting. 
@@ -28,13 +32,14 @@ I colored the canvas black and left it overnight in one of the dove breeding hou
 
 [{{> img src="doves.png" size="small"}}](https://www.facebook.com/znmedias/)
 
-{{ spacer }} {{ spacer }} 
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
-# Creating 'viral news'
+September, 2017 
+
+# 'Viral news'
 
 ## FACEBOOK VIDEO
 
-## September, 2017 
 
 <p style="text-align: center;">
 I did a video with my friends where this artwork's value is a predefined fact in video news storytelling </p>
@@ -46,22 +51,26 @@ I did a video with my friends where this artwork's value is a predefined fact in
 
 {{> label title="with Žiga Aljaž and Tadej Štrok" description="video production" }}
 
-{{ spacer }} {{ spacer }} 
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
-# Creating 'media'
+17th October, 2017 
+
+# 'Media'
 ## FACEBOOK PAGE
 
-## 17th October, 2017 
+
 I started a Facebook page called [ZN](https://www.facebook.com/znmedias/) (ZEK News) media and published some existing viral videos to build a timeline
 
 [{{> img src="zn.png" size="small"}}](https://www.facebook.com/znmedias/)
 {{ spacer }} {{ spacer }} 
 
-# Creating 'believers'
+30th October, 2017
+
+# 'Believers'
 
 ## MARKETING 
 
-## 30th October, 2017 
+ 
 
 I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437/) on ZN Facebook page and promoted it with 80 EUR. It got 80.000 views thanks to great marketing skills of a friend 
 
@@ -71,16 +80,17 @@ I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437
 
 {{ spacer }} {{ spacer }} 
 
-# Creating 'credibility'
+14th November, 2017 
+
+# 'Credibility'
 
 ## THEGUADRAIN.COM
 
-## 14th November, 2017 
 
 I published my own article on [Guadrain](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art) (a fake replicate of original Guardian's webpage)
 [{{> img src="guardian.png" size="small"}}](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art)
 
-{{> label title="with[Srđan Prodanović](https://github.com/some1else)" description="TheGuadrain.com" }}
+{{> label title="with [Srđan Prodanović](https://github.com/some1else)" description="TheGuadrain.com" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
@@ -90,28 +100,31 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}  
 
+
+15th November, 2017 
+
 # Real Newspaper
 
-## 15th November, 2017 
 
 {{> img src="slovenske-novice.jpg"}}
 {{> label title="Slovenske novice" description="Front page of most printed newspaper in Slovenia" }}
 {{ spacer }} {{ spacer }} 
 
-# __
+16th November, 2017
+
 # Real News Radio
 
-## 16th November, 2017 
+ 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/373065425&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe> 
 {{> label title="RTV" description="Stated as a fact and opinion in a debate " }}
 
 {{ spacer }} {{ spacer }} 
 
-# __
+16th November, 2017 
+
 # Real News TV
 
-## 16th November, 2017 
 
 {{> youtube id="sXEmVgbJ8D4?t=2040 " }} 
 {{> label title="Svet na Kanalu A" description="National news TV as the main story" }}
@@ -182,7 +195,7 @@ ARTIST's ETH ADDRESS
 
 {{ spacer }} {{ spacer }} 
 
-# __
+# ______
 # Written and directed by The Miha Artnak
 
 with: <b>Nika Jurman, Branko Jurman, Žiga Aljaž, Srđan Prodanović, Tadej Štrok, Matteo Pasi and Domen Kavčič.</b>
