@@ -128,13 +128,15 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{ spacer }} {{ spacer }} 
 
-## The Miha Artnak: Dove & Peace
+## The Miha Artnak:
+
+# Dove & Peace
 
 {{> img src="die-artwork.jpg" size="small"}}
 
  
 <p style="text-align: center;">
-PRICE: <b> 5000 ETH</b>
+PRICE <b> 5000 ETH</b>
 </p>
 
 <p style="text-align: center;">
