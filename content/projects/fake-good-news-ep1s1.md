@@ -27,10 +27,24 @@ August, 2017
 <p style="text-align: center;">
 I colored the canvas black and left it overnight in one of the dove breeding houses. I wanted it to be painted with doves feces to get that expressionistic mood. And Doves have so much symbolism attached to it that it's self explanatory. Many thanks goes to Branko Jurman who helped me do the painting. 
 
-	Hvala ti Branko.
+Hvala ti Branko.
 </p>
 
-[{{> img src="doves.png" size="small"}}](https://www.facebook.com/znmedias/)
+{{> youtube id="9KRBUsCYKZU" }} 
+
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
+September, 2017
+
+# 'News Media House'
+
+## Brand
+
+{{> img src="zn-logo.jpg" size="small"}}
+
+<p style="text-align: center;">
+I created a brand called [ZN Media](https://www.facebook.com/znmedias/) (ZEK News) for viral video feed.
+</p>
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
@@ -40,14 +54,13 @@ September, 2017
 
 ## FACEBOOK VIDEO
 
+<h2><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fznmedias%2Fvideos%2F10212942614514437%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></h2>
 
 <p style="text-align: center;">
-I did a video with my friends where this artwork's value is a predefined fact in video news storytelling </p>
+With my friends we predefined artwork's value with 2017 video news storytelling </p>
 <p style="text-align: center;">
 <i>#millions #artmarket #plausible #simple</i>
 </p>
-
-<h2><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fznmedias%2Fvideos%2F10212942614514437%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></h2>
 
 {{> label title="with Žiga Aljaž and Tadej Štrok" description="video production" }}
 
@@ -55,13 +68,13 @@ I did a video with my friends where this artwork's value is a predefined fact in
 
 17th October, 2017 
 
-# 'Media'
+# 'Distribution'
 ## FACEBOOK PAGE
 
-
-I started a Facebook page called [ZN](https://www.facebook.com/znmedias/) (ZEK News) media and published some existing viral videos to build a timeline
-
 [{{> img src="zn.png" size="small"}}](https://www.facebook.com/znmedias/)
+
+I started a Facebook page called and published some existing viral videos to build a timeline
+
 {{ spacer }} {{ spacer }} 
 
 30th October, 2017
@@ -70,11 +83,9 @@ I started a Facebook page called [ZN](https://www.facebook.com/znmedias/) (ZEK N
 
 ## MARKETING 
 
- 
-
-I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437/) on ZN Facebook page and promoted it with 80 EUR. It got 80.000 views thanks to great marketing skills of a friend 
-
 {{> img src="results.png" size="small"}}
+
+I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437/) on ZN Media Facebook page and promoted it with 80 EUR. It got 80.000 views thanks to great marketing skills of a friend 
 
 {{> label title="with Matteo Pasi" description="ad campaign" }}
 
@@ -86,11 +97,11 @@ I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437
 
 ## THEGUADRAIN.COM
 
-
-I published my own article on [Guadrain](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art) (a fake replicate of original Guardian's webpage)
 [{{> img src="guardian.png" size="small"}}](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art)
 
-{{> label title="with [Srđan Prodanović](https://github.com/some1else)" description="TheGuadrain.com" }}
+I published my own article on [Guadrain](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art) (a fake replicate of original Guardian's webpage)
+
+{{> label title="with [Srđan Prodanović](https://github.com/some1else)" description="coding" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
