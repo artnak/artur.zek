@@ -16,17 +16,49 @@ T H E
 # ARTMARKET  
 # ♦
 
-
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
+## The Miha Artnak
 
-August, 2017
+# Dove & Peace
 
-# No Bullshit
+<p style="text-align: center;">
+<i>mixed media</i>
+</p>
 
-## The Artwork
+{{> img src="die-artwork.jpg" size="small"}}
 
+<p style="text-align: right;">
+PRICE 
+</p>
+<p style="text-align: right;">
+<b> 5000 ETH</b>
+</p>
 
+<p style="text-align: right;">
+Free shipping
+</p>
+
+{{ spacer }}
+{{> img src="qr-eth.jpg" size="small"}}
+
+<p style="text-align: center;">
+ARTIST's ETH ADDRESS 
+</p>
+<p style="text-align: center;">
+</p> 
+
+<p style="text-align: center;">
+<b> 0xD45B9897cEB4A9161438C3Dd7cB1ED136272598b </b>
+</p>
+
+{{ spacer }} {{ spacer }} 
+
+# Origin
+
+## no bullshit
+
+<p style="text-align: center;"> August, 2017 </p>
 
 {{> youtube id="9KRBUsCYKZU" }} 
 
@@ -37,11 +69,11 @@ Hvala ti Branko.
 </p>
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-September, 2017
-
 # 'News Media House'
 
 ## Brand
+
+<p style="text-align: center;"> September, 2017 </p>
 
 {{> img src="zn-logo.jpg" size="small"}}
 
@@ -51,11 +83,11 @@ I created a brand called [ZN Media](https://www.facebook.com/znmedias/) (ZEK New
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-September, 2017 
-
 # 'Viral news'
 
 ## FACEBOOK VIDEO
+
+<p style="text-align: center;"> September, 2017 </p>
 
 <h2><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fznmedias%2Fvideos%2F10212942614514437%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></h2>
 
@@ -69,10 +101,11 @@ With my friends we predefined artwork's value with 2017 video news storytelling 
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-17th October, 2017 
-
 # 'Distribution'
+
 ## FACEBOOK PAGE
+
+<p style="text-align: center;"> 17th October, 2017 </p>
 
 [{{> img src="zn.png" size="small"}}](https://www.facebook.com/znmedias/)
 
@@ -94,11 +127,11 @@ I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437
 
 {{ spacer }} {{ spacer }} 
 
-14th November, 2017 
-
 # 'Credibility'
 
 ## THEGUADRAIN.COM
+
+<p style="text-align: center;"> 14th November, 2017 </p>
 
 [{{> img src="guardian.png" size="small"}}](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art)
 
@@ -108,37 +141,31 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
-
 # R E S U L T S
 # __
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}  
 
-
-15th November, 2017 
-
 # Real Newspaper
 
+<p style="text-align: center;"> 15th November, 2017 </p>
 
 {{> img src="slovenske-novice.jpg"}}
 {{> label title="Slovenske novice" description="Front page of most printed newspaper in Slovenia" }}
 {{ spacer }} {{ spacer }} 
 
-16th November, 2017
-
 # Real News Radio
 
- 
+<p style="text-align: center;"> 16th November, 2017 </p>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/373065425&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe> 
 {{> label title="RTV" description="Stated as a fact and opinion in a debate " }}
 
 {{ spacer }} {{ spacer }} 
 
-16th November, 2017 
-
 # Real News TV
 
+<p style="text-align: center;"> 16th November, 2017 </p>
 
 {{> youtube id="sXEmVgbJ8D4?t=2040 " }} 
 {{> label title="Svet na Kanalu A" description="National news TV as the main story" }}
@@ -176,8 +203,6 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{> vimeo id="252658012" }} 
 
-
-
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
 # G A L L E R Y
@@ -195,7 +220,6 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{> img src="die-artwork.jpg" size="small"}}
 
- 
 <p style="text-align: right;">
 PRICE 
 </p>
@@ -219,7 +243,6 @@ ARTIST's ETH ADDRESS
 <p style="text-align: center;">
 <b> 0xD45B9897cEB4A9161438C3Dd7cB1ED136272598b </b>
 </p>
-
 
 {{ spacer }} {{ spacer }} 
 
