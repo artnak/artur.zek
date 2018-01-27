@@ -2,15 +2,13 @@
 name: Fake Good News 
 thumbnail: bela.png
 cover: hero2.png
-description: Season 1 Episode 1 
+description: Episode 1 
 order: 12001
 ---
   
 
 {{ spacer }}   
 
-## EPISODE 1
-# ___
 # the 
 # ART MARKET  
 # ♦
