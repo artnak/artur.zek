@@ -43,7 +43,7 @@ September, 2017
 {{> img src="zn-logo.jpg" size="small"}}
 
 <p style="text-align: center;">
-I created a brand called [ZN Media](https://www.facebook.com/znmedias/) (ZEK News) for viral video feed.
+I created a brand called [ZN Media](https://www.facebook.com/znmedias/) (ZEK News) for sharing viral video feed
 </p>
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
@@ -73,7 +73,7 @@ With my friends we predefined artwork's value with 2017 video news storytelling 
 
 [{{> img src="zn.png" size="small"}}](https://www.facebook.com/znmedias/)
 
-I started a Facebook page called and published some existing viral videos to build a timeline
+I started a Facebook page and published some existing viral videos to build a timeline
 
 {{ spacer }} {{ spacer }} 
 
