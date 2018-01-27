@@ -10,9 +10,10 @@ order: 12001
 {{ spacer }}   
 
 ## EPISODE 1
-# __
-# ARTMARKET  
-# •••
+# ___
+# the 
+# ART MARKET  
+# ♦
 
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
@@ -25,14 +26,13 @@ August, 2017
 ## No bullshit
 
 
+{{> youtube id="9KRBUsCYKZU" }} 
+
 <p style="text-align: center;">
 I colored the canvas black and left it overnight in one of the dove breeding houses. I wanted it to be painted with doves feces to get that expressionistic mood. And Doves have so much symbolism attached to it that it's self explanatory. Many thanks goes to Branko Jurman who helped me do the painting. 
 
 Hvala ti Branko.
 </p>
-
-{{> youtube id="9KRBUsCYKZU" }} 
-
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
 September, 2017
