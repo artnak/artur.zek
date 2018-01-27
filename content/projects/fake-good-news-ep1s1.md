@@ -205,6 +205,7 @@ Free shipping
 </p>
 
 {{ spacer }}
+{{> img src="qr-eth.jpg" size="small"}}
 
 <p style="text-align: center;">
 ARTIST's ETH ADDRESS 
@@ -212,7 +213,9 @@ ARTIST's ETH ADDRESS
 <p style="text-align: center;">
 </p> 
 
-# 0xFF588b5ad611ab235Dc3c7Fe41af96C359968712
+<p style="text-align: center;">
+<b> 0xD45B9897cEB4A9161438C3Dd7cB1ED136272598b </b>
+</p>
 
 
 {{ spacer }} {{ spacer }} 
@@ -239,4 +242,6 @@ No animals were harmed during the filming of this episode. </i>
 
 <p style='text-align: center; font-weight: bold;'>If you find any joy and value in what I do, please consider donating BTC to this address </p>
   
-<p style='text-align: center;'><a style='text-decoration: none; background: #FFB119; color: white; font-weight: bold; padding: 0.5rem; border-radius: 4px;'>1569L4HZcbWo5Lyvg3m6ujEJ2YSYCCpWMQ</a></p>
+<p style='text-align: center;'><a style='text-decoration: none; background: #FFB119; color: white; font-weight: bold; padding: 0.5rem; border-radius: 4px;'>1N968bEU9bahcWQazkx9PJF4MEAtbBwe9T</a></p>
+
+{{> img src="qr-btc.jpg" size="small"}}
