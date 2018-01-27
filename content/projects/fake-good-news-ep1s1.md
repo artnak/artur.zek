@@ -9,10 +9,11 @@ order: 12001
 
 {{ spacer }}   
 
-# A R T M A R K E T  
-
 ## EPISODE 1
 # __
+# ARTMARKET  
+# •••
+
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
@@ -177,8 +178,8 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# M Y • G A L L E R Y
-# __
+# G A L L E R Y
+# ♦
 
 {{ spacer }} {{ spacer }} 
 
