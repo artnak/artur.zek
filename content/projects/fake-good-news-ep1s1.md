@@ -143,6 +143,15 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 <h2><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmiha.artnak%2Fvideos%2F10159605714195181%2F&show_text=0&width=560" width="560" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></h2>
 {{> label title="Svet na Kanalu A" description="Interview with the cryptomillionare" }}
 
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+# Media Response
+
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-type="article-full"><h4><a href="http://www.slovenskenovice.si/novice/slovenija/umetnik-lagal-o-sliki-za-milijon">Umetnik lagal o sliki za milijon</a></h4><p>￼LJUBLJANA - V torek smo objavili zgodbo, ki je zbudila precej zanimanja pri naših bralcih - ljubljanski umetnik Miha Artnak nam je namreč v pogovoru, ki je potekal prek facebooka, potrdil informacijo in podrobnosti zgodbe, ki se je prej pojavila na spletu.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-type="article"><h4><a href="http://www.24ur.com/ekskluziv/zanimivosti/kako-se-je-golobja-umetnina-izkazala-za-navadno-laz.html">Kako se je golobja umetnina izkazala za navadno laž?</a></h4><p>Pokazali smo zgodbo o Slovencu, o katerem so pisali tudi očitno na lažni spletni strani sicer uglednega britanskega časnika The Guardian, Slovencu, ki je naredil sliko iz golobjih iztrebkov in zanjo dobil milijonsko plačilo. No, zgodbo si je Miha Artnak izmislil. In se vrhunsko pripravil na prodajo le-te.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
@@ -163,6 +172,8 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 [{{> img src="vecer.png" size="small"}}](https://www.vecer.com/kako-je-slovencu-uspelo-prodati-golobje-iztrebke-za-milijon-evrov-6350439)
 
 {{> vimeo id="252658012" }} 
+
+
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
