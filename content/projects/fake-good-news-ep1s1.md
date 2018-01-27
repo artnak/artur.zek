@@ -113,11 +113,12 @@ I started ZN Media Facebook page and shared some existing viral videos to build 
 
 {{ spacer }} {{ spacer }} 
 
-30th October, 2017
 
 # 'Public opinion'
 
 ## MARKETING 
+
+<p style="text-align: center;"> 30th October, 2017 </p>
 
 {{> img src="results.png" size="small"}}
 
