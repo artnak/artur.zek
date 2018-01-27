@@ -9,7 +9,10 @@ order: 12001
 
 {{ spacer }}   
 
-# the 
+<p style="text-align: center;">
+T H E 
+</p>
+
 # ART MARKET  
 # ♦
 
@@ -72,13 +75,13 @@ With my friends we predefined artwork's value with 2017 video news storytelling 
 
 [{{> img src="zn.png" size="small"}}](https://www.facebook.com/znmedias/)
 
-I started a Facebook page and published some existing viral videos to build a timeline
+I started ZN Media Facebook page and published some existing viral videos to build history timeline
 
 {{ spacer }} {{ spacer }} 
 
 30th October, 2017
 
-# 'Believers'
+# 'Public opinion'
 
 ## MARKETING 
 
@@ -177,7 +180,7 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
 # G A L L E R Y
-# ♦
+# ___
 
 {{ spacer }} {{ spacer }} 
 
