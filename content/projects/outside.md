@@ -1,5 +1,5 @@
 ---
-name: Outside
+name: O U T
 thumbnail: outside-thumb.jpg
 cover: bozicek5.jpg
 description:
@@ -23,9 +23,10 @@ order: 999
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="newmsg3.jpg" }}
-{{> img src="newmsg2.jpg" size="small"}}
 
-<h2> <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F990461967648526%2F&show_text=0&width=560" width="100%" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe> </h2>
+{{> youtube id="PmWfZ_37FeQ" }}
+
+{{> img src="newmsg2.jpg" size="small"}}
 
 {{> label title="The Miha Artnak: New Message" description="mixed media, 2014" }}
 {{> label title="" description="With Urša de Reya and Andraž Tarman / Photo: Tilen Sepič / Installation art made for Sodobni obrazi Emone / Project managers: Damijana Slabe and Nadja Ocepek with help of: Katarina Bobek, Katarina Žagar, Alja Fir, Anja Tomažič, ZVKDS / emonec.com" }}
@@ -47,17 +48,19 @@ order: 999
 
 {{> img src="chase3.jpg" }}
 {{> img src="chase2.jpg" size="small"}}
-<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150781551647700%2F%3Ftype%3D3&width=500" width="100%" height="460" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
 
 {{> label title="The Miha Artnak: The Chase" description="stencil, 2011" }}
 {{> label title="" description="Photo: Matevž Paternoster" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-
-{{> img src="pattern3.jpg" }}
 {{> img src="pattern-plakat.jpg" size="small"}}
+{{> img src="pattern3.jpg" }}
 {{> label title="The Miha Artnak: Childhood Pattern" description="[more here](http://artur.zekcrew.com/projects/childhood-pattern), 2011" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+# In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from kindergardens, primary schools, high schools, faculties and random people from Ljubljana to build a plastic bag monster.
 
 {{> img src="lovka3.jpg" }}
 
@@ -68,10 +71,13 @@ order: 999
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 {{> img src="lovka2.jpg" size="small"}}
+
 {{> label title="The Miha Artnak: Plastic Bag Monster" description="mixed media, 2010-2011" }}
+
 {{> label title="" description="With Ekologi Brez Meja, Lukatarina, Nataša Zuljan and Eco Vitae / Kongresni trg, Ljubljana, November 2010, BTC, Ljubljana, April 2011, Europese commissie, Brussels, May 2011, Luka Koper, June 2011 / Photo: Vladimir&vladimir, Žiga Šmidovnik" }}
 
-In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from kindergardens, primary schools, high schools, faculties and random people from Ljubljana to build a plastic bag monster.
+
+
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="rise3.jpg" }}
@@ -79,7 +85,7 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 
 <div class="tumblr"> <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/NTXyjC-zGfvoFK6m4C6QsA/17803253941" data-did="ea824d98681bff6d71deea5cd98246a4c7f09549"><a href="http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall">http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall</a></div>  <script async src="https://assets.tumblr.com/post.js"></script> </div> 
 
-{{ spacer }}
+{{ spacer }} {{ spacer }}
 {{> label title="The Miha Artnak: Pomlad je sen zime / The Rise of the Fall" description="mixed media, 2011" }}
 {{> label title="" description="With Andraž Tarman and Erik Vidmar (Tisa) / Photo: Tilen Sepič, Matjaž Tančič" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
@@ -92,7 +98,7 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 
 {{> img src="canaria2.jpg" }}
 {{> vimeo id="36658502" }}
-<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150782796542700%2F%3Ftype%3D3&width=500" width="100%" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
+
 {{> label title="The Miha Artnak: Spoznavanje narave družbe / Nature of Society" description="paint, 2011" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
@@ -103,7 +109,7 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 
 {{> video_loop src="kapsi.mp4" frame="false" }}
 {{> label title="The Miha Artnak: Cops" description="mixed media, 2014" }}
-{{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="lokal.jpg" size="small"}}
 
