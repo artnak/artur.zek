@@ -6,21 +6,33 @@ description:
 order: 999
 ---
 
-{{> label title="The Miha Artnak: Dead Santa" description="December, 2015" }}
 {{> label title="" description="Photo: Nika Jurman" }}
+
+# Dead Santa
+
+{{> label title="" description="December, 2015" }}
 
 {{> img src="srna-Tine-Lindic.jpg" size="small"}}
 
 {{> label title="" description="Photo: Tine Lindič" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+# أهلاً و سهلاً
+
+{{> label title="" description="With friends from Metlika, 2015" }}
 
 {{> img src="dobrodosli2.jpg" }}
 
 {{> youtube id="wZnL5_w-DyM" }} 
 
-{{> label title="The Miha Artnak:  أهلاً و سهلاً" description="wood, paint, 2015" }}
-{{> label title="" description="With friends from Metlika" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+# New Message
+
+
+{{> label title="" description="with Urša de Reya and Andraž Tarman / Photo: Tilen Sepič / Installation art made for Sodobni obrazi Emone / Project managers: Damijana Slabe and Nadja Ocepek with help of: Katarina Bobek, Katarina Žagar, Alja Fir, Anja Tomažič, ZVKDS / 2014, emonec.com" }}
 
 {{> img src="newmsg3.jpg" }}
 
@@ -28,39 +40,51 @@ order: 999
 
 {{> img src="newmsg2.jpg" size="small"}}
 
-{{> label title="The Miha Artnak: New Message" description="mixed media, 2014" }}
-{{> label title="" description="With Urša de Reya and Andraž Tarman / Photo: Tilen Sepič / Installation art made for Sodobni obrazi Emone / Project managers: Damijana Slabe and Nadja Ocepek with help of: Katarina Bobek, Katarina Žagar, Alja Fir, Anja Tomažič, ZVKDS / emonec.com" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+# Heads or Tails
+
+{{> label title="" description="2013" }}
 
 {{> vimeo id="54765173" }}
-{{> label title="The Miha Artnak: Heads or Tails" description="stencil, 2013" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+# Black&White
+
+{{> label title="" description="2011-2013" }}
+
 {{> img src="panda-orka.jpg" }}
-{{> label title="The Miha Artnak: Black & White" description="stencil, 2013" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="cat-chase3.jpg" }}
 {{> img src="cat-chase2.jpg" size="small"}}
-{{> label title="The Miha Artnak: Cat to the Chase" description="stencil, 2012" }}
+
 {{> label title="" description="Photo: Lucijan Kranjc" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="chase3.jpg" }}
 {{> img src="chase2.jpg" size="small"}}
 
-{{> label title="The Miha Artnak: The Chase" description="stencil, 2011" }}
 {{> label title="" description="Photo: Matevž Paternoster" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+# Childhood Pattern
+
+{{> label title="" description="2011" }}
+
+## [Link](http://artur.zekcrew.com/projects/childhood-pattern)
+
 {{> img src="pattern-plakat.jpg" size="small"}}
+
 {{> img src="pattern3.jpg" }}
-{{> label title="The Miha Artnak: Childhood Pattern" description="[more here](http://artur.zekcrew.com/projects/childhood-pattern), 2011" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-# In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from kindergardens, primary schools, high schools, faculties and random people from Ljubljana to build a plastic bag monster.
+# Plastic Bag Monster
+
+In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from kindergardens, primary schools, high schools, faculties and random people from Ljubljana to build a plastic bag monster.
 
 {{> img src="lovka3.jpg" }}
 
@@ -72,44 +96,64 @@ order: 999
 
 {{> img src="lovka2.jpg" size="small"}}
 
-{{> label title="The Miha Artnak: Plastic Bag Monster" description="mixed media, 2010-2011" }}
-
-{{> label title="" description="With Ekologi Brez Meja, Lukatarina, Nataša Zuljan and Eco Vitae / Kongresni trg, Ljubljana, November 2010, BTC, Ljubljana, April 2011, Europese commissie, Brussels, May 2011, Luka Koper, June 2011 / Photo: Vladimir&vladimir, Žiga Šmidovnik" }}
-
-
+{{> label title="" description="with Ekologi Brez Meja, Lukatarina, Nataša Zuljan and Eco Vitae / Kongresni trg, Ljubljana, November 2010, BTC, Ljubljana, April 2011, Europese commissie, Brussels, May 2011, Luka Koper, June 2011 / Photo: Vladimir&vladimir, Žiga Šmidovnik" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+# Pomlad je sen zime
+
+{{> label title="" description="with Andraž Tarman and Erik Vidmar, 2011" }} 
+
 {{> img src="rise3.jpg" }}
-{{> img src="rise4.jpg" size="small"}}
 
 <div class="tumblr"> <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/NTXyjC-zGfvoFK6m4C6QsA/17803253941" data-did="ea824d98681bff6d71deea5cd98246a4c7f09549"><a href="http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall">http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall</a></div>  <script async src="https://assets.tumblr.com/post.js"></script> </div> 
 
-{{ spacer }} {{ spacer }}
-{{> label title="The Miha Artnak: Pomlad je sen zime / The Rise of the Fall" description="mixed media, 2011" }}
-{{> label title="" description="With Andraž Tarman and Erik Vidmar (Tisa) / Photo: Tilen Sepič, Matjaž Tančič" }}
+{{> label title="" description="Photo & moving image: Tilen Sepič" }} 
+
+{{> img src="rise4.jpg" size="small"}}
+
+{{> label title="" description="Photo: Matjaž Tančič" }} 
+
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+# Laž
+
+{{> label title="" description="2013" }}
 
 {{> img src="lie3.jpg" }}
 {{> vimeo id="64113644" }}
 {{> img src="delovna.jpg" size="small"}}
-{{> label title="The Miha Artnak: Laž" description="spray, 2013" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+# Spoznavanje narave družbe
+
+{{> label title="" description="2011" }}
 
 {{> img src="canaria2.jpg" }}
 {{> vimeo id="36658502" }}
 
-{{> label title="The Miha Artnak: Spoznavanje narave družbe / Nature of Society" description="paint, 2011" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+# Highlights
+
+{{> label title="" description="with Futen, 2011" }}
 
 {{> img src="train2.jpg" }}
 {{> img src="train.jpg" size="small"}}
-{{> label title="The Miha Artnak: Highlight" description="duct tape, 2011" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+# Kapsi
+
+{{> label title="" description="2014" }}
+
 {{> video_loop src="kapsi.mp4" frame="false" }}
-{{> label title="The Miha Artnak: Cops" description="mixed media, 2014" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+# Global
+
+{{> label title="" description="posters, 2007" }}
 
 {{> img src="lokal.jpg" size="small"}}
 
@@ -118,8 +162,6 @@ order: 999
 
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="http://www.mladina.si/media/www/slike.old/mladina/mglobal.jpg" data-card-type="article"><h4><a href="http://www.mladina.si/49813/umik-tozbe-za-70-000-evrov/">Umik tožbe za 70.000 evrov | MLADINA.si</a></h4><p>Ko je oktobra 2007 zaradi nasilja varnostnikov pred ljubljanskim klubom Global umrl 20-letni Gorazd Čamernik, je tragični dogodek spodbudil številne odzive.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-{{> label title="The Miha Artnak: Global" description="posters, 2007" }}
 
 {{ spacer }} {{ spacer }} 
 
