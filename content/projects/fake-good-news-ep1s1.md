@@ -14,9 +14,12 @@ T H E
 </p>
 
 # ARTMARKET  
+
+{{ spacer }}
+
 # ♦
 
-{{ spacer }} {{ spacer }} {{ spacer }} 
+{{ spacer }} {{ spacer }}  
 
 ## The Miha Artnak
 
