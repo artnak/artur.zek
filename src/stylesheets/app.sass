@@ -338,6 +338,62 @@ body.project
 
 	.contents
 
+		.bitcoin-address
+			max-width: 470px
+
+		.eth-address
+			max-width: 530px
+
+		.bitcoin-address, .eth-address
+			margin-bottom: 1rem
+
+			input
+				border: 0
+				padding: 0.5rem 0.25rem
+				width: 100%
+				background: lightgrey
+				color: black
+				font-weight: bold
+				text-align: center
+				border-radius: 3px
+				cursor: pointer
+				box-shadow: inset 2px 2px 4px rgba(#000, 0.3)
+				+breakpoint(small only)
+					width: calc(100% - 2rem)
+					margin:
+						left: 1rem
+						right: 1rem
+
+				&:focus
+					outline: none
+			
+			::selection
+				background: black
+				color: white
+
+			.copy-notice
+				position: absolute
+				left: 50%
+				transform: translateX(-50%)
+				background: lightgray
+				color: black
+				padding: 0.5rem 0.25rem
+				margin-top: 3px
+				border-radius: 3px
+				display: none
+
+		.bitcoin-address
+			input
+				border: 1px solid #3C3C3D
+				background: mix(orange, white, 20%)
+				color: #3C3C3D
+
+		.eth-address
+			input
+				border: 1px solid #3C3C3D
+				background: #ECF0F1
+				color: #3C3C3D
+
 		h1, h2, h3, h4, h5, h6
 			float: none !important
 
