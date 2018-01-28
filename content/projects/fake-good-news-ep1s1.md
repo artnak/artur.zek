@@ -163,11 +163,15 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 <p style="text-align: center;"> 16th November, 2017 </p>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/373065425&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe> 
+
+{{ spacer }}
+
 {{> label title="RTV" description="Stated as a fact and opinion in a debate " }}
 
 {{ spacer }} {{ spacer }} 
 
 # Real News TV
+
 
 <p style="text-align: center;"> 16th November, 2017 </p>
 
@@ -269,9 +273,15 @@ No animals were harmed during the filming of this episode. </i>
 
 {{ spacer }} {{ spacer }} 
 
-<p style='text-align: center; font-weight: bold;'>If you find any joy and value in what I do, please consider donating BTC to this address </p>
+<p style='text-align: center; font-weight: bold;'>If you find any joy and value in what I do, please consider donating Bitcoin to this address </p>
   
 {{> img src="qr-btc.jpg" size="small"}}
+
+<p style="text-align: center;">
+ARTIST's BTC ADDRESS 
+</p>
+<p style="text-align: center;">
+</p> 
 
 {{> bitcoin address="1N968bEU9bahcWQazkx9PJF4MEAtbBwe9T" }}
 

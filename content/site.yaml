@@ -3,11 +3,16 @@ og_description: a.k.a. The Miha Artnak a.k.a. human
 og_image: http://artur.zekcrew.com/assets/projects/zajci/zajc-rdec-2.jpg
 
 postscript: |
-  <p style='text-align: center; font-weight: bold;'>If you find any joy and value in what I do, please consider donating BTC to this address </p>
   
+
+  <p style='text-align: center; font-weight: bold;'>If you find any joy and value in what I do, please consider donating Bitcoin to this address </p>
+  
+  <img src="/assets/projects/fake-good-news-ep1s1/qr-btc.jpg" />
+
   <p style='text-align: center;'><a style='text-decoration: none; background: #FFB119; color: white; font-weight: bold; padding: 0.5rem; border-radius: 4px;'>1N968bEU9bahcWQazkx9PJF4MEAtbBwe9T</a></p>
 
   <p style='text-align: center;'>[About The Miha Artnak](https://docs.google.com/document/d/1vJw2Uhh4Qugvt0ww_UMp3mLEAjIte-bwdVyVCOPMQLY/edit?usp=sharing) | [ZEK Crew](http://zekcrew.com) | [Studio People](http://people.ooo)</p>
+
 
 hostname: localhost:9080
 asset_host: artur.netlify.com

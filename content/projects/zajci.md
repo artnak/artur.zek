@@ -77,6 +77,26 @@ order: 11000
 
 {{> label title="by Tomaž Lavrič " description="2014" }}
 
+{{ spacer }} {{ spacer }} 
 
+## [@streets_artnak](www.instagram.com/streets_artnak)
+
+## [ZEK Crew](www.zek.crew.com)
+
+## [Ljudje](www.people.ooo)
+
+{{ spacer }} {{ spacer }} 
+
+<p style='text-align: center; font-weight: bold;'>If you find any joy and value in what I do, please consider donating Bitcoin to this address </p>
+  
+{{> img src="qr-btc.jpg" size="small"}}
+
+<p style="text-align: center;">
+ARTIST's BTC ADDRESS 
+</p>
+<p style="text-align: center;">
+</p> 
+
+{{> bitcoin address="1N968bEU9bahcWQazkx9PJF4MEAtbBwe9T" }}
 
 

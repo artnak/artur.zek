@@ -17,10 +17,6 @@ order: 1000
 {{> label title="The Miha Artnak: Inner Battles of an Ape" description="print on paper, 2017" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="dead-goldfish.jpg" }}
-{{> label title="The Miha Artnak: No more wishes" description="print on paper, 2016" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
-
 {{> img src="prosimo.jpg" }}
 {{> label title="The Miha Artnak: Please, take the money" description="print on paper, 2016" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
@@ -64,6 +60,28 @@ order: 1000
 {{> label title="ZEK: 3D čačka / 3D Scribble" description="scribble, 2007" }}
 {{> label title="" description="with Martin Šoštarič, from exhibition ZEK (2012)" }}
 
+
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
+
+## [@streets_artnak](www.instagram.com/streets_artnak)
+
+## [ZEK Crew](www.zek.crew.com)
+
+## [Ljudje](www.people.ooo)
+
+{{ spacer }} {{ spacer }} 
+
+<p style='text-align: center; font-weight: bold;'>If you find any joy and value in what I do, please consider donating Bitcoin to this address </p>
+  
+{{> img src="qr-btc.jpg" size="small"}}
+
+<p style="text-align: center;">
+ARTIST's BTC ADDRESS 
+</p>
+<p style="text-align: center;">
+</p> 
+
+{{> bitcoin address="1N968bEU9bahcWQazkx9PJF4MEAtbBwe9T" }}
 
 
 

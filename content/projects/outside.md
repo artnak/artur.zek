@@ -8,7 +8,8 @@ order: 999
 
 {{> img src="srna-Tine-Lindic.jpg" size="small"}}
 
-<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1198587140169340.1073741829.194900877204643%26type%3D3&width=500" width="500" height="626" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1198587140169340.1073741829.194900877204643%26type%3D3&width=500" width="100%" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> 
 
 {{> label title="The Miha Artnak: Dead Santa" description="December, 2015" }}
 {{> label title="" description="Photo: Nika Jurman, Tine Lindič" }}
@@ -18,7 +19,7 @@ order: 999
 
 {{> youtube id="wZnL5_w-DyM" }} 
 
-<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fposts%2F1150390351655686&width=500" width="500" height="626" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
+<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fposts%2F1150390351655686&width=500" width="100%" height="626" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
 
 {{> label title="The Miha Artnak:  أهلاً و سهلاً" description="wood, paint, 2015" }}
 {{> label title="" description="With friends from Metlika" }}
@@ -27,7 +28,7 @@ order: 999
 {{> img src="newmsg3.jpg" }}
 {{> img src="newmsg2.jpg" size="small"}}
 
-<h2> <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F990461967648526%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe> </h2>
+<h2> <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F990461967648526%2F&show_text=0&width=560" width="100%" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe> </h2>
 
 {{> label title="The Miha Artnak: New Message" description="mixed media, 2014" }}
 {{> label title="" description="With Urša de Reya and Andraž Tarman / Photo: Tilen Sepič / Installation art made for Sodobni obrazi Emone / Project managers: Damijana Slabe and Nadja Ocepek with help of: Katarina Bobek, Katarina Žagar, Alja Fir, Anja Tomažič, ZVKDS / emonec.com" }}
@@ -49,7 +50,7 @@ order: 999
 
 {{> img src="chase3.jpg" }}
 {{> img src="chase2.jpg" size="small"}}
-<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150781551647700%2F%3Ftype%3D3&width=500" width="500" height="443" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
+<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150781551647700%2F%3Ftype%3D3&width=500" width="100%" height="443" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
 
 {{> label title="The Miha Artnak: The Chase" description="stencil, 2011" }}
 {{> label title="" description="Photo: Matevž Paternoster" }}
@@ -94,7 +95,7 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 
 {{> img src="canaria2.jpg" }}
 {{> vimeo id="36658502" }}
-<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150782796542700%2F%3Ftype%3D3&width=500" width="500" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
+<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150782796542700%2F%3Ftype%3D3&width=500" width="100%" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
 {{> label title="The Miha Artnak: Spoznavanje narave družbe / Nature of Society" description="paint, 2011" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
@@ -116,3 +117,25 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 {{> label title="The Miha Artnak: Global" description="posters, 2007" }}
+
+{{ spacer }} {{ spacer }} 
+
+## [@streets_artnak](www.instagram.com/streets_artnak)
+
+## [ZEK Crew](www.zek.crew.com)
+
+## [Ljudje](www.people.ooo)
+
+{{ spacer }} {{ spacer }} 
+
+<p style='text-align: center; font-weight: bold;'>If you find any joy and value in what I do, please consider donating Bitcoin to this address </p>
+  
+{{> img src="qr-btc.jpg" size="small"}}
+
+<p style="text-align: center;">
+ARTIST's BTC ADDRESS 
+</p>
+<p style="text-align: center;">
+</p> 
+
+{{> bitcoin address="1N968bEU9bahcWQazkx9PJF4MEAtbBwe9T" }}

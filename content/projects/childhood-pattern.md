@@ -67,5 +67,26 @@ stags.parentNode.insertBefore(js,stags);})(document,'script','imdb-rating-api');
 {{> label title="Mini-spraycan-photography-object" description="by Miha Erjavec" }}
 {{ spacer }} 
 
-<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fposts%2F162787697212422&width=500" width="500" height="444" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
+<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fposts%2F162787697212422&width=500" width="100%" height="490" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
 
+{{ spacer }} {{ spacer }} 
+
+## [@streets_artnak](www.instagram.com/streets_artnak)
+
+## [ZEK Crew](www.zek.crew.com)
+
+## [Ljudje](www.people.ooo)
+
+{{ spacer }} {{ spacer }} 
+
+<p style='text-align: center; font-weight: bold;'>If you find any joy and value in what I do, please consider donating Bitcoin to this address </p>
+  
+{{> img src="qr-btc.jpg" size="small"}}
+
+<p style="text-align: center;">
+ARTIST's BTC ADDRESS 
+</p>
+<p style="text-align: center;">
+</p> 
+
+{{> bitcoin address="1N968bEU9bahcWQazkx9PJF4MEAtbBwe9T" }}
