@@ -120,6 +120,8 @@ I started ZN Media Facebook page and shared some existing viral videos to build 
 
 <p style="text-align: center;"> 30th October, 2017 </p>
 
+{{> img src="fb-comments.jpg" size="small"}}
+
 {{> img src="results.png" size="small"}}
 
 I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437/) on ZN Media Facebook page and promoted it with 80 EUR. It got 80.000 views thanks to great marketing skills of a friend 
