@@ -2,7 +2,7 @@
 name: Fake Good News 
 thumbnail: bela.png
 cover: hero2.png
-description: Episode 1 
+description:
 order: 12001
 ---
   
@@ -53,7 +53,7 @@ ARTIST's ETH ADDRESS
 
 {{> eth address="0xD45B9897cEB4A9161438C3Dd7cB1ED136272598b" }}
 
-{{ spacer }} {{ spacer }} 
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
 # Origin
 

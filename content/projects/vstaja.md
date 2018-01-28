@@ -1,5 +1,5 @@
 ---
-name: Vstaja
+name: V S T A J A
 thumbnail: vstaja1.jpg
 cover: zastava1.jpg
 description: 2012 -
@@ -30,4 +30,4 @@ order: 10000
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 {{ spacer }} 
 
-<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fposts%2F548379718523422%3A0&width=500" width="500" height="529" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
+<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fposts%2F548379718523422%3A0&width=500" width="100%" height="529" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>

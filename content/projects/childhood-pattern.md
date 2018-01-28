@@ -12,7 +12,6 @@ order: 8000
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-
 {{> vimeo id="38960808" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
@@ -20,14 +19,37 @@ order: 8000
 {{> img src="the-miha-artnak-childhood-pattern-01.jpg" }}
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-{{> img src="the-miha-artnak-childhood-pattern-02.jpg" }}
+{{> img src="the-miha-artnak-childhood-pattern-02.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-## WATCH MOVIE ONLINE
+# WATCH MOVIE ONLINE
+
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> vimeo id="39790215" }}
 {{ spacer }} {{ spacer }} {{ spacer }} 
-{{> label title="Childhood Pattern" description="Written by The Miha Artnak • Directed by Tilen Sepič • Starring: The Miha Artnak / Mix for movie: žakpižon / Mix for trailer: Felis Catus / Sound: Peter Žargi / Photography: Ada Hamza / Translation: Nika Jurman / Runtime: 15 min (approx.); Color: Color (HD); Country: Slovenia 🇸🇮; Language: Slovenian (English Subtitles); Year: 2012; Also Known As: Vzorec iz otroštva" }}
+
+{{> img src="prosnja.jpg" size="small"}}
+
+{{> label title="Unofficial application for spraying on the wall" description="2011" }}
+
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
+{{> img src="the-miha-artnak-childhood-pattern-03.jpg" size="small"}}
+
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
+{{> img src="artnak-miha-erjavec.jpg" size="small" }}
+{{> label title="Mini-spraycan-photography-object" description="by Miha Erjavec" }}
+
+{{ spacer }} {{ spacer }} 
+
+# ______
+Written by <b>The Miha Artnak</b>
+
+Director: <b>Tilen Sepič</b>
+
+Starring: The Miha Artnak / Mix for movie: žakpižon / Mix for trailer: Felis Catus / Sound: Peter Žargi / Photography: Ada Hamza / Translation: Nika Jurman / Runtime: 15 min (approx.); Color: Color (HD); Country: Slovenia 🇸🇮; Language: Slovenian (English Subtitles); Year: 2012; Also Known As: Vzorec iz otroštva
 
 {{ spacer }}             
 
@@ -51,23 +73,6 @@ stags.parentNode.insertBefore(js,stags);})(document,'script','imdb-rating-api');
 {{> label title="Dj Bartillier" description="ubistvu je namen tega filma da gledamo artnakovo guzo 15 min" }}
 
 {{> label title="Vuk Ćosić ★★★★★" description="The Miha film je pogumen in prepričljiv. Dobro deluje skupaj s trailerjem in bi morda celo priporočal skupno predvajanje, vsakič." }}
-
-{{ spacer }} {{ spacer }} {{ spacer }} 
-
-{{> img src="the-miha-artnak-childhood-pattern-03.jpg" }}
-
-{{ spacer }} {{ spacer }} {{ spacer }} 
-
-{{> img src="prosnja.jpg" size="small"}}
-{{> label title="Unofficial application for spraying on the wall" description="2011" }}
-
-{{ spacer }} {{ spacer }} {{ spacer }} 
-
-{{> img src="artnak-miha-erjavec.jpg" }}
-{{> label title="Mini-spraycan-photography-object" description="by Miha Erjavec" }}
-{{ spacer }} 
-
-<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fposts%2F162787697212422&width=500" width="100%" height="490" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
 
 {{ spacer }} {{ spacer }} 
 

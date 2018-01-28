@@ -1,62 +1,109 @@
 ---
-name: Works
+name:
 thumbnail: what-right-zek.jpg
-cover: doveandpeace.jpg
+cover:
 description:
 order: 1000
 ---
 
-{{> label title="The Miha Artnak: Dove & Peace" description="poop art, 2017" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
+# G A L L E R Y
 
-{{> img src="dead-captain-planet.jpg" }}
-{{> label title="The Miha Artnak: Dead Captain Planet" description="print on paper, 2017" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
+# ___
 
-{{> img src="inner-battles-ape.jpg" }}
+{{ spacer }} {{ spacer }} 
+
+## The Miha Artnak
+
+# Dove & Peace
+
+<p style="text-align: center;">
+<i>poop art, 2017</i>
+</p>
+
+{{> img src="doveandpeace.jpg" size="small"}}
+
+<p style="text-align: right;">
+PRICE 
+</p>
+
+<p style="text-align: right;">
+<b> 5000 ETH</b>
+</p>
+
+<p style="text-align: right;">
+Free shipping
+</p>
+
+{{ spacer }}
+
+{{> img src="qr-eth.jpg" size="small"}}
+
+<p style="text-align: center;">
+ARTIST's ETH ADDRESS 
+</p>
+
+<p style="text-align: center;">
+</p>
+
+{{> eth address="0xD45B9897cEB4A9161438C3Dd7cB1ED136272598b" }}
+
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
+
+
+<p style="text-align: center;">
+T H E 
+</p>
+
+# C O L L E C T I O N
+
+# ___
+
+{{ spacer }} {{ spacer }} 
+
+{{> img src="inner-battles-ape.jpg" size="small"}}
 {{> label title="The Miha Artnak: Inner Battles of an Ape" description="print on paper, 2017" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="prosimo.jpg" }}
+{{> img src="prosimo.jpg" size="small"}}
 {{> label title="The Miha Artnak: Please, take the money" description="print on paper, 2016" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="misice.jpg" }}
+{{> img src="misice.jpg" size="small"}}
 {{> label title="The Miha Artnak: Mišice in misice / Lost Lust" description="mannequins, 2016" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="milka-1.jpg"}}
+{{> img src="milka-1.jpg" size="small"}}
 {{> label title="The Miha Artnak: Milka" description="dead cow's skin, 2014" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="puscica.jpg" }}
+{{> img src="puscica.jpg" size="small"}}
 {{> label title="ZEK: Smer? / What Right?" description="sheet metal, 2012" }}
 {{> label title="" description="from exhibition ZEK (2012)" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="cactus.jpg" }}
 {{> video_loop src="cactus2.mp4" frame="false" }}
+{{> img src="cactus.jpg" size="small"}}
 {{> label title="ZEK: Ψ" description="mixed media, 2011" }}
 {{> label title="" description="with Žiga Aljaž, Martin Šoštarič and Andraž Tarman from exhibition ZEK (2012)" }}
 
-{{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="perfect-balance.jpg" }}
+{{> img src="perfect-balance.jpg" size="small"}}
 {{> img src="perfect-balance2.jpg" size="small" }}
 {{> label title="ZEK: Popolna stabilnost / Perfect Balance" description="acrylic paint on ferroconcrete, 2012" }}
 {{> label title="" description="from exhibition ZEK (2012)" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="matter-spacetime.jpg" }}
+{{> img src="matter-spacetime.jpg" size="small"}}
 {{> label title="ZEK: Vprašanje prostora je samo vprašanje časa / The Matter of Space is Only a Matter of Time" description="iron zero point, 2012" }}
 {{> label title="" description="from exhibition ZEK (2012)" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="eruption.jpg" size="small"}}
 {{> label title="The Miha Artnak: Izbruh / Eruption" description="print on paper, 2010" }}
-{{ spacer }} {{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
-{{> img src="scribble.jpg" }}
+{{> img src="scribble.jpg" size="small"}}
 {{> label title="ZEK: 3D čačka / 3D Scribble" description="scribble, 2007" }}
 {{> label title="" description="with Martin Šoštarič, from exhibition ZEK (2012)" }}
 

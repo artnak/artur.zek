@@ -23,7 +23,7 @@ order: 2000
 {{> img src="layers-limits.jpg" size="small" }}
 {{> label title="Layers" description="stickers, 2010" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
-<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150326564222700%2F%3Ftype%3D3&width=500" width="100%" height="443" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
+<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150326564222700%2F%3Ftype%3D3&width=500" width="100%" height="470" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
 
 {{> img src="sunglasses.jpg" }}
 {{> label title="Way far" description="mixed media, 2012 - 2017" }}

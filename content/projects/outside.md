@@ -6,20 +6,17 @@ description:
 order: 999
 ---
 
+{{> label title="The Miha Artnak: Dead Santa" description="December, 2015" }}
+{{> label title="" description="Photo: Nika Jurman" }}
+
 {{> img src="srna-Tine-Lindic.jpg" size="small"}}
 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1198587140169340.1073741829.194900877204643%26type%3D3&width=500" width="100%" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> 
-
-{{> label title="The Miha Artnak: Dead Santa" description="December, 2015" }}
-{{> label title="" description="Photo: Nika Jurman, Tine Lindič" }}
+{{> label title="" description="Photo: Tine Lindič" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="dobrodosli2.jpg" }}
 
 {{> youtube id="wZnL5_w-DyM" }} 
-
-<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fposts%2F1150390351655686&width=500" width="100%" height="626" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
 
 {{> label title="The Miha Artnak:  أهلاً و سهلاً" description="wood, paint, 2015" }}
 {{> label title="" description="With friends from Metlika" }}
@@ -28,7 +25,7 @@ order: 999
 {{> img src="newmsg3.jpg" }}
 {{> img src="newmsg2.jpg" size="small"}}
 
-<h2> <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F990461967648526%2F&show_text=0&width=560" width="100%" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe> </h2>
+<h2> <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F990461967648526%2F&show_text=0&width=560" width="100%" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe> </h2>
 
 {{> label title="The Miha Artnak: New Message" description="mixed media, 2014" }}
 {{> label title="" description="With Urša de Reya and Andraž Tarman / Photo: Tilen Sepič / Installation art made for Sodobni obrazi Emone / Project managers: Damijana Slabe and Nadja Ocepek with help of: Katarina Bobek, Katarina Žagar, Alja Fir, Anja Tomažič, ZVKDS / emonec.com" }}
@@ -50,7 +47,7 @@ order: 999
 
 {{> img src="chase3.jpg" }}
 {{> img src="chase2.jpg" size="small"}}
-<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150781551647700%2F%3Ftype%3D3&width=500" width="100%" height="443" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
+<h2><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstreetartutopia%2Fphotos%2Fa.311820137699.147776.310375597699%2F10150781551647700%2F%3Ftype%3D3&width=500" width="100%" height="460" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></h2>
 
 {{> label title="The Miha Artnak: The Chase" description="stencil, 2011" }}
 {{> label title="" description="Photo: Matevž Paternoster" }}
@@ -80,7 +77,7 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 {{> img src="rise3.jpg" }}
 {{> img src="rise4.jpg" size="small"}}
 
- <div class="tumblr"> <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/NTXyjC-zGfvoFK6m4C6QsA/17803253941" data-did="ea824d98681bff6d71deea5cd98246a4c7f09549"><a href="http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall">http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall</a></div>  <script async src="https://assets.tumblr.com/post.js"></script> </div>
+<div class="tumblr"> <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/NTXyjC-zGfvoFK6m4C6QsA/17803253941" data-did="ea824d98681bff6d71deea5cd98246a4c7f09549"><a href="http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall">http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall</a></div>  <script async src="https://assets.tumblr.com/post.js"></script> </div> 
 
 {{ spacer }}
 {{> label title="The Miha Artnak: Pomlad je sen zime / The Rise of the Fall" description="mixed media, 2011" }}

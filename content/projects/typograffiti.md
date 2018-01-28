@@ -135,8 +135,6 @@ order: 4000
 {{> img src="tipografiti-18.jpg" size="small"}}
 {{ spacer }} 
 
-<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmiha.artnak%2Fposts%2F10158079251585181&width=500" width="100%" height="467" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
-
 {{ spacer }} {{ spacer }} 
 
 ## [@streets_artnak](www.instagram.com/streets_artnak)

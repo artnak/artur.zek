@@ -1,5 +1,5 @@
 ---
-name: Zajci
+name: Z A J C I
 thumbnail: enopotezni.jpg
 cover: the-miha-artnak-childhood-pattern-03.jpg
 description: 
