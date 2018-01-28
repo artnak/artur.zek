@@ -90,7 +90,7 @@ I created a brand called [ZN Media](https://www.facebook.com/znmedias/) (ZEK New
 
 <p style="text-align: center;"> September, 2017 </p>
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fznmedias%2Fvideos%2F10212942614514437%2F&show_text=0&width=100%" width="100%" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe id="viral_video" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fznmedias%2Fvideos%2F10212942614514437%2F&show_text=0" width="100%" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 <p style="text-align: center;">
 With my friends we predefined artwork's value with 2017 video news storytelling </p>
@@ -174,7 +174,7 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 {{> youtube id="sXEmVgbJ8D4?t=2040 " }} 
 {{> label title="Svet na Kanalu A" description="National news TV as the main story" }}
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmiha.artnak%2Fvideos%2F10159605714195181%2F&show_text=0&width=100%" width="100%" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe id="report_video" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmiha.artnak%2Fvideos%2F10159605714195181%2F&show_text=0&width=375" width="100%" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 {{> label title="Svet na Kanalu A" description="Interview with the cryptomillionare" }}
 

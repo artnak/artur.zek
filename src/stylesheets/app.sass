@@ -338,6 +338,32 @@ body.project
 
 	.contents
 
+		iframe#viral_video
+			display: block
+			width: 375px
+			height: 375px
+			margin:
+				left: auto
+				right: auto
+				bottom: 1rem
+			+breakpoint(medium)
+				width: 512px
+				height: 512px
+
+		iframe#report_video
+			display: block
+			width: 375px
+			margin:
+				left: auto
+				right: auto
+			+breakpoint(medium only)
+				width: 512px
+				height: 310px
+
+			+breakpoint(large)
+				width: 768px
+				height: 450px
+
 		.bitcoin-address
 			max-width: 470px
 
