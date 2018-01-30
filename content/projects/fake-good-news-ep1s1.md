@@ -10,10 +10,16 @@ order: 12001
 {{ spacer }}   
 
 <p style="text-align: center;">
-T H E 
+T H E
 </p>
 
 # ARTMARKET  
+
+{{ spacer }}   
+
+<p style="text-align: center;">
+EPISODE 1
+</p>
 
 {{ spacer }}
 
@@ -55,9 +61,14 @@ ARTIST's ETH ADDRESS
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# Origin
+# O R I G I N
+# __
 
-## no bullshit
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
+# No bullshit
+
+## The artwork
 
 <p style="text-align: center;"> August, 2017 </p>
 
@@ -68,6 +79,12 @@ I colored the canvas black and left it overnight in one of the dove breeding hou
 
 Hvala ti Branko.
 </p>
+
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
+# C A M P A I G N
+# __
+
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
 # 'News Media House'
@@ -180,8 +197,6 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 <iframe id="report_video" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmiha.artnak%2Fvideos%2F10159605714195181%2F&show_text=0&width=375" width="100%" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-{{> label title="Svet na Kanalu A" description="Interview with the cryptomillionare" }}
-
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 # Media Response
@@ -194,7 +209,6 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# __
 # Validation
 
 ## Research journalism 
