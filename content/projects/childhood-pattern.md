@@ -8,7 +8,15 @@ order: 8000
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# The Miha Artnak wanted to do a graffiti project in the middle of the day. He tricked the owner of the wall into accepting this idea by showing him a fake authorisation supposedly sent by the Ministry of Culture. Soon the police came to the scene while he was still painting on the wall, but Miha had the owner's approval making it legal to continue.
+# "The Miha Artnak wanted to do a graffiti project in the middle of the day. He tricked the owner of the wall into accepting this idea by showing him a fake authorisation supposedly sent by the Ministry of Culture. Soon the police came to the scene while he was still painting on the wall, but Miha had the owner's approval making it legal to continue. I believe it to be my art piece of the day."
+
+<p style="text-align: right;">
+<b> Borut Pahor</b>, president of Slovenia
+</p>
+
+<p style="text-align: right;">
+<i> #presidentofslovenia #superproud #onelove #graffiti </i>
+</p>
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 

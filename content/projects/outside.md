@@ -5,12 +5,9 @@ cover: bozicek5.jpg
 description:
 order: 999
 ---
-
-{{> label title="" description="Photo: Nika Jurman" }}
-
 # Dead Santa
 
-{{> label title="" description="December, 2015" }}
+{{> label title="" description="Photo: Nika Jurman, December 2015" }}
 
 {{> img src="srna-Tine-Lindic.jpg" size="small"}}
 
@@ -20,7 +17,7 @@ order: 999
 
 # أهلاً و سهلاً
 
-{{> label title="" description="With friends from Metlika, 2015" }}
+{{> label title="" description="with friends from Metlika, 2015" }}
 
 {{> img src="dobrodosli2.jpg" }}
 
