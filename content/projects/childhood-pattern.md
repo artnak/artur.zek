@@ -1,5 +1,5 @@
 ---
-name: Childhood Pattern
+name: Childhood Pattern (2012)
 thumbnail: kapsi2.jpg
 cover: kapsi.png
 description: 
@@ -8,9 +8,19 @@ order: 8000
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# It was the summer of 2011 and Slovenian artist The Miha Artnak went on doing a graffiti project with his friends in the middle of the day. He tricked the owner of the wall with a fake authorisation of the project saying he was sent by the Ministry of culture. By the time the policemen came to the scene the only official permission the artist had was a word approval from the owner of the wall and nobody knew what to expect. 
+# The Miha Artnak wanted to do a graffiti project in the middle of the day. He tricked the owner of the wall into accepting this idea by showing him a fake authorisation supposedly sent by the Ministry of Culture. Soon the police came to the scene while he was still painting on the wall, but Miha had the owner's approval making it legal to continue.
+
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
+{{> img src="prosnja.jpg" size="small"}}
+
+{{> label title="Unofficial application for spraying on the wall" description="2011" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+# WATCH TRAILER
+
+{{ spacer }}  
 
 {{> vimeo id="38960808" }}
 
@@ -20,18 +30,20 @@ order: 8000
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> img src="the-miha-artnak-childhood-pattern-02.jpg" size="small"}}
+
+{{> label title="" description="Photo: Ada Hamza" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# WATCH MOVIE ONLINE
+# WATCH THE MOVIE
 
-{{ spacer }} {{ spacer }} {{ spacer }} 
+{{ spacer }} 
 
 {{> vimeo id="39790215" }}
-{{ spacer }} {{ spacer }} {{ spacer }} 
 
-{{> img src="prosnja.jpg" size="small"}}
+{{ spacer }} 
 
-{{> label title="Unofficial application for spraying on the wall" description="2011" }}
+Written by The Miha Artnak / Directed by Tilen Sepič / Starring: The Miha Artnak / Mix for movie: žakpižon / Mix for trailer: Felis Catus / Sound: Peter Žargi / Photography: Ada Hamza / Translation: Nika Jurman / Runtime: 15 min (approx.); Color: Color (HD); Country: Slovenia 🇸🇮; Language: Slovenian (English Subtitles); Year: 2012; Also Known As: Vzorec iz otroštva
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
@@ -44,14 +56,7 @@ order: 8000
 
 {{ spacer }} {{ spacer }} 
 
-# ______
-Written by <b>The Miha Artnak</b>
-
-Director: <b>Tilen Sepič</b>
-
-Starring: The Miha Artnak / Mix for movie: žakpižon / Mix for trailer: Felis Catus / Sound: Peter Žargi / Photography: Ada Hamza / Translation: Nika Jurman / Runtime: 15 min (approx.); Color: Color (HD); Country: Slovenia 🇸🇮; Language: Slovenian (English Subtitles); Year: 2012; Also Known As: Vzorec iz otroštva
-
-{{ spacer }}             
+          
 
 <h2> <span class="imdbRatingPlugin" data-user="ur35423340" data-title="tt2456240" data-style="t1">
 <a href="http://www.imdb.com/title/tt2456240/?ref_=tt_plg_rt"
@@ -74,6 +79,14 @@ stags.parentNode.insertBefore(js,stags);})(document,'script','imdb-rating-api');
 
 {{> label title="Vuk Ćosić ★★★★★" description="The Miha film je pogumen in prepričljiv. Dobro deluje skupaj s trailerjem in bi morda celo priporočal skupno predvajanje, vsakič." }}
 
+{{ spacer }}  
+
+# ______
+Performance by <b>The Miha Artnak</b>
+
+with: <b>Nika Jurman, Tilen Sepič, Ada Hamza, Jaka Golob, Peter Žargi, Gregor Kocijančič, Žiga Aljaž, Miha Erjavec, Nejc Zajc and Igor Levstik.</b>
+
+ 
 {{ spacer }} {{ spacer }} 
 
 ## [@streets_artnak](www.instagram.com/streets_artnak)

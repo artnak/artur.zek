@@ -64,7 +64,7 @@ ARTIST's ETH ADDRESS
 # O R I G I N
 # __
 
-{{ spacer }} {{ spacer }} {{ spacer }} 
+{{ spacer }} {{ spacer }}
 
 # No bullshit
 
@@ -225,6 +225,11 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 [{{> img src="vecer.png" size="small"}}](https://www.vecer.com/kako-je-slovencu-uspelo-prodati-golobje-iztrebke-za-milijon-evrov-6350439)
 
 {{> vimeo id="252658012" }} 
+
+{{> img src="pilot.jpg" size="small"}}
+
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-type="article-full"><h4><a href="http://www.mladina.si/184033/nic-vec-svinjine-na-gimnaziji-vic/">Nič več svinjine na Gimnaziji Vič | MLADINA.si</a></h4><p>Lažna spletna stran Mladine © Urban Lečnik Spaić Če ste prejšnji teden na spletu zasledili članek z naslovom Nič več svinjine na Gimnaziji Vič, kjer je pisalo, da želi vodstvo šole dijakom in dijakinjam muslimanske vere olajšati razmere, ste mu, če niste bili pozorni, po vsej verjetnosti verjeli, saj naj bi bil objavljen na spletni strani Mladine.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 

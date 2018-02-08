@@ -1,1 +1,1 @@
-<b>A  R  T  U  R  / [Z E K](http://zekcrew.com)</b>
+<b> THE MIHA ARTNAK</b> 

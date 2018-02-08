@@ -1,14 +1,10 @@
 ---
-name:
+name: W O R K S
 thumbnail: what-right-zek.jpg
 cover:
 description:
 order: 1000
 ---
-
-# G A L L E R Y
-
-# ___
 
 {{ spacer }} {{ spacer }} 
 
@@ -50,18 +46,8 @@ ARTIST's ETH ADDRESS
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
 
-<p style="text-align: center;">
-T H E 
-</p>
-
-# C O L L E C T I O N
-
-# ___
-
-{{ spacer }} {{ spacer }} 
-
 {{> img src="inner-battles-ape.jpg" size="small"}}
-{{> label title="The Miha Artnak: Inner Battles of an Ape" description="print on paper, 2017" }}
+{{> label title="The Miha Artnak: Opičja izbira / Inner Battles of an Ape" description="print on paper, 2017" }}
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="prosimo.jpg" size="small"}}
@@ -69,7 +55,7 @@ T H E
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="misice.jpg" size="small"}}
-{{> label title="The Miha Artnak: Mišice in misice / Lost Lust" description="mannequins, 2016" }}
+{{> label title="The Miha Artnak: Mišice in misice / The Last List of Lost Lust" description="mannequins, 2016" }}
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="milka-1.jpg" size="small"}}

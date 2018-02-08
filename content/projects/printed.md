@@ -16,7 +16,7 @@ order: 2000
 
 {{> img src="iraq.jpg" size="small"}}
 {{> label title="Iraq" description="Ljubljana, 2011" }}
-{{> label title="" description="I did this with Tibor Kranjc" }}
+{{> label title="" description="with Tibor Kranjc" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="layers.jpg" }}
@@ -39,12 +39,12 @@ order: 2000
 
 {{> img src="nike-the-miha-artnak-foto-tilen-sepic.jpg" size="small"}} 
 {{> label title="Nike" description="poster, 2005" }}
-{{> label title="" description="I did this with Žiga Aljaž / Photo: Tilen Sepič" }}
+{{> label title="" description="with Žiga Aljaž / Photo: Tilen Sepič" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="scream.jpg" }}
 {{> label title="Scream" description="print, 2004" }}
-{{> label title="" description="I did this Žiga Aljaž" }}
+{{> label title="" description="with Žiga Aljaž" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="stickers-artnak.JPG" size="small"}} 
