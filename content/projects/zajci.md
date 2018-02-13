@@ -6,9 +6,9 @@ description:
 order: 11000
 ---
 
-{{> img src="zajc-moste.jpg" size="small" size="small" }}
+{{> img src="zajc-moste.jpg" size="small" }}
 
-{{> img src="zajc-askerceva.jpg" size="small" size="small" }}
+{{> img src="zajc-askerceva.jpg" size="small" }}
 
 {{> img src="navpicno.jpg" size="small" }}
 
