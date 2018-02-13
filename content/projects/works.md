@@ -45,6 +45,9 @@ ARTIST's ETH ADDRESS
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
+{{> img src="mamuti.jpg" size="small"}}
+{{> label title="The Miha Artnak: Mamuti / Yomama" description="acrylic on canvas, 2017" }}
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="inner-battles-ape.jpg" size="small"}}
 {{> label title="The Miha Artnak: Opičja izbira / Inner Battles of an Ape" description="print on paper, 2017" }}
@@ -86,7 +89,7 @@ ARTIST's ETH ADDRESS
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="eruption.jpg" size="small"}}
-{{> label title="The Miha Artnak: Izbruh / Eruption" description="print on paper, 2010" }}
+{{> label title="The Miha Artnak: Izbruh / Eruption" description="print on canvas, 2010" }}
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="scribble.jpg" size="small"}}

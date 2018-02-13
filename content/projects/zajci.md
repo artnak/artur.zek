@@ -10,6 +10,8 @@ order: 11000
 
 {{> img src="zajc-askerceva.jpg" size="small" size="small" }}
 
+{{> img src="navpicno.jpg" size="small" }}
+
 {{> img src="zajc-fuzine.jpg" size="small" }}
 
 {{> img src="zajci-vec.jpg" size="small" }}
