@@ -1,9 +1,9 @@
 ---
-name: Fake Good News 
-thumbnail: bela.png
+name: Fake Good News S01 E01
+thumbnail: die-artwork.jpg
 cover: hero2.png
 description:
-order: 12001
+order: 997
 ---
   
 
@@ -160,12 +160,12 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{> label title="with [Srđan Prodanović](https://github.com/some1else)" description="coding" }}
 
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}  
 
 # R E S U L T S
 # __
 
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}  
+{{ spacer }} {{ spacer }} {{ spacer }}   
 
 # Real Newspaper
 
@@ -246,7 +246,7 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 <i>mixed media</i>
 </p>
 
-{{> img src="die-artwork.jpg" size="small"}}
+{{> img src="die-artwork-closeup.jpg" size="small"}}
 
 <p style="text-align: right;">
 PRICE 
