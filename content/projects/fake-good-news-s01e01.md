@@ -64,8 +64,6 @@ ARTIST's ETH ADDRESS
 # O R I G I N
 # __
 
-{{ spacer }} {{ spacer }}
-
 # No bullshit
 
 ## The artwork
@@ -84,9 +82,7 @@ Hvala ti Branko.
 
 # C A M P A I G N
 # __
-
-{{ spacer }} {{ spacer }} {{ spacer }} 
-
+ 
 # 'News Media House'
 
 ## Brand
@@ -110,10 +106,11 @@ I created a brand called [ZN Media](https://www.facebook.com/znmedias/) (ZEK New
 <iframe id="viral_video" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fznmedias%2Fvideos%2F10212942614514437%2F&show_text=0" width="100%" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 <p style="text-align: center;">
-With my friends we predefined artwork's value with 2017 video news storytelling </p>
-<p style="text-align: center;">
 <i>#millions #artmarket #plausible #simple</i>
 </p>
+
+<p style="text-align: center;">
+Thanks to my friends, I predefined artwork's value with 2017 video news storytelling </p>
 
 {{> label title="with Žiga Aljaž and Tadej Štrok" description="video production" }}
 
@@ -127,10 +124,10 @@ With my friends we predefined artwork's value with 2017 video news storytelling 
 
 [{{> img src="zn.png" size="small"}}](https://www.facebook.com/znmedias/)
 
-I started ZN Media Facebook page and shared some existing viral videos to build a history timeline
+<p style="text-align: center;">
+I started ZN Media Facebook page and shared some existing viral videos to build a history timeline </p>
 
 {{ spacer }} {{ spacer }} 
-
 
 # 'Public opinion'
 
@@ -142,7 +139,8 @@ I started ZN Media Facebook page and shared some existing viral videos to build 
 
 {{> img src="results.png" size="small"}}
 
-I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437/) on ZN Media Facebook page and promoted it with 80 EUR. It got 80.000 views thanks to great marketing skills of a friend 
+<p style="text-align: center;">
+I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437/) on ZN Media Facebook page and promoted it with 80 EUR. It got 80.000 views thanks to great marketing skills of a friend </p>
 
 {{> label title="with Matteo Pasi" description="ad campaign" }}
 
@@ -156,7 +154,8 @@ I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437
 
 [{{> img src="guardian.png" size="small"}}](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art)
 
-I published my own article on [Guadrain](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art) (a fake replicate of original Guardian's webpage)
+<p style="text-align: center;">
+I published my own article on [Guadrain](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art) (a fake replicate of original Guardian's webpage) </p>
 
 {{> label title="with [Srđan Prodanović](https://github.com/some1else)" description="coding" }}
 
@@ -229,6 +228,9 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 {{> img src="pilot.jpg" size="small"}}
 
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-type="article-full"><h4><a href="http://www.mladina.si/184033/nic-vec-svinjine-na-gimnaziji-vic/">Nič več svinjine na Gimnaziji Vič | MLADINA.si</a></h4><p>Lažna spletna stran Mladine © Urban Lečnik Spaić Če ste prejšnji teden na spletu zasledili članek z naslovom Nič več svinjine na Gimnaziji Vič, kjer je pisalo, da želi vodstvo šole dijakom in dijakinjam muslimanske vere olajšati razmere, ste mu, če niste bili pozorni, po vsej verjetnosti verjeli, saj naj bi bil objavljen na spletni strani Mladine.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-image="http://img.rtvslo.si/_up/ava/ava_misc/show_logos/609/porocila.jpg" data-card-type="article-full"><h4><a href="http://4d.rtvslo.si/arhiv/porocila/174522498">Poročila ob 10h</a></h4><p>V Poročilih ob 22.00 uri se lahko hitro in učinkovito seznanite z vsemi najpomembnejšimi novicami iz domovine in sveta.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
