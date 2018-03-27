@@ -3,7 +3,7 @@ name: Printed
 thumbnail: layers-nature.jpg
 cover: notarobot.JPG
 description:
-order: 2000
+order: 8000
 ---
 
 {{> img src="truth1.jpg" }}

@@ -3,7 +3,7 @@ name: Childhood Pattern (2012)
 thumbnail: kapsi2.jpg
 cover: kapsi.png
 description: 
-order: 8000
+order: 2000
 ---
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
