@@ -8,13 +8,13 @@ order: 12000
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# “Evo, za sto evrov!” 
+# “Evo za sto evrov!” 
 
-# Ck! 
+# <i>Ck!</i>
 
-# “Ajde pare.”  
+# “Dej pare.”  
 
-# “Ne, js bi ti jih dal, ce bi falil.” 
+# “Ne, js bi ti jih dal, ce bi falil koš.” 
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
