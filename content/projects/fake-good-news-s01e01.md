@@ -74,7 +74,9 @@ ARTIST's ETH ADDRESS
 
 <p style="text-align: center;">
 I colored the canvas black and left it overnight in one of the dove breeding houses. I wanted it to be painted with doves feces to get that expressionistic mood. And doves have so much symbolism attached to it that it's a self explanatory piece. Many thanks goes to Branko Jurman who helped me do the painting. 
+</p>
 
+<p style="text-align: center;">
 Hvala ti Branko.
 </p>
 
@@ -92,7 +94,7 @@ Hvala ti Branko.
 {{> img src="zn-logo.jpg" size="small"}}
 
 <p style="text-align: center;">
-I created a brand called [ZN Media](https://www.facebook.com/znmedias/) (ZEK News) for sharing viral video feed
+I created a brand called [ZN Media](https://www.facebook.com/znmedias/) (ZEK News) for sharing 'viral' content
 </p>
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
@@ -110,7 +112,7 @@ I created a brand called [ZN Media](https://www.facebook.com/znmedias/) (ZEK New
 </p>
 
 <p style="text-align: center;">
-Thanks to my friends, I predefined artwork's value with 2017 video news storytelling </p>
+I predefined artwork's value with 2017 news storytelling </p>
 
 {{> label title="with Žiga Aljaž and Tadej Štrok" description="video production" }}
 
@@ -140,7 +142,7 @@ I started ZN Media Facebook page and shared some existing viral videos to build 
 {{> img src="results.png" size="small"}}
 
 <p style="text-align: center;">
-I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437/) on ZN Media Facebook page and promoted it with 80 EUR. It got 80.000 views thanks to great marketing skills of a friend </p>
+I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437/) on ZN Media Facebook page and promoted it with 80 EUR. It got 80.000 views </p>
 
 {{> label title="with Matteo Pasi" description="ad campaign" }}
 
@@ -159,12 +161,10 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{> label title="with [Srđan Prodanović](https://github.com/some1else)" description="coding" }}
 
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}  
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
 # R E S U L T S
 # __
-
-{{ spacer }} {{ spacer }} {{ spacer }}   
 
 # Real Newspaper
 
@@ -196,14 +196,18 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 <iframe id="report_video" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmiha.artnak%2Fvideos%2F10159605714195181%2F&show_text=0&width=375" width="100%" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
+{{> img src="usralo.png" size="small"}}
+
+{{> img src="svet.png" size="small"}}
+
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-# Media Response
+# Artist lied to us!
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-type="article-full"><h4><a href="http://www.slovenskenovice.si/novice/slovenija/umetnik-lagal-o-sliki-za-milijon">Umetnik lagal o sliki za milijon</a></h4><p>￼LJUBLJANA - V torek smo objavili zgodbo, ki je zbudila precej zanimanja pri naših bralcih - ljubljanski umetnik Miha Artnak nam je namreč v pogovoru, ki je potekal prek facebooka, potrdil informacijo in podrobnosti zgodbe, ki se je prej pojavila na spletu.</p></blockquote>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="http://www.slovenskenovice.si/novice/slovenija/umetnik-lagal-o-sliki-za-milijon">Umetnik lagal o sliki za milijon</a></h4><p>￼LJUBLJANA - V torek smo objavili zgodbo, ki je zbudila precej zanimanja pri naših bralcih - ljubljanski umetnik Miha Artnak nam je namreč v pogovoru, ki je potekal prek facebooka, potrdil informacijo in podrobnosti zgodbe, ki se je prej pojavila na spletu.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-type="article"><h4><a href="http://www.24ur.com/ekskluziv/zanimivosti/kako-se-je-golobja-umetnina-izkazala-za-navadno-laz.html">Kako se je golobja umetnina izkazala za navadno laž?</a></h4><p>Pokazali smo zgodbo o Slovencu, o katerem so pisali tudi očitno na lažni spletni strani sicer uglednega britanskega časnika The Guardian, Slovencu, ki je naredil sliko iz golobjih iztrebkov in zanjo dobil milijonsko plačilo. No, zgodbo si je Miha Artnak izmislil. In se vrhunsko pripravil na prodajo le-te.</p></blockquote>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article"><h4><a href="http://www.24ur.com/ekskluziv/zanimivosti/kako-se-je-golobja-umetnina-izkazala-za-navadno-laz.html">Kako se je golobja umetnina izkazala za navadno laž?</a></h4><p>Pokazali smo zgodbo o Slovencu, o katerem so pisali tudi očitno na lažni spletni strani sicer uglednega britanskega časnika The Guardian, Slovencu, ki je naredil sliko iz golobjih iztrebkov in zanjo dobil milijonsko plačilo. No, zgodbo si je Miha Artnak izmislil. In se vrhunsko pripravil na prodajo le-te.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
@@ -213,10 +217,10 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 ## Research journalism 
 
 {{ spacer }} 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-type="article-full"><h4><a href="http://www.mladina.si/182842/fekalni-ekspresionizem-oziroma-poop-art/">Fekalni ekspresionizem oziroma poop-art | MLADINA.si</a></h4><p>Golobja umetnina © The Miha Artnak, ZEK Ljubljanski multimedijski umetnik The Miha Artnak je te dni uspešno izpeljal še eno izmed domiselnih potegavščin. S svojimi duhovitimi podvigi je doslej že večkrat marsikoga napetnajstil, denimo takrat, ko je policistom, ki so ga želeli ustaviti (in oglobiti) pri ustvarjanju Vzorca iz otroštva - osupljivo dolgega grafita, narejenega v eni potezi - suvereno predložil ponarejeno dovoljenje in mirno ustvarjal naprej.</p></blockquote>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="http://www.mladina.si/182842/fekalni-ekspresionizem-oziroma-poop-art/">Fekalni ekspresionizem oziroma poop-art | MLADINA.si</a></h4><p>Golobja umetnina © The Miha Artnak, ZEK Ljubljanski multimedijski umetnik The Miha Artnak je te dni uspešno izpeljal še eno izmed domiselnih potegavščin. S svojimi duhovitimi podvigi je doslej že večkrat marsikoga napetnajstil, denimo takrat, ko je policistom, ki so ga želeli ustaviti (in oglobiti) pri ustvarjanju Vzorca iz otroštva - osupljivo dolgega grafita, narejenega v eni potezi - suvereno predložil ponarejeno dovoljenje in mirno ustvarjal naprej.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-type="article-full"><h4><a href="https://val202.rtvslo.si/2017/11/golobji-kakci-za-milijon/">Golobji kakci za milijon</a></h4><p>Najprej sta si s kolegom zamislila videoposnetek, ga z občutkom in z več popravki oblikovala v karseda ličnega in prepričljivega ter ga razširila po družabnih [...]</p></blockquote>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-branding="0" data-card-type="article-full"><h4><a href="https://val202.rtvslo.si/2017/11/golobji-kakci-za-milijon/">Golobji kakci za milijon</a></h4><p>Najprej sta si s kolegom zamislila videoposnetek, ga z občutkom in z več popravki oblikovala v karseda ličnega in prepričljivega ter ga razširila po družabnih [...]</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 [{{> img src="siol.png" size="small"}}](https://siol.net/trendi/kultura/slovenski-umetnik-ki-je-sliko-iz-golobjih-iztrebkov-prodal-za-milijonov-evrov-intervju-453488)
@@ -227,50 +231,15 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{> img src="pilot.jpg" size="small"}}
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-type="article-full"><h4><a href="http://www.mladina.si/184033/nic-vec-svinjine-na-gimnaziji-vic/">Nič več svinjine na Gimnaziji Vič | MLADINA.si</a></h4><p>Lažna spletna stran Mladine © Urban Lečnik Spaić Če ste prejšnji teden na spletu zasledili članek z naslovom Nič več svinjine na Gimnaziji Vič, kjer je pisalo, da želi vodstvo šole dijakom in dijakinjam muslimanske vere olajšati razmere, ste mu, če niste bili pozorni, po vsej verjetnosti verjeli, saj naj bi bil objavljen na spletni strani Mladine.</p></blockquote>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="http://www.mladina.si/184033/nic-vec-svinjine-na-gimnaziji-vic/">Nič več svinjine na Gimnaziji Vič | MLADINA.si</a></h4><p>Lažna spletna stran Mladine © Urban Lečnik Spaić Če ste prejšnji teden na spletu zasledili članek z naslovom Nič več svinjine na Gimnaziji Vič, kjer je pisalo, da želi vodstvo šole dijakom in dijakinjam muslimanske vere olajšati razmere, ste mu, če niste bili pozorni, po vsej verjetnosti verjeli, saj naj bi bil objavljen na spletni strani Mladine.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-image="http://img.rtvslo.si/_up/ava/ava_misc/show_logos/609/porocila.jpg" data-card-type="article-full"><h4><a href="http://4d.rtvslo.si/arhiv/porocila/174522498">Poročila ob 10h</a></h4><p>V Poročilih ob 22.00 uri se lahko hitro in učinkovito seznanite z vsemi najpomembnejšimi novicami iz domovine in sveta.</p></blockquote>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="http://img.rtvslo.si/_up/ava/ava_misc/show_logos/609/porocila.jpg" data-card-type="article-full"><h4><a href="http://4d.rtvslo.si/arhiv/porocila/174522498">Poročila ob 10h</a></h4><p>V Poročilih ob 22.00 uri se lahko hitro in učinkovito seznanite z vsemi najpomembnejšimi novicami iz domovine in sveta.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# G A L L E R Y
-# ___
-
-{{ spacer }} {{ spacer }} 
-
-## The Miha Artnak
-
-# Dove & Peace
-
-<p style="text-align: center;">
-<i>mixed media</i>
-</p>
-
-{{> img src="die-artwork-closeup.jpg" size="small"}}
-
-<p style="text-align: right;">
-PRICE 
-</p>
-<p style="text-align: right;">
-<b> 5000 ETH</b>
-</p>
-
-<p style="text-align: right;">
-Free shipping
-</p>
-
-{{ spacer }}
-{{> img src="qr-eth.jpg" size="small"}}
-
-<p style="text-align: center;">
-ARTIST's ETH ADDRESS 
-</p>
-<p style="text-align: center;">
-</p> 
-
-{{> eth address="0xD45B9897cEB4A9161438C3Dd7cB1ED136272598b" }}
+{{> img src="meme.png" size="small"}}
 
 {{ spacer }} {{ spacer }} 
 
