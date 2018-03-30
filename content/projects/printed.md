@@ -74,5 +74,14 @@ ARTIST's BTC ADDRESS
 
 {{> bitcoin address="1N968bEU9bahcWQazkx9PJF4MEAtbBwe9T" }}
 
+<br/>
 
+<p style='text-align: center; font-weight: bold;'>
+or feed the artist </p>
+
+<div style="text-align: center;">
+
+<script data-fatsell="food" src="https://fatsell.com/embed/food.js"></script>
+
+</p>
 
