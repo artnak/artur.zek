@@ -95,11 +95,11 @@ with: <b>Nika Jurman, Tilen Sepič, Ada Hamza, Jaka Golob, Peter Žargi, Gregor 
  
 {{ spacer }} {{ spacer }} 
 
-## [@streets_artnak](www.instagram.com/streets_artnak)
+## [@streets_artnak](http://instagram.com/streets_artnak)
 
-## [ZEK Crew](www.zekcrew.com)
+## [ZEK Crew](http://zekcrew.com)
 
-## [Ljudje](www.people.ooo)
+## [Ljudje](http://people.ooo)
 
 {{ spacer }} {{ spacer }} 
 

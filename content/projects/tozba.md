@@ -41,11 +41,11 @@ order: 12000
 
 {{ spacer }} {{ spacer }} 
 
-## [@streets_artnak](www.instagram.com/streets_artnak)
+## [@streets_artnak](http://instagram.com/streets_artnak)
 
-## [ZEK Crew](www.zek.crew.com)
+## [ZEK Crew](http://zekcrew.com)
 
-## [Ljudje](www.people.ooo)
+## [Ljudje](http://people.ooo)
 
 {{ spacer }} {{ spacer }} 
 

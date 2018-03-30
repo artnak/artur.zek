@@ -162,11 +162,11 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 
 {{ spacer }} {{ spacer }} 
 
-## [@streets_artnak](www.instagram.com/streets_artnak)
+## [@streets_artnak](http://instagram.com/streets_artnak)
 
-## [ZEK Crew](www.zek.crew.com)
+## [ZEK Crew](http://zekcrew.com)
 
-## [Ljudje](www.people.ooo)
+## [Ljudje](http://people.ooo)
 
 {{ spacer }} {{ spacer }} 
 
