@@ -2,7 +2,7 @@
 name: Fake Good News S01 E01
 thumbnail: die-artwork.jpg
 cover: hero2.png
-description:
+description: In this episode The Miha trolls slovenian media. 
 order: 997
 ---
   
@@ -198,7 +198,11 @@ I published my own article on [Guadrain](https://www.theguadrain.com/artanddesig
 
 {{> img src="usralo.png" size="small"}}
 
+<p style="text-align: center;"> "Good shit happened" </p> 
+
 {{> img src="svet.png" size="small"}}
+
+<p style="text-align: center;"> Edited post on Facebook </p>
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
