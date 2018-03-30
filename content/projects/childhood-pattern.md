@@ -97,7 +97,7 @@ with: <b>Nika Jurman, Tilen Sepič, Ada Hamza, Jaka Golob, Peter Žargi, Gregor 
 
 ## [@streets_artnak](www.instagram.com/streets_artnak)
 
-## [ZEK Crew](www.zek.crew.com)
+## [ZEK Crew](www.zekcrew.com)
 
 ## [Ljudje](www.people.ooo)
 
