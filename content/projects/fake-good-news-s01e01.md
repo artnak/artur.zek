@@ -154,10 +154,10 @@ I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437
 
 <p style="text-align: center;"> 14th November, 2017 </p>
 
-[{{> img src="guardian.png" size="small"}}](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art)
+[{{> img src="guardian.png" size="small"}}](http://theguadrain.com/artanddesign/2017/nov/12/new-era-in-art)
 
 <p style="text-align: center;">
-I published my own article on [Guadrain](https://www.theguadrain.com/artanddesign/2017/nov/12/new-era-in-art) (a fake replicate of original Guardian's webpage) </p>
+I published my own article on [Guadrain](https://theguadrain.com/artanddesign/2017/nov/12/new-era-in-art) (a fake replicate of original Guardian's webpage) </p>
 
 {{> label title="with [Srđan Prodanović](https://github.com/some1else)" description="coding" }}
 
