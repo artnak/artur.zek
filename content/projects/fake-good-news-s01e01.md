@@ -182,12 +182,11 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 {{ spacer }}
 
-{{> label title="RTV" description="Stated as a fact and opinion in a debate " }}
+{{> label title="RTV" description="Stated as a fact and opinion in a debate"}}
 
 {{ spacer }} {{ spacer }} 
 
 # Real News TV
-
 
 <p style="text-align: center;"> 16th November, 2017 </p>
 
@@ -204,6 +203,13 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 <p style="text-align: center;"> Edited post on Facebook </p>
 
+{{ spacer }}
+</p>
+
+{{> youtube id="rsY1zbYt2tg"}} 
+
+<p style="text-align: center;"> "Crazy, but true!" </p> 
+
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 # Artist lied to us!
@@ -218,7 +224,7 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 # Validation
 
-## Research journalism 
+## Follow up
 
 {{ spacer }} 
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="http://www.mladina.si/182842/fekalni-ekspresionizem-oziroma-poop-art/">Fekalni ekspresionizem oziroma poop-art | MLADINA.si</a></h4><p>Golobja umetnina © The Miha Artnak, ZEK Ljubljanski multimedijski umetnik The Miha Artnak je te dni uspešno izpeljal še eno izmed domiselnih potegavščin. S svojimi duhovitimi podvigi je doslej že večkrat marsikoga napetnajstil, denimo takrat, ko je policistom, ki so ga želeli ustaviti (in oglobiti) pri ustvarjanju Vzorca iz otroštva - osupljivo dolgega grafita, narejenega v eni potezi - suvereno predložil ponarejeno dovoljenje in mirno ustvarjal naprej.</p></blockquote>
