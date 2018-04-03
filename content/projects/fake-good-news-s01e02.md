@@ -40,7 +40,7 @@ EPISODE 2
 
 {{ spacer }} 
 
-# <b>Bitcoin City (BTC City)</b> is my imaginary utopia based on current blockchain capacities. 
+# <b>Bitcoin City (BTC City)</b> is my joke utopia based on it's name - BTC (Bitcoin). 
 
 <i>"The basic idea behind this concept of a city is that its whole economy runs on Bitcoin. Paying taxes happens automatically and functions somehow like paying fees to a payment service – only in this case the “fees” go directly to the city’s operational capital. Citizens then decide where they’d like to invest their tax money through the process of participative budgeting. 70% of their operational capital is spent on building schools and developing their own departments of science, philosophy, health, technology and art. 
 
@@ -138,7 +138,12 @@ Read more in the Guadrain article below
 
 {{> img src="roljicbio2.png" size="small"}}
 
+{{ spacer }} 
+
+# Company's public statement 
+
 {{> img src="btcofis.png" size="small"}}
+
 
 Dear all,
 
@@ -168,6 +173,8 @@ Kind regards, BTC company
 
 # ... ONE MONTH LATER 
 
+## Shameless use of my idea by Dejan Roljic, CEO of Eligma 
+
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="http://www.total-slovenia-news.com/business/867-the-btc-bitcoin-city-story-continues-with-eligma">The BTC "Bitcoin" City Story Continues With Eligma</a></h4><p>Slovenian start-up plans to test cryptocurrency payments at the shopping complex. March 16, 2018 It seems the story of BTC City being Bitcoin City, and not a shopping mall complex just outside of Ljubljana, continues to have legs.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
@@ -181,7 +188,7 @@ Kind regards, BTC company
 
 {{ spacer }} 
 
-## TRADEMARK REGISTRATION BY ELIGMA
+## TRADEMARK REGISTRATION BY THE COMPANY THAT STOLE MY IDEA
 
 {{ spacer }} 
 
@@ -189,11 +196,13 @@ Kind regards, BTC company
 
 {{ spacer }} {{ spacer }}
 
-## BOUGHT LIKES & REVIEWS
+## BOUGHT LIKES BY THE COMPANY THAT STOLE MY IDEA 
 
 {{> img src="analiza.png" size="small"}}
 
 {{> img src="asseen.png" size="small"}}
+
+## BOUGHT REVIEWS BY THE COMPANY THAT STOLE MY IDEA 
 
 {{> youtube id="HeDQ6aqCL8Q?t=204" }} 
 
@@ -201,16 +210,22 @@ Kind regards, BTC company
 
 {{ spacer }} 
 
-## 'LEGITIMIZATION'
+## 'LEGITIMIZATION' ON TV
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="https://images.24ur.com/media/images/948x533/Mar2018/766abaf20b_62051361.jpg?v=d41d" data-card-type="article-full"><h4><a href="https://www.24ur.com/novice/znanost-in-tehnologija/v-sloveniji-imamo-prvo-bitcoin-mesto-na-svetu.html">V Sloveniji imamo prvo bitcoin mesto na svetu</a></h4><p>V ljubljanskem BTC Cityju smo dobili prvo bitcoin mesto na svetu. Eligma je največji slovenski blockchain podvig do danes. Kavo, plenice, hladilnik boste po novem tako lahko kupovali s kriptovalutami. Ta vstopa na kriptotrg in ne cilja le na 19 milijonov evrov, temveč napoveduje revolucijo spletnega nakupovanja.</p></blockquote>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="https://images.24ur.com/media/images/948x533/Mar2018/766abaf20b_62051361.jpg?v=d41d" data-card-type="article-full"><h4><a href="https://www.24ur.com/novice/znanost-in-tehnologija/v-sloveniji-imamo-prvo-bitcoin-mesto-na-svetu.html">V Sloveniji imamo prvo bitcoin mesto na svetu</a></h4><p>V ljubljanskem BTC Cityju smo dobili prvo bitcoin mesto na svetu. Eligma je največji slovenski blockchain podvig do danes. Kavo, plenice, hladilnik boste po novem tako lahko kupovali s kriptovalutami. Ta vstopa na kriptotrg in ne cilja le na 19 milijonov evrov, temveč napoveduje revolucijo spletnega nakupovanja.</p>
+
+</blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+## PUBLIC CLAIMING
 
 {{> youtube id="qpVDjv1ObiY"}} 
 
 <p style="text-align: center;">Dejan Roljic talks about Bitcoin City </p>
 
 {{ spacer }} {{ spacer }}
+
+## STOLEN IDEAS REWARD 
 
 {{> img src="event.jpg" size="small"}}
 
