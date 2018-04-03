@@ -13,12 +13,12 @@ order: 997
 T H E
 </p>
 
-# ARTMARKET  
+# <b>ARTMARKET </b> 
 
 {{ spacer }}   
 
 <p style="text-align: center;">
-EPISODE 1
+<b>EPISODE 1</b>
 </p>
 
 {{ spacer }}
@@ -61,7 +61,7 @@ ARTIST's ETH ADDRESS
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# O R I G I N
+# <b>O R I G I N</b>
 # __
 
 # No bullshit
@@ -82,13 +82,12 @@ Hvala ti Branko.
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>C A M P A I G N</b>
-# for my artwork's legitimization
+# <b>MY ART CAMPAIGN</b>
 # __
  
-# 'News Media House'
+# Fake News Media House
 
-## Fake Brand
+## Brand
 
 <p style="text-align: center;"> September, 2017 </p>
 
@@ -119,7 +118,7 @@ I predefined artwork's value with 2017 news storytelling </p>
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# 'Distribution'
+# Distribution
 
 ## FACEBOOK PAGE
 
@@ -132,7 +131,7 @@ I started ZN Media Facebook page and shared some existing viral videos to build 
 
 {{ spacer }} {{ spacer }} 
 
-# 'Public opinion'
+# Public opinion
 
 ## MARKETING 
 
@@ -164,7 +163,7 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# R E S U L T S
+# <b>R E S U L T S</b>
 # __
 
 # Real Newspaper
@@ -223,7 +222,7 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# Validation
+# <b>VALIDATION</b>
 
 ## Follow up
 

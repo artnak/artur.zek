@@ -13,12 +13,12 @@ order: 996
 T H E
 </p>
 
-# CRYPTOMARKET  
+# <b>CRYPTOMARKET </b> 
 
 {{ spacer }}   
 
 <p style="text-align: center;">
-EPISODE 2
+<b>EPISODE 2</b>
 </p>
 
 {{ spacer }}
@@ -27,10 +27,10 @@ EPISODE 2
 
 {{ spacer }} 
 
-# O R I G I N
+# <b>O R I G I N</b>
 # __
 
-# <b>Blagovno trgovinski center (BTC CITY)</b> is a well known shopping mall, sports, entertainment and business area in Ljubljana, Slovenia, with more than 500 shops. It is one of the largest shopping and entertainment complexes in Europe. 
+# <b>Blagovno trgovinski center (BTC CITY)</b> is a well known shopping mall, sports, entertainment and business area in Ljubljana, Slovenia, with more than 500 shops.  
 
 [{{> img src="map.jpg" size="small"}}](https://www.wikiwand.com/en/BTC_City)
 
@@ -52,8 +52,7 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>C A M P A I G N</b>
-## FOR MY BITCOIN CITY
+# <b>MY BITCOIN CITY CAMPAIGN</b>
 # __
 
 # Viral fake news
@@ -84,10 +83,10 @@ Read more in the Guadrain article below
 
 {{> label title="with [Srđan Prodanović](https://github.com/some1else)" description="coding" }}
 
-{{ spacer }} {{ spacer }}
+{{ spacer }} 
 
 
-# 'Public opinion'
+# Public opinion
 
 ## CHANNELS 
 
@@ -103,10 +102,9 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# A N T A G O N I S T S
-# __
+# Antagonists
 
-# Miha Murn / Michael Gregorjev Murn
+## <b>Miha Murn / Michael Gregorjev Murn</b>
 
 ## 'Artist'
 
@@ -120,9 +118,13 @@ Read more in the Guadrain article below
 
 {{> img src="murnrant2.png" size="small"}}
  
-{{ spacer }} {{ spacer }} 
+{{ spacer }} 
 
-# Dejan Roljic
+## - and - 
+
+{{ spacer }} 
+
+## <b>Dejan Roljic</b>
 
 ## 'Entrepreneur'
 
@@ -139,11 +141,16 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
+# <b>RESPONSE </b>
+# __
+
 # Company's public statement 
 
 {{> img src="btcofis_en.png" size="small"}}
 
 {{> img src="btcofis.png" size="small"}}
+
+{{ spacer }}
 
 # Public response 
 
@@ -159,9 +166,9 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-# TAKEDOWN NOTICE
+# Takedown notice
 
-<p style="text-align: center;"> TRADEMARK VIOLATION OF GUARDIAN</p>
+## TRADEMARK VIOLATION OF GUARDIAN
 
 {{ spacer }} {{ spacer }}
 
@@ -169,9 +176,16 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-# ... ONE MONTH LATER 
+# <b>... ONE MONTH LATER </b>
 
-## Shameless use of my idea by Dejan Roljic, CEO of Eligma 
+{{ spacer }} {{ spacer }} 
+
+
+# Bitcoin City - a commercial use for an ICO company 
+
+## BY THE PEOPLE THAT FIRST WANTED TO SUE ME BUT THEN JUST STOLE MY IDEA
+
+{{ spacer }} {{ spacer }}
 
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="http://www.total-slovenia-news.com/business/867-the-btc-bitcoin-city-story-continues-with-eligma">The BTC "Bitcoin" City Story Continues With Eligma</a></h4><p>Slovenian start-up plans to test cryptocurrency payments at the shopping complex. March 16, 2018 It seems the story of BTC City being Bitcoin City, and not a shopping mall complex just outside of Ljubljana, continues to have legs.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -186,7 +200,9 @@ Read more in the Guadrain article below
 
 {{ spacer }} 
 
-## TRADEMARK REGISTRATION BY THE COMPANY THAT STOLE MY IDEA
+# Trademark registration
+
+## BY THE COMPANY THAT STOLE MY IDEA
 
 {{ spacer }} 
 
@@ -194,13 +210,17 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }}
 
-## BOUGHT LIKES BY THE COMPANY THAT STOLE MY IDEA 
+# Bought likes
+
+## BY THE COMPANY THAT STOLE MY IDEA 
 
 {{> img src="analiza.png" size="small"}}
 
 {{> img src="asseen.png" size="small"}}
 
-## BOUGHT REVIEWS BY THE COMPANY THAT STOLE MY IDEA 
+# Bought reviews
+
+## BY THE COMPANY THAT STOLE MY IDEA 
 
 {{> youtube id="HeDQ6aqCL8Q?t=204" }} 
 
@@ -208,14 +228,20 @@ Read more in the Guadrain article below
 
 {{ spacer }} 
 
-## 'NEWS LEGITIMIZATION' OF THE COMPANY THAT STOLE MY IDEA
+# TV news 'legitimization' 
+
+## OF THE COMPANY THAT STOLE MY IDEA
 
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="https://images.24ur.com/media/images/948x533/Mar2018/766abaf20b_62051361.jpg?v=d41d" data-card-type="article-full"><h4><a href="https://www.24ur.com/novice/znanost-in-tehnologija/v-sloveniji-imamo-prvo-bitcoin-mesto-na-svetu.html">We have our first and very own Bitcoin city in Slovenia</a></h4><p>V ljubljanskem BTC Cityju smo dobili prvo bitcoin mesto na svetu. Eligma je največji slovenski blockchain podvig do danes. Kavo, plenice, hladilnik boste po novem tako lahko kupovali s kriptovalutami. Ta vstopa na kriptotrg in ne cilja le na 19 milijonov evrov, temveč napoveduje revolucijo spletnega nakupovanja.</p>
 
 </blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-## PUBLIC CLAIMING OF 'HIS' IDEA
+{{ spacer }}
+
+# Public statement
+
+## BY THE CEO OF THE COMPANY THAT STOLE MY IDEA
 
 {{> youtube id="qpVDjv1ObiY"}} 
 
@@ -223,7 +249,9 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }}
 
-## STOLEN IDEAS REWARD 
+# Stolen ideas rewards
+
+## 1st place
 
 {{> img src="event.jpg" size="small"}}
 
@@ -235,7 +263,7 @@ Ni za kej Roljič.
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}   
 
-# Validation
+# <b>VALIDATION</b>
 
 ## Follow up
 
