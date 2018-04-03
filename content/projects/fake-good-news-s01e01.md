@@ -82,12 +82,13 @@ Hvala ti Branko.
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# C A M P A I G N
+# <b>C A M P A I G N</b>
+# for my artwork's legitimization
 # __
  
 # 'News Media House'
 
-## Brand
+## Fake Brand
 
 <p style="text-align: center;"> September, 2017 </p>
 
@@ -99,7 +100,7 @@ I created a brand called [ZN Media](https://www.facebook.com/znmedias/) (ZEK New
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# 'Viral news'
+# Viral fake news
 
 ## FACEBOOK VIDEO
 
@@ -148,7 +149,7 @@ I launched my [video](https://www.facebook.com/znmedias/videos/10212942614514437
 
 {{ spacer }} {{ spacer }} 
 
-# 'Credibility'
+# 'Credibility' article
 
 ## THEGUADRAIN.COM
 

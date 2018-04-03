@@ -40,7 +40,7 @@ EPISODE 2
 
 {{ spacer }} 
 
-# <b>Bitcoin City (BTC City)</b> is my joke utopia based on it's name - BTC (Bitcoin). 
+# <b>Bitcoin City (BTC City)</b> is a joke I did - an utopian project based on it's name - BTC (Bitcoin) with an existing BTC City visuals. 
 
 <i>"The basic idea behind this concept of a city is that its whole economy runs on Bitcoin. Paying taxes happens automatically and functions somehow like paying fees to a payment service – only in this case the “fees” go directly to the city’s operational capital. Citizens then decide where they’d like to invest their tax money through the process of participative budgeting. 70% of their operational capital is spent on building schools and developing their own departments of science, philosophy, health, technology and art. 
 
@@ -52,24 +52,11 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# C A M P A I G N
+# <b>C A M P A I G N</b>
+## FOR MY BITCOIN CITY
 # __
 
-# 'Credibility'
-
-## THEGUADRAIN.COM
-
-<p style="text-align: center;"> February, 2018 </p>
-
-[{{> img src="guadrain.jpg" size="small"}}](http://theguadrain.com/technology/2018/feb/17/bitcoin-city)
-
-<p style="text-align: center;"> I published my own article on [Guadrain](http://theguadrain.com/technology/2018/feb/17/bitcoin-city) (a fake replicate of original Guardian's webpage) </p>
-
-{{> label title="with [Srđan Prodanović](https://github.com/some1else)" description="coding" }}
-
-{{ spacer }} 
-
-# 'Viral news'
+# Viral fake news
 
 ## FACEBOOK VIDEO
 
@@ -82,6 +69,20 @@ Read more in the Guadrain article below
 </p>
 
 {{> label title="with Žiga Aljaž" description="video production" }}
+
+{{ spacer }} 
+
+# 'Credibility' article
+
+## THEGUADRAIN.COM
+
+<p style="text-align: center;"> February, 2018 </p>
+
+[{{> img src="guadrain.jpg" size="small"}}](http://theguadrain.com/technology/2018/feb/17/bitcoin-city)
+
+<p style="text-align: center;"> I published my own article on [Guadrain](http://theguadrain.com/technology/2018/feb/17/bitcoin-city) (a fake replicate of original Guardian's webpage) </p>
+
+{{> label title="with [Srđan Prodanović](https://github.com/some1else)" description="coding" }}
 
 {{ spacer }} {{ spacer }}
 
@@ -115,11 +116,9 @@ Read more in the Guadrain article below
 
 {{> img src="murnbio.png" size="small"}}
 
+{{> img src="murnrant3.png" size="small"}}
+
 {{> img src="murnrant2.png" size="small"}}
-
-"Fake news as an artistic performance" - This is not an artistic performance - this is a regular farm, these people dont know how to be news worthy with their work, so they do this with idiotism. Miha Artnak is one of those who don't understand the responsibility of the companies that are building their reputation because he probably never achieved this in his life. Art is not what something a slovenian so-called 'artist' posts on his wall. Without people's responsibility we are heading nowhere but idiotism knows no borders.
-
-<b>- Miha Murn</b>
  
 {{ spacer }} {{ spacer }} 
 
@@ -133,27 +132,26 @@ Read more in the Guadrain article below
 
 {{> img src="roljicbio.png" size="small"}}
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article"><h4><a href="https://www.dnevnik.si/1042655773">Irsko podjetje ukradlo slovensko idejo?</a></h4><p>Slovenska zagonska podjetja so povezana v zelo tesni skupnosti, a očitno od časa do časa pride tudi do prepirov. Print boks, ki proizvaja kiosk za tiskanje, optično branje in fotokopiranje, je podjetje Formtaste innovations obtožil kraje ideje.</p></blockquote>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article"><h4><a href="https://www.dnevnik.si/1042655773">Dejan Roljič, CEO of Formtaste is accused of stealing an idea from Print boks</a></h4><p>Slovenska zagonska podjetja so povezana v zelo tesni skupnosti, a očitno od časa do časa pride tudi do prepirov. Print boks, ki proizvaja kiosk za tiskanje, optično branje in fotokopiranje, je podjetje Formtaste innovations obtožil kraje ideje.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 {{> img src="roljicbio2.png" size="small"}}
 
-{{ spacer }} 
+{{ spacer }} {{ spacer }} {{ spacer }} 
 
 # Company's public statement 
 
+{{> img src="btcofis_en.png" size="small"}}
+
 {{> img src="btcofis.png" size="small"}}
 
-
-Dear all,
-
-we inform you that the <i>joint stock company</i> BTC denies all author's content that is distributing nonsense and using unauthorised brand names (BTC City and BTC) and is misinforming the public, visitors and business partners of the company BTC. According to the law of Republic of Slovenia this is considered as an offense. We request that the author immediately removes all misleading posts, stops with the spreading of lies, misleading the public and damaging the reputation and a good name of the BTC company. 
-
-Kind regards, BTC company
+# Public response 
 
 {{> img src="odzivi.jpg" size="small"}}
 
 {{ spacer }}
+
+# Last warnings 
 
 {{> img src="andrej.png" size="small"}}
 
@@ -210,14 +208,14 @@ Kind regards, BTC company
 
 {{ spacer }} 
 
-## 'LEGITIMIZATION' ON TV
+## 'NEWS LEGITIMIZATION' OF THE COMPANY THAT STOLE MY IDEA
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="https://images.24ur.com/media/images/948x533/Mar2018/766abaf20b_62051361.jpg?v=d41d" data-card-type="article-full"><h4><a href="https://www.24ur.com/novice/znanost-in-tehnologija/v-sloveniji-imamo-prvo-bitcoin-mesto-na-svetu.html">V Sloveniji imamo prvo bitcoin mesto na svetu</a></h4><p>V ljubljanskem BTC Cityju smo dobili prvo bitcoin mesto na svetu. Eligma je največji slovenski blockchain podvig do danes. Kavo, plenice, hladilnik boste po novem tako lahko kupovali s kriptovalutami. Ta vstopa na kriptotrg in ne cilja le na 19 milijonov evrov, temveč napoveduje revolucijo spletnega nakupovanja.</p>
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="https://images.24ur.com/media/images/948x533/Mar2018/766abaf20b_62051361.jpg?v=d41d" data-card-type="article-full"><h4><a href="https://www.24ur.com/novice/znanost-in-tehnologija/v-sloveniji-imamo-prvo-bitcoin-mesto-na-svetu.html">We have our first and very own Bitcoin city in Slovenia</a></h4><p>V ljubljanskem BTC Cityju smo dobili prvo bitcoin mesto na svetu. Eligma je največji slovenski blockchain podvig do danes. Kavo, plenice, hladilnik boste po novem tako lahko kupovali s kriptovalutami. Ta vstopa na kriptotrg in ne cilja le na 19 milijonov evrov, temveč napoveduje revolucijo spletnega nakupovanja.</p>
 
 </blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-## PUBLIC CLAIMING
+## PUBLIC CLAIMING OF 'HIS' IDEA
 
 {{> youtube id="qpVDjv1ObiY"}} 
 
