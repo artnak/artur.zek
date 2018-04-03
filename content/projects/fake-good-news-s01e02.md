@@ -104,13 +104,21 @@ Read more in the Guadrain article below
 
 # Antagonists
 
+{{ spacer }} 
+
+{{> img src="murnfb.png" size="small"}}
+
+{{> img src="dejanfake.png" size="small"}}
+
+{{ spacer }} {{ spacer }} 
+
 ## <b>Miha Murn / Michael Gregorjev Murn</b>
 
 ## 'Artist'
 
 {{> img src="mihamurn.jpg" size="small"}}
 
-{{> img src="murnfb.png" size="small"}}
+{{ spacer }} 
 
 {{> img src="murnbio.png" size="small"}}
 
@@ -130,7 +138,8 @@ Read more in the Guadrain article below
 
 {{> img src="dejanroljic.jpg" size="small"}}
 
-{{> img src="dejanfake.png" size="small"}}
+
+{{ spacer }} 
 
 {{> img src="roljicbio.png" size="small"}}
 
