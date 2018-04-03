@@ -71,9 +71,9 @@ Read more in the Guadrain article below
 
 {{ spacer }} 
 
-# 'Credibility' article
+# Fake Guardian webpage
 
-## THEGUADRAIN.COM
+## 'Credibility' article
 
 <p style="text-align: center;"> February, 2018 </p>
 
@@ -190,7 +190,7 @@ Read more in the Guadrain article below
 {{ spacer }} {{ spacer }} 
 
 
-# Bitcoin City - a commercial use for an ICO company 
+# Bitcoin City - advertisment for an ICO company 
 
 ## BY THE PEOPLE THAT FIRST WANTED TO SUE ME BUT THEN JUST STOLE MY IDEA
 
@@ -226,6 +226,8 @@ Read more in the Guadrain article below
 {{> img src="analiza.png" size="small"}}
 
 {{> img src="asseen.png" size="small"}}
+
+{{ spacer }}
 
 # Bought reviews
 
