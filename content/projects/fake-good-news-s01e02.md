@@ -13,7 +13,7 @@ order: 996
 T H E
 </p>
 
-# <b>CRYPTOMARKET</b> 
+# <b>BITCOIN</b> 
 
 {{ spacer }}   
 
@@ -280,7 +280,7 @@ Ni za kej Roljič.
 # ______
 Written and directed by <b>The Miha Artnak</b>
 
-with: <b>Nika Jurman, Srđan Prodanović, Žiga Aljaž, Andraž Jerič and Gizzmo.</b>
+with: <b>Srđan Prodanović, Nika Jurman, Žiga Aljaž, Andraž Jerič and Mirnes Jusufović.</b>
 	
 <i>Fake news is a type of yellow journalism or propaganda that consists of deliberate misinformation or hoaxes spread via traditional print and broadcast news media or online social media. Fake news is written and published with the intent to mislead in order to damage an agency, entity, or person, and/or gain financially or politically often using sensationalist, dishonest, or outright fabricated headlines to increase readership, online sharing, and Internet click revenue. In the latter case, it is similar to sensational online "clickbait" headlines and relies on advertising revenue generated from this activity, regardless of the veracity of the published stories. Intentionally misleading and deceptive fake news is different from obvious satire or parody, which is intended to humor rather than mislead its audience. 
 Source: Wikipedia
