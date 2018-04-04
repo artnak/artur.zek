@@ -27,7 +27,7 @@ T H E
 
 {{ spacer }} 
 
-# <b>O R I G I N</b>
+# <b>Origin</b>
 # __
 
 # <b>Blagovno trgovinski center (BTC CITY)</b> is a well known shopping mall, sports, entertainment and business area in Ljubljana, Slovenia, with more than 500 shops.  
@@ -52,7 +52,7 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>MY BITCOIN CITY CAMPAIGN</b>
+# <b>My Bitcoin City campaign</b>
 # __
 
 # Viral fake news
@@ -85,7 +85,6 @@ Read more in the Guadrain article below
 
 {{ spacer }} 
 
-
 # Public opinion
 
 ## CHANNELS 
@@ -99,6 +98,26 @@ Read more in the Guadrain article below
 {{> img src="gregor.jpg" size="small"}}
 
 {{> img src="testimonial.png" size="small"}}
+
+{{ spacer }} 
+
+# Media
+
+## Validation
+
+<p style="text-align: center;"> February, 2018 </p>
+
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="http://www.total-slovenia-news.com/media/k2/items/cache/ba8105ffcbf1e654523b3092c0b2fd33_XL.jpg" data-card-type="article-full"><h4><a href="http://www.total-slovenia-news.com/lifestyle/704-fake-guardian-page-promotes-ljubljana-s-btc-city-as-bitcoin-city">Fake Guardian Page Promotes Ljubljana's BTC City as "Bitcoin City"</a></h4><p>Local artist The Miha Artnak behind the prank. February 22, 2018 The Guardian newspaper has long been known for its typos, and thus anyone clicking the following link https://www.theguadrain.com/technology/2018/feb/17/bitcoin-city could be forgiven for thinking that The Grauniad, as it's sometimes referred to, had made a mistake its URL.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+{{ spacer }} 
+
+<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="https://www.dnevnik.si/1042802519">Slovenski umetnik po sliki golobjih iztrebkov še s prvim "bitcoin mestom"</a></h4><p>Mladi slovenski umetnik Miha Artnak, ki je novembra lani z lažno novico o prodaji slike golobjih iztrebkom Kitajcem prelisičil nekaj slovenskih medijev, je znova &#187;udaril&#171;. Tokrat na portalu &#187;Guadrain&#171; pišejo o njegovi ideji o ustanovitvi prvega bitcoin mesta - BTC City.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+{{ spacer }} 
+
+[{{> img src="vecer.png" size="small"}}](https://www.vecer.com/slovenski-kriptomilijonar-odprl-prvo-mesto-bitcoina-6413336)
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
@@ -122,9 +141,9 @@ Read more in the Guadrain article below
 
 {{> img src="murnbio.png" size="small"}}
 
-{{> img src="murnrant3.png" size="small"}}
-
 {{> img src="murnrant2.png" size="small"}}
+
+{{> img src="murnrant3.png" size="small"}}
  
 {{ spacer }} 
 
@@ -138,15 +157,10 @@ Read more in the Guadrain article below
 
 {{> img src="dejanroljic.jpg" size="small"}}
 
-
-{{ spacer }} 
-
-{{> img src="roljicbio.png" size="small"}}
-
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article"><h4><a href="https://www.dnevnik.si/1042655773">Dejan Roljič, CEO of Formtaste is accused of stealing an idea from Print boks</a></h4><p>Slovenska zagonska podjetja so povezana v zelo tesni skupnosti, a očitno od časa do časa pride tudi do prepirov. Print boks, ki proizvaja kiosk za tiskanje, optično branje in fotokopiranje, je podjetje Formtaste innovations obtožil kraje ideje.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-{{> img src="roljicbio2.png" size="small"}}
+{{> img src="roljicbio1.png" size="small"}}
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
@@ -155,9 +169,9 @@ Read more in the Guadrain article below
 
 # Company's public statement 
 
-{{> img src="btcofis_en.png" size="small"}}
-
 {{> img src="btcofis.png" size="small"}}
+
+{{> img src="btcofis_en.png" size="small"}}
 
 {{ spacer }}
 
@@ -185,14 +199,12 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
-# <b>... ONE MONTH LATER </b>
+# <b>ONE MONTH LATER </b>
 
 {{ spacer }} {{ spacer }} 
 
 
-# The term Bitcoin City is used for marketing 
-
-## BY THE PEOPLE THAT FIRST WANTED TO SUE ME BUT THEN JUST STOLE MY IDEA
+# Term Bitcoin City is used for marketing by the people that first wanted to press charges but then rather stole my idea
 
 {{ spacer }} {{ spacer }}
 
@@ -209,9 +221,7 @@ Read more in the Guadrain article below
 
 {{ spacer }} 
 
-# Trademark registration
-
-## BY THE COMPANY THAT STOLE MY IDEA
+# Trademark registration by the company that stole my idea
 
 {{ spacer }} 
 
@@ -219,9 +229,7 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }}
 
-# Bought likes
-
-## BY THE COMPANY THAT STOLE MY IDEA 
+# Bought likes by the company that stole my idea
 
 {{> img src="analiza.png" size="small"}}
 
@@ -229,9 +237,7 @@ Read more in the Guadrain article below
 
 {{ spacer }}
 
-# Bought reviews
-
-## BY THE COMPANY THAT STOLE MY IDEA 
+# Bought reviews by the company that stole my idea
 
 {{> youtube id="HeDQ6aqCL8Q?t=204" }} 
 
@@ -239,9 +245,7 @@ Read more in the Guadrain article below
 
 {{ spacer }} 
 
-# TV news 'legitimization' 
-
-## OF THE COMPANY THAT STOLE MY IDEA
+# TV news legitimization of the company that stole my idea
 
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="https://images.24ur.com/media/images/948x533/Mar2018/766abaf20b_62051361.jpg?v=d41d" data-card-type="article-full"><h4><a href="https://www.24ur.com/novice/znanost-in-tehnologija/v-sloveniji-imamo-prvo-bitcoin-mesto-na-svetu.html">We have our first and very own Bitcoin city in Slovenia</a></h4><p>V ljubljanskem BTC Cityju smo dobili prvo bitcoin mesto na svetu. Eligma je največji slovenski blockchain podvig do danes. Kavo, plenice, hladilnik boste po novem tako lahko kupovali s kriptovalutami. Ta vstopa na kriptotrg in ne cilja le na 19 milijonov evrov, temveč napoveduje revolucijo spletnega nakupovanja.</p>
 
@@ -250,9 +254,7 @@ Read more in the Guadrain article below
 
 {{ spacer }}
 
-# Public statement
-
-## BY THE CEO OF THE COMPANY THAT STOLE MY IDEA
+# Public statement by the CEO of the company that stole my idea
 
 {{> youtube id="qpVDjv1ObiY"}} 
 
@@ -274,30 +276,6 @@ Ni za kej Roljič.
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}   
 
-# <b>VALIDATION</b>
-
-## Follow up
-
-{{ spacer }} 
-
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="http://www.total-slovenia-news.com/media/k2/items/cache/ba8105ffcbf1e654523b3092c0b2fd33_XL.jpg" data-card-type="article-full"><h4><a href="http://www.total-slovenia-news.com/lifestyle/704-fake-guardian-page-promotes-ljubljana-s-btc-city-as-bitcoin-city">Fake Guardian Page Promotes Ljubljana's BTC City as "Bitcoin City"</a></h4><p>Local artist The Miha Artnak behind the prank. February 22, 2018 The Guardian newspaper has long been known for its typos, and thus anyone clicking the following link https://www.theguadrain.com/technology/2018/feb/17/bitcoin-city could be forgiven for thinking that The Grauniad, as it's sometimes referred to, had made a mistake its URL.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-{{ spacer }} 
-
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="https://www.dnevnik.si/1042802519">Slovenski umetnik po sliki golobjih iztrebkov še s prvim "bitcoin mestom"</a></h4><p>Mladi slovenski umetnik Miha Artnak, ki je novembra lani z lažno novico o prodaji slike golobjih iztrebkom Kitajcem prelisičil nekaj slovenskih medijev, je znova &#187;udaril&#171;. Tokrat na portalu &#187;Guadrain&#171; pišejo o njegovi ideji o ustanovitvi prvega bitcoin mesta - BTC City.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-{{ spacer }} 
-
-[{{> img src="vecer.png" size="small"}}](https://www.vecer.com/slovenski-kriptomilijonar-odprl-prvo-mesto-bitcoina-6413336)
-
-{{ spacer }} 
-
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="http://outsider.si/wp-content/uploads/2018/03/00.png" data-card-type="article-full"><h4><a href="http://outsider.si/kranjski-bitcoin-futurizem/">Kranjski bitcoin futurizem</a></h4><p>Danes je za nekatere futurističen in vizionarski dan, za druge pa praznik norosti. Sredi kranjskega krožišča se bo namreč ob treh popoldne utelesil nov spomenik: spomenik bitcoinu. Pozabimo na debate in nesoglasja okrog Spomenika žrtvam vseh vojn na Kongresnem trgu v Ljubljani, pozabimo tudi na obtožbe, da si je Mladinska knjiga pod pretvezo slavljenja Borisa Pahorja v Tivoliju postavila bronast oglas.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
 # ______
 Written and directed by <b>The Miha Artnak</b>

@@ -61,7 +61,7 @@ ARTIST's ETH ADDRESS
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>O R I G I N</b>
+# <b>Origin</b>
 # __
 
 # No bullshit
@@ -82,7 +82,7 @@ Hvala ti Branko.
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>MY ART CAMPAIGN</b>
+# <b>My art campaign</b>
 # __
  
 # Fake News Media House
@@ -163,7 +163,7 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>R E S U L T S</b>
+# <b>Results</b>
 # __
 
 # Real Newspaper
@@ -222,9 +222,9 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>VALIDATION</b>
+# <b>Aftermath</b>
 
-## Follow up
+## Validation
 
 {{ spacer }} 
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="http://www.mladina.si/182842/fekalni-ekspresionizem-oziroma-poop-art/">Fekalni ekspresionizem oziroma poop-art | MLADINA.si</a></h4><p>Golobja umetnina © The Miha Artnak, ZEK Ljubljanski multimedijski umetnik The Miha Artnak je te dni uspešno izpeljal še eno izmed domiselnih potegavščin. S svojimi duhovitimi podvigi je doslej že večkrat marsikoga napetnajstil, denimo takrat, ko je policistom, ki so ga želeli ustaviti (in oglobiti) pri ustvarjanju Vzorca iz otroštva - osupljivo dolgega grafita, narejenega v eni potezi - suvereno predložil ponarejeno dovoljenje in mirno ustvarjal naprej.</p></blockquote>
