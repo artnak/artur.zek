@@ -13,7 +13,7 @@ order: 996
 T H E
 </p>
 
-# <b>CRYPTOMARKET </b> 
+# <b>CRYPTOMARKET</b> 
 
 {{ spacer }}   
 
@@ -190,7 +190,7 @@ Read more in the Guadrain article below
 {{ spacer }} {{ spacer }} 
 
 
-# Bitcoin City - advertisment for an ICO company 
+# The term Bitcoin City is used for marketing 
 
 ## BY THE PEOPLE THAT FIRST WANTED TO SUE ME BUT THEN JUST STOLE MY IDEA
 
