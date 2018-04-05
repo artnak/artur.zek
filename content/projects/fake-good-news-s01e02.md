@@ -204,7 +204,7 @@ Read more in the Guadrain article below
 {{ spacer }} {{ spacer }} 
 
 
-# Term Bitcoin City is used for marketing by the people that first wanted to press charges but then rather stole my idea
+# The very same people who first threatened to press charges are now using the term Bitcoin City for their own marketing
 
 {{ spacer }} {{ spacer }}
 
@@ -221,7 +221,7 @@ Read more in the Guadrain article below
 
 {{ spacer }} 
 
-# Trademark registration by the company that stole my idea
+# Trademark registration by the company that 'borrowed' my idea
 
 {{ spacer }} 
 
@@ -229,7 +229,7 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }}
 
-# Bought likes by the company that stole my idea
+# Bought likes by the company that 'borrowed' my idea
 
 {{> img src="analiza.png" size="small"}}
 
@@ -237,7 +237,7 @@ Read more in the Guadrain article below
 
 {{ spacer }}
 
-# Bought reviews by the company that stole my idea
+# Bought reviews by the company that 'borrowed' my idea
 
 {{> youtube id="HeDQ6aqCL8Q?t=204" }} 
 
@@ -245,7 +245,7 @@ Read more in the Guadrain article below
 
 {{ spacer }} 
 
-# TV news legitimization of the company that stole my idea
+# TV news legitimization of the company that 'borrowed' my idea
 
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-image="https://images.24ur.com/media/images/948x533/Mar2018/766abaf20b_62051361.jpg?v=d41d" data-card-type="article-full"><h4><a href="https://www.24ur.com/novice/znanost-in-tehnologija/v-sloveniji-imamo-prvo-bitcoin-mesto-na-svetu.html">We have our first and very own Bitcoin city in Slovenia</a></h4><p>V ljubljanskem BTC Cityju smo dobili prvo bitcoin mesto na svetu. Eligma je največji slovenski blockchain podvig do danes. Kavo, plenice, hladilnik boste po novem tako lahko kupovali s kriptovalutami. Ta vstopa na kriptotrg in ne cilja le na 19 milijonov evrov, temveč napoveduje revolucijo spletnega nakupovanja.</p>
 
@@ -254,7 +254,7 @@ Read more in the Guadrain article below
 
 {{ spacer }}
 
-# Public statement by the CEO of the company that stole my idea
+# Public statement by the CEO of the company that 'borrowed' my idea
 
 {{> youtube id="qpVDjv1ObiY"}} 
 
@@ -262,7 +262,7 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }}
 
-# Stolen ideas rewards
+# 'Borrowed' ideas rewards
 
 ## 1st place
 
