@@ -50,7 +50,7 @@ Humans are currently at <b>Type 0</b> civilization.
  
 {{> img src="flag-of-earth.jpg" size="small"}}
 
-The symbol derives from abstraction. It's not culturally biased and allows iteration as we progress. The Earth's flag is a part of our solar system flags. By accepting the symbol, we are accepting (current) values (love, peace, knowledge, responsibility/service, honour and progress) in order to reach Type I civilization. This, of course, is a suggestion.
+The symbol derives from abstraction. It's not culturally biased and allows iteration as we progress. The Earth's flag is a part of our solar system flags. By accepting the symbol, we are accepting (current) values (compassion, love, peace, knowledge, truth, responsibility/service, honour and progress) in order to reach Type I civilization. This, of course, is a suggestion.
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
