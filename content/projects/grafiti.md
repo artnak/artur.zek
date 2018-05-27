@@ -7,7 +7,8 @@ order: 9000
 ---
 
 {{ spacer }} {{ spacer }} {{ spacer }}
-<div align="center"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemihaartnak%2Fvideos%2F1783802861647762%2F&show_text=0&width=560" width="100%" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div>
+
+{{> youtube id="QxPGnCXqUeM" }} 
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 {{> img src="pred-eur-sem-bil-sit.jpg" size="small"}}
