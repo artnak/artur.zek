@@ -282,11 +282,23 @@ Ni za kej Roljič.
 
 {{> img src="cancer.png" size="small"}}
 
-{{ spacer }} {{ spacer }}
+{{ spacer }} {{ spacer }} {{ spacer }}
 
-# Unsuccess
+# <b>ONE MONTH LATER </b>
 
-## Uncovering: Eligma supposedly raised 15.178 ETH but they only have 943 ETH on their wallets
+{{ spacer }} {{ spacer }} 
+
+# Unsuccessful ICO
+
+# [Uncovering](https://kriptoreporter.com/razkrivamo-eligma-naj-bi-zbrala-15-178-eth-na-denarnicah-pa-zgolj-943-eth/): Eligma supposedly raised 15.178 ETH but they only have 943 ETH on their wallets
+
+<p style="text-align: center;">
+400.65 ETH [0xE8ef703C0de875D5c6c882c71FF03D18598290B3](https://etherscan.io/address/0xE8ef703C0de875D5c6c882c71FF03D18598290B3) 
+</p>
+ 
+<p style="text-align: center;">
+543.33 ETH [0xb06e1dce0822847097bc5a1ab6f21c240009e0b8](https://etherscan.io/address/0xb06e1dce0822847097bc5a1ab6f21c240009e0b8) 
+</p>
 
 [{{> img src="kriptoreporter01.jpg" size="small"}}](https://kriptoreporter.com/razkrivamo-eligma-naj-bi-zbrala-15-178-eth-na-denarnicah-pa-zgolj-943-eth/)
 
