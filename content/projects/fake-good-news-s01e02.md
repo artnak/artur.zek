@@ -308,6 +308,8 @@ Ni za kej Roljič.
 
 {{ spacer }} {{ spacer }}
 
+# New brand identity and new map
+
 {{> img src="btclogo.png" size="small"}}
 
 {{> img src="bitcoin-city-legend.jpg" size="small"}}
