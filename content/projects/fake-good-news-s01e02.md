@@ -42,6 +42,8 @@ T H E
 
 # <b>Bitcoin City (BTC City)</b> is a joke I did - an utopian project based on it's name - BTC (Bitcoin) with an existing BTC City visuals. 
 
+{{> img src="btc-thumb.jpg" size="small"}}
+
 <i>"The basic idea behind this concept of a city is that its whole economy runs on Bitcoin. Paying taxes happens automatically and functions somehow like paying fees to a payment service – only in this case the “fees” go directly to the city’s operational capital. Citizens then decide where they’d like to invest their tax money through the process of participative budgeting. 70% of their operational capital is spent on building schools and developing their own departments of science, philosophy, health, technology and art. 
 
 In this direct democracy all citizens act as politicians changing their local environment with active involvement in decision making and high levels of participation in online voting.
@@ -274,8 +276,49 @@ Read more in the Guadrain article below
 Ni za kej Roljič.
 </p>
 
-{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}   
+{{ spacer }} {{ spacer }}
 
+# Advertising
+
+{{> img src="cancer.png" size="small"}}
+
+{{ spacer }} {{ spacer }}
+
+# Unsuccess
+
+## Uncovering: Eligma supposedly raised 15.178 ETH but they only have 943 ETH on their wallets
+
+[{{> img src="kriptoreporter01.jpg" size="small"}}](https://kriptoreporter.com/razkrivamo-eligma-naj-bi-zbrala-15-178-eth-na-denarnicah-pa-zgolj-943-eth/)
+
+{{> img src="kriptoreporter02.jpg" size="small"}}
+
+{{ spacer }} {{ spacer }}
+
+# Nevermind guys. Team work!
+
+{{> img src="murnmur2.png" size="small"}}
+
+{{> img src="murnmur.png" size="small"}}
+
+{{ spacer }} {{ spacer }}
+
+{{> img src="cerar.jpg" size="small"}}
+
+[{{> img src="bitcoincom.png" size="small"}}](https://news.bitcoin.com/slovenias-shopping-center-btc-city-genuine-bitcoin-city/)
+
+{{ spacer }} {{ spacer }}
+
+{{> img src="btclogo.png" size="small"}}
+
+{{> img src="bitcoin-city-legend.jpg" size="small"}}
+
+{{ spacer }} {{ spacer }}
+
+# Still filming ...
+
+{{> img src="slavko.png" size="small"}}
+
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 # ______
 Written and directed by <b>The Miha Artnak</b>
