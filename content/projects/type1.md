@@ -188,6 +188,5 @@ or feed the artist </p>
 
 <div style="text-align: center;">
 
-<script data-fatsell="food" src="https://fatsell.com/embed/food.js"></script>
 
 </p>
