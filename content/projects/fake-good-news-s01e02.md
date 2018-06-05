@@ -294,7 +294,7 @@ Ni za kej Roljič.
 
 {{ spacer }} {{ spacer }}
 
-# Nevermind guys. Team work!
+# Nevermind guys, team work!
 
 {{> img src="murnmur2.png" size="small"}}
 
@@ -313,6 +313,12 @@ Ni za kej Roljič.
 {{> img src="btclogo.png" size="small"}}
 
 {{> img src="bitcoin-city-legend.jpg" size="small"}}
+
+{{ spacer }} {{ spacer }}
+
+# Perseverance
+
+{{> img src="fbreview.png" size="small"}}
 
 {{ spacer }} {{ spacer }}
 
