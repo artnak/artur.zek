@@ -138,7 +138,13 @@ I started ZN Media Facebook page and shared some existing viral videos to build 
 <p style="text-align: center;"> 30th October, 2017 </p>
 
 {{> img src="fb-comments.jpg" size="small"}}
-
+{{ spacer }}
+{{> img src="comment.jpg" size="small"}}
+{{ spacer }}
+{{> img src="tursic.jpg" size="small"}}
+{{ spacer }}
+{{> img src="fujtebodi.jpg" size="small"}}
+{{ spacer }}
 {{> img src="results.png" size="small"}}
 
 <p style="text-align: center;">
@@ -214,11 +220,9 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 # Artist lied to us!
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="http://www.slovenskenovice.si/novice/slovenija/umetnik-lagal-o-sliki-za-milijon">Umetnik lagal o sliki za milijon</a></h4><p>￼LJUBLJANA - V torek smo objavili zgodbo, ki je zbudila precej zanimanja pri naših bralcih - ljubljanski umetnik Miha Artnak nam je namreč v pogovoru, ki je potekal prek facebooka, potrdil informacijo in podrobnosti zgodbe, ki se je prej pojavila na spletu.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+[{{> img src="novice2.png" size="small"}}](http://www.slovenskenovice.si/novice/slovenija/umetnik-lagal-o-sliki-za-milijon)
 
-<blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article"><h4><a href="http://www.24ur.com/ekskluziv/zanimivosti/kako-se-je-golobja-umetnina-izkazala-za-navadno-laz.html">Kako se je golobja umetnina izkazala za navadno laž?</a></h4><p>Pokazali smo zgodbo o Slovencu, o katerem so pisali tudi očitno na lažni spletni strani sicer uglednega britanskega časnika The Guardian, Slovencu, ki je naredil sliko iz golobjih iztrebkov in zanjo dobil milijonsko plačilo. No, zgodbo si je Miha Artnak izmislil. In se vrhunsko pripravil na prodajo le-te.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+[{{> img src="24ur2.png" size="small"}}](http://www.24ur.com/ekskluziv/zanimivosti/kako-se-je-golobja-umetnina-izkazala-za-navadno-laz.html)
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
@@ -248,6 +252,10 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
+
+# Life goes on
+
+{{> img src="china.jpg" size="small"}}
 
 {{> img src="meme.png" size="small"}}
 
