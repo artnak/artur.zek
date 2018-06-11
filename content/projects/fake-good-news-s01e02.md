@@ -332,6 +332,21 @@ Ni za kej Roljič.
 
 {{> img src="fbreview.png" size="small"}}
 
+{{> img src="pr1.png" size="small"}}
+
+{{> img src="pr2.png" size="small"}}
+
+{{> img src="pr3.png" size="small"}}
+
+{{> img src="pr4.png" size="small"}}
+
+{{> img src="pr5.png" size="small"}}
+
+{{> img src="pr6.png" size="small"}}
+
+{{> img src="pr7.png" size="small"}}
+
+## [More media response](https://medium.com/eligma-blog/amazing-media-response-to-bitcoin-city-6375605ac933)
 {{ spacer }} {{ spacer }}
 
 # Still filming ...
