@@ -253,9 +253,33 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# Life goes on
+# Successful art career
 
 {{> img src="china.jpg" size="small"}}
+
+{{ spacer }}
+
+## Commission work
+
+{{> img src="artout.jpg" size="small"}}
+
+{{ spacer }}
+
+## Street art
+
+{{> img src="drek1.jpg" size="small"}}
+
+{{ spacer }}
+
+{{> img src="drek2.jpg" size="small"}}
+
+{{ spacer }}
+
+{{> img src="drek3.jpg" size="small"}}
+
+{{ spacer }}
+
+## Meme
 
 {{> img src="meme.png" size="small"}}
 
