@@ -99,6 +99,10 @@ Read more in the Guadrain article below
 
 {{> img src="gregor.jpg" size="small"}}
 
+{{> img src="odzivi2.jpg" size="small"}}
+
+{{> img src="odzivi3.jpg" size="small"}}
+
 {{> img src="testimonial.png" size="small"}}
 
 {{ spacer }} 
@@ -345,6 +349,28 @@ Ni za kej Roljič.
 {{> img src="pr6.png" size="small"}}
 
 {{> img src="pr7.png" size="small"}}
+
+{{> img src="pr9.png" size="small"}}
+
+{{> img src="pr10.png" size="small"}}
+
+{{> img src="pr11.png" size="small"}}
+
+{{> img src="pr12.png" size="small"}}
+
+{{> img src="pr13.png" size="small"}}
+
+{{> img src="pr14.png" size="small"}}
+
+{{> img src="pr15.png" size="small"}}
+
+{{> img src="pr17.png" size="small"}}
+
+{{> img src="pr18.png" size="small"}}
+
+{{> img src="pr16.png" size="small"}}
+
+{{> img src="pr8.png" size="small"}}
 
 ## [More media response](https://medium.com/eligma-blog/amazing-media-response-to-bitcoin-city-6375605ac933)
 {{ spacer }} {{ spacer }}
