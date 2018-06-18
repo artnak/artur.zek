@@ -32,6 +32,8 @@ T H E
 
 # <b>Blagovno trgovinski center (BTC CITY)</b> is a well known shopping mall, sports, entertainment and business area in Ljubljana, Slovenia, with more than 500 shops.  
 
+{{> img src="bus.jpg" size="small"}}
+
 [{{> img src="map.jpg" size="small"}}](https://www.wikiwand.com/en/BTC_City)
 
 <h4><a href="https://www.wikiwand.com/en/BTC_City">BTC City | Wikipedia </a></h4>
