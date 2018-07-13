@@ -1,13 +1,24 @@
 ---
 name: O U T
-thumbnail: outside-thumb.jpg
-cover: bozicek5.jpg
+thumbnail: outside-thumb2.jpg
+cover: kaca.jpg
 description:
 order: 999
 ---
+
+# No Head. No Tail.
+
+{{> label title="" description="with Ahim & Boriz, 2018" }}
+
+{{> youtube id="K8gtCAi4ROQ" }}
+
+{{ spacer }} {{ spacer }} {{ spacer }}
+
 # Dead Santa
 
 {{> label title="" description="Photo: Nika Jurman, December 2015" }}
+
+{{> img src="bozicek5.jpg"}}
 
 {{> img src="srna-Tine-Lindic.jpg" size="small"}}
 
@@ -23,11 +34,9 @@ order: 999
 
 {{> youtube id="wZnL5_w-DyM" }} 
 
-
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 # New Message
-
 
 {{> label title="" description="with Urša de Reya and Andraž Tarman / Photo: Tilen Sepič / Installation art made for Sodobni obrazi Emone / Project managers: Damijana Slabe and Nadja Ocepek with help of: Katarina Bobek, Katarina Žagar, Alja Fir, Anja Tomažič, ZVKDS / 2014, emonec.com" }}
 
@@ -73,9 +82,9 @@ order: 999
 
 ## [Link](http://artur.zekcrew.com/projects/childhood-pattern)
 
-{{> img src="pattern-plakat.jpg" size="small"}}
-
 {{> img src="pattern3.jpg" }}
+
+{{> img src="pattern-plakat.jpg" size="small"}}
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 

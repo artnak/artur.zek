@@ -58,7 +58,7 @@ ARTIST's ETH ADDRESS
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="misice.jpg" size="small"}}
-{{> label title="The Miha Artnak: Mišice in misice / The Last List of Lost Lust" description="mannequins, 2016" }}
+{{> label title="The Miha Artnak: Mišice in misice / The Lost List of Last Lust" description="mannequins, 2016" }}
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="milka-1.jpg" size="small"}}
