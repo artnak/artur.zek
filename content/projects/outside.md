@@ -80,11 +80,11 @@ order: 999
 
 {{> label title="" description="2011" }}
 
-## [Link](http://artur.zekcrew.com/projects/childhood-pattern)
-
 {{> img src="pattern3.jpg" }}
 
 {{> img src="pattern-plakat.jpg" size="small"}}
+
+## [To see the whole project click here](http://artur.zekcrew.com/projects/childhood-pattern)
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
