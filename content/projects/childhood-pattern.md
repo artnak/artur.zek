@@ -8,12 +8,18 @@ order: 2000
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# "I love this. The Miha Artnak did graffiti in the middle of the day because he tricked the wall's owner by showing him a fake authorisation supposedly sent by the Ministry of Culture. Although someone called the police, Miha still had the owner's approval - making it legal to continue."
+# "I love this. The Miha Artnak did graffiti in the middle of the day because he tricked the wall's owner by showing him a fake authorization supposedly sent by the Ministry of Culture. Although someone called the police, Miha still had the owner's approval - making it legal to continue."
 
 # <b>Borut Pahor</b>
 
 <p style="text-align: center;">
-<i> #presidentofslovenia # artoftheday #superproud #onelove #graffiti </i>
+<b>president of Slovenia</b>
+</p>
+
+{{ spacer }} 
+
+<p style="text-align: center;">
+<i> #presidentofslovenia #artoftheday #superproud #onelove #graffiti #iwasonceyoungtooyouknow</i>
 </p>
 
 {{ spacer }} {{ spacer }} {{ spacer }} 

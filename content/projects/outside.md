@@ -8,17 +8,23 @@ order: 999
 
 # No Head. No Tail.
 
-{{> label title="" description="with Ahim & Boriz, 2018" }}
+{{> label title="" description="Ljubljana, 2018" }}
+
+{{ spacer }}
 
 {{> youtube id="K8gtCAi4ROQ" }}
+
+{{> label title="" description="with Ahim & Boriz" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 # Dead Santa
 
-{{> label title="" description="Photo: Nika Jurman, December 2015" }}
+{{> label title="" description="Dobova, December 2015" }}
 
 {{> img src="bozicek5.jpg"}}
+
+{{> label title="" description="Photo: Nika Jurman" }}
 
 {{> img src="srna-Tine-Lindic.jpg" size="small"}}
 
@@ -28,29 +34,32 @@ order: 999
 
 # أهلاً و سهلاً
 
-{{> label title="" description="with friends from Metlika, 2015" }}
+{{> label title="" description="Metlika, 2015" }}
 
 {{> img src="dobrodosli2.jpg" }}
 
 {{> youtube id="wZnL5_w-DyM" }} 
 
+{{> label title="" description="with friends from Metlika" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 # New Message
 
-{{> label title="" description="with Urša de Reya and Andraž Tarman / Photo: Tilen Sepič / Installation art made for Sodobni obrazi Emone / Project managers: Damijana Slabe and Nadja Ocepek with help of: Katarina Bobek, Katarina Žagar, Alja Fir, Anja Tomažič, ZVKDS / 2014, emonec.com" }}
-
+{{> label title="" description="Ljubljana, 2014" }}
 {{> img src="newmsg3.jpg" }}
 
 {{> youtube id="PmWfZ_37FeQ" }}
 
 {{> img src="newmsg2.jpg" size="small"}}
 
+{{> label title="" description="with Urša de Reya and Andraž Tarman / Photo: Tilen Sepič / Installation art made for Sodobni obrazi Emone / Project managers: Damijana Slabe and Nadja Ocepek with help of: Katarina Bobek, Katarina Žagar, Alja Fir, Anja Tomažič, ZVKDS" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 # Heads or Tails
 
-{{> label title="" description="2013" }}
+{{> label title="" description="Ljubljana, 2013" }}
 
 {{> vimeo id="54765173" }}
 
@@ -58,16 +67,20 @@ order: 999
 
 # Black&White
 
-{{> label title="" description="2011-2013" }}
+{{> label title="" description="Venice, 2013" }}
 
 {{> img src="panda-orka.jpg" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> label title="" description="Ljubljana, 2011" }}
 
 {{> img src="cat-chase3.jpg" }}
 {{> img src="cat-chase2.jpg" size="small"}}
 
 {{> label title="" description="Photo: Lucijan Kranjc" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> label title="" description="Ljubljana, 2011" }}
 
 {{> img src="chase3.jpg" }}
 {{> img src="chase2.jpg" size="small"}}
@@ -78,7 +91,7 @@ order: 999
 
 # Childhood Pattern
 
-{{> label title="" description="2011" }}
+{{> label title="" description="Ljubljana, 2011" }}
 
 {{> img src="pattern3.jpg" }}
 
@@ -108,23 +121,19 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 
 # Pomlad je sen zime
 
-{{> label title="" description="with Andraž Tarman and Erik Vidmar, 2011" }} 
-
 {{> img src="rise3.jpg" }}
 
 <div class="tumblr"> <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/NTXyjC-zGfvoFK6m4C6QsA/17803253941" data-did="ea824d98681bff6d71deea5cd98246a4c7f09549"><a href="http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall">http://youhavetostartsomewhere.tumblr.com/post/17803253941/the-rise-of-the-fall</a></div>  <script async src="https://assets.tumblr.com/post.js"></script> </div> 
 
-{{> label title="" description="Photo & moving image: Tilen Sepič" }} 
-
 {{> img src="rise4.jpg" size="small"}}
 
-{{> label title="" description="Photo: Matjaž Tančič" }} 
+{{> label title="" description="with Andraž Tarman and Erik Vidmar, 2011/ Moving image: Tilen Sepič / Photo: Matjaž Tančič" }} 
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 # Laž
 
-{{> label title="" description="2013" }}
+{{> label title="" description="France, 2013" }}
 
 {{> img src="lie3.jpg" }}
 {{> vimeo id="64113644" }}
@@ -134,7 +143,7 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 
 # Spoznavanje narave družbe
 
-{{> label title="" description="2011" }}
+{{> label title="" description="Lanzarote, 2011" }}
 
 {{> img src="canaria2.jpg" }}
 {{> vimeo id="36658502" }}
@@ -143,15 +152,18 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 
 # Highlights
 
-{{> label title="" description="with Futen, 2011" }}
+{{> label title="" description="Ljubljana, 2011" }}
 
 {{> img src="train2.jpg" }}
 {{> img src="train.jpg" size="small"}}
+
+{{> label title="" description="with Futen" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 # Kapsi
 
-{{> label title="" description="2014" }}
+{{> label title="" description="Ljubljana, 2014" }}
 
 {{> video_loop src="kapsi.mp4" frame="false" }}
 
@@ -159,7 +171,7 @@ In 2010 we collected 40.000 used plastic bags and 7.500 used plastic cups from k
 
 # Global
 
-{{> label title="" description="posters, 2007" }}
+{{> label title="" description="Ljubljana, 2007" }}
 
 {{> img src="lokal.jpg" size="small"}}
 
