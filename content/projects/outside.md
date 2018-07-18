@@ -1,16 +1,20 @@
 ---
 name: O U T
 thumbnail: outside-thumb2.jpg
-cover: kaca.jpg
+cover: 
 description:
 order: 999
 ---
+
+{{ spacer }} {{ spacer }} 
+
+## The Miha Artnak
 
 # No Head. No Tail.
 
 {{> label title="" description="Ljubljana, 2018" }}
 
-{{ spacer }}
+{{> img src="kaca.jpg"}}
 
 {{> youtube id="K8gtCAi4ROQ" }}
 

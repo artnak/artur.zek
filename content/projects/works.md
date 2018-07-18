@@ -141,7 +141,6 @@ Cowhide is the natural, unbleached skin and hair of a cow. It retains the origin
 </p>
 
 {{> img src="puscica.jpg" size="small"}}
-{{> label title="" description="from exhibition ZEK (2012)" }}
 
 {{ spacer }}
 
@@ -149,7 +148,32 @@ Rights are legal, social, or ethical principles of freedom or entitlement; that 
 
 Rights are often considered fundamental to civilization, for they are regarded as established pillars of society and culture, and the history of social conflicts can be found in the history of each right and its development. According to the Stanford Encyclopedia of Philosophy, "rights structure the form of governments, the content of laws, and the shape of morality as it is currently perceived". 
 
+{{ spacer }} 
+
+{{> label title="" description="from exhibition ZEK (2012)" }}
+
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+## ZEK 
+
+# Zarad kač in visoke trave / Heads or Tails?
+
+<p style="text-align: center;">
+<i>mixed media, 2012</i>
+</p>
+
+{{> img src="kaca.jpg" size="small"}}
+
+{{ spacer }} 
+
+Snakes are elongated, legless, carnivorous reptiles of the suborder Serpentes. Like all squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales. Many species of snakes have skulls with several more joints than their lizard ancestors, enabling them to swallow prey much larger than their heads with their highly mobile jaws. To accommodate their narrow bodies, snakes' paired organs (such as kidneys) appear one in front of the other instead of side by side, and most have only one functional lung.
+
+{{ spacer }} 
+
+{{> label title="" description="from exhibition ZEK (2012)" }}
+
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
 
 ## ZEK 
 
@@ -167,7 +191,7 @@ Rights are often considered fundamental to civilization, for they are regarded a
 
 Taming is the deliberate, human-directed process of training an animal against its initially wild or natural instincts to avoid (or attack) humans, so that it instead learns to become tolerant of humans. The tameability of an animal is the level of ease it takes humans to train the animal. Tameability may vary among individual animals, breeds, or species.
 
-{{> label title="" description="with Žiga Aljaž, Martin Šoštarič and Andraž Tarman from exhibition ZEK (2012)" }}
+{{> label title="" description="with Žiga Aljaž, Martin Šoštarič and Andraž Tarman / from exhibition ZEK (2012)" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
@@ -183,19 +207,11 @@ Taming is the deliberate, human-directed process of training an animal against i
 
 {{ spacer }}
 
-Perfect
-
-Having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.
-
-{{ spacer }}
-
 {{> img src="perfect-balance2.jpg" size="small" }}
 
 {{ spacer }}
 
-Balance
-
-An even distribution of weight enabling someone or something to remain upright and steady.
+Perfect balance is having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be and an even distribution of weight enabling someone or something to remain upright and steady.
 
 {{ spacer }}
 
@@ -225,6 +241,68 @@ In physics, spacetime is any mathematical model that fuses the three dimensions 
 
 ## ZEK 
 
+# Množenje / Multiply
+
+<p style="text-align: center;">
+<i>print on foils, 2012</i>
+</p>
+
+{{> img src="multiply.jpg" size="small"}}
+
+{{ spacer }} 
+
+Multiplication (often denoted by the cross symbol "×", by a point "⋅", by juxtaposition, or, on computers, by an asterisk "∗") is one of the four elementary mathematical operations of arithmetic; with the others being addition, subtraction and division.
+
+The multiplication of whole numbers may be thought as a repeated addition; that is, the multiplication of two numbers is equivalent to adding as many copies of one of them, the multiplicand, as the value of the other one, the multiplier. Normally, the multiplier is written first and multiplicand second (though this can vary by language).
+
+{{ spacer }} 
+
+{{> label title="" description="with Vladimir & vladimir /from exhibition ZEK (2012) / " }}
+
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+## ZEK 
+
+# Opeka / Bricks
+
+<p style="text-align: center;">
+<i>graphic series, 2012</i>
+</p>
+
+{{> img src="opeka.jpg" size="small"}}
+
+{{ spacer }} 
+
+A brick is building material used to make walls, pavements and other elements in masonry construction. Traditionally, the term brick referred to a unit composed of clay, but it is now used to denote any rectangular units laid in mortar. A brick can be composed of clay-bearing soil, sand, and lime, or concrete materials. Bricks are produced in numerous classes, types, materials, and sizes which vary with region and time period, and are produced in bulk quantities. 
+
+{{ spacer }} 
+
+{{> label title="" description="from exhibition ZEK (2012)" }}
+
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+## ZEK 
+
+# Pusti jih živeti / Let Them Be
+
+<p style="text-align: center;">
+<i>button, 2012</i>
+</p>
+
+{{> img src="gumb.jpg" size="small"}}
+
+{{ spacer }} 
+
+Being is the general concept encompassing objective and subjective features of reality and existence. Anything that partakes in being is also called a "being", though often this usage is limited to entities that have subjectivity (as in the expression "human being"). The notion of "being" has, inevitably, been elusive and controversial in the history of philosophy, beginning in Western philosophy with attempts among the pre-Socratics to deploy it intelligibly.
+
+{{ spacer }} 
+
+{{> label title="" description="from exhibition ZEK (2012)" }}
+
+{{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
+
+## ZEK 
+
 # 3D čačka / 3D Scribble
 
 <p style="text-align: center;">
@@ -239,7 +317,7 @@ A doodle is a drawing made while a person's attention is otherwise occupied. Doo
 
 {{ spacer }}
 
-{{> label title="" description="with Martin Šoštarič, from exhibition ZEK (2012)" }}
+{{> label title="" description="with Martin Šoštarič / from exhibition ZEK (2012)" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }}
 
