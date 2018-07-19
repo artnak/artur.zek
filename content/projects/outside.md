@@ -1,5 +1,5 @@
 ---
-name: O U T
+name: O U T S I D E
 thumbnail: outside-thumb2.jpg
 cover: 
 description:
