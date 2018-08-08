@@ -156,7 +156,7 @@ Rights are often considered fundamental to civilization, for they are regarded a
 
 ## ZEK 
 
-# Zarad kač in visoke trave / Heads or Tails?
+# Zaradi kač in visoke trave / Heads or Tails?
 
 <p style="text-align: center;">
 <i>mixed media, 2012</i>
