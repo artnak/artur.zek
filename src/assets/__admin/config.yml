@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: artnak/artur.zek # Change this to your repo
-  branch: master
+  branch: preview
 
 media_folder: src/assets/uploads
 public_folder: /assets/uploads
