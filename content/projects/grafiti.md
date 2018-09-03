@@ -1,5 +1,6 @@
 ---
 name: Grafiti
+title: grafiti
 thumbnail: zek-neznan-avtor.jpg
 cover: vcasih-je-super-men-vcasih-je-bed-men.jpg
 description:

@@ -1,5 +1,6 @@
 ---
 name: Type I civilization flag
+title: type1
 thumbnail: flag-of-earth-02.jpg
 cover: flag-of-earth-01.jpg
 description: Open source project, 2013 -

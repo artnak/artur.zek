@@ -1,5 +1,6 @@
 ---
 name: Naše Gore List
+title: nase-gore-list
 thumbnail: thumb.png
 cover: 
 description: 

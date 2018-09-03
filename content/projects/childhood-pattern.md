@@ -1,5 +1,6 @@
 ---
 name: Childhood Pattern (2012)
+title: childhood-pattern
 thumbnail: kapsi2.jpg
 cover: kapsi.png
 description: 

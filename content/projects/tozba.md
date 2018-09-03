@@ -1,5 +1,6 @@
 ---
 name: 100€
+title: tozba
 thumbnail: tozba1.jpg
 cover: tozba1.jpg
 description: 

@@ -1,5 +1,6 @@
 ---
 name: Type Experiments
+title: type-expirements
 thumbnail: thumb.png
 cover: foreword-artnak.jpg
 description: 

@@ -1,5 +1,6 @@
 ---
 name: Illustration
+title: illustration
 thumbnail: pujsi.png
 cover: bull.png
 description: 

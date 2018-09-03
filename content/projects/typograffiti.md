@@ -1,5 +1,6 @@
 ---
 name: Typograffiti
+title: typograffiti
 thumbnail: artur-throwup.png
 cover: artur-oranzen.png
 description: 

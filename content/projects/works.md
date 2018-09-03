@@ -1,5 +1,6 @@
 ---
 name: W O R K S
+title: works
 thumbnail: what-right-zek.jpg
 cover:
 description:

@@ -1,5 +1,6 @@
 ---
 name: Printed
+title: printed
 thumbnail: layers-nature.jpg
 cover: youropinion.jpg
 description:

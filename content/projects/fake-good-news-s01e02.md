@@ -1,5 +1,6 @@
 ---
 name: Fake Good News S01 E02
+title: fake-good-news-s01e02
 thumbnail: btc-thumb.jpg
 cover: btccity.jpg
 description: In this episode The Miha is trolling the crypto community.

@@ -1,5 +1,6 @@
 ---
 name: O U T S I D E
+title: outside
 thumbnail: outside-thumb2.jpg
 cover: 
 description:

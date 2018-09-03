@@ -1,5 +1,6 @@
 ---
 name: V S T A J A
+title: vstaja
 thumbnail: vstaja1.jpg
 cover: zastava1.jpg
 description: 2012 -

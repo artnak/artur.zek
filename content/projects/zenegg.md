@@ -1,5 +1,6 @@
 ---
 name: 10 free advices on selling low-priced products globally
+title: zenegg
 thumbnail: bela.png
 cover: ZenEgg.jpg
 description: The advantages of knowing the marketplace

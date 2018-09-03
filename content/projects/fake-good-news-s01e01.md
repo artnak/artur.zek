@@ -1,5 +1,6 @@
 ---
 name: Fake Good News S01 E01
+title: fake-good-news-s01e01
 thumbnail: die-artwork.jpg
 cover: hero2.png
 description: In this episode The Miha is trolling the art market and slovenian media. 
