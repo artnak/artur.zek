@@ -1,0 +1,51 @@
+backend:
+  name: github
+  repo: artnak/artur.zek # Change this to your repo
+  branch: master
+
+media_folder: src/assets/uploads
+public_folder: /assets/uploads
+
+collections:
+  - name: projects
+    label: Projects
+    create: true
+    editor:
+      preview: false
+    folder: content/projects
+    fields:
+
+      - name: name
+        label: Name (for web caption)
+        widget: string
+
+      - name: title
+        label: Title (for URL generator)
+        widget: string
+
+      - name: order
+        label: Order
+        widget: number
+
+      - name: cover
+        label: Cover Image
+        widget: image
+
+      - name: thumbnail
+        label: Thumbnail Image
+        widget: image
+
+      - name: description
+        label: Description
+        widget: string
+        required: false
+
+      - name: body
+        label: Body
+        widget: text
+        
+      - name: draft
+        label: Draft (delay publication)
+        widget: boolean
+        default: false
+        required: false
