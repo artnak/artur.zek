@@ -30,6 +30,7 @@ The website preview will be accessible on [http://localhost:9080](http://localho
 
 ```
 docker run --rm -i -p 9080:9080 -v ${PWD}:/mnt/repo some1else/artur:latest sh -s <<EOF
+cd /mnt/repo
 bundle exec make build
 node ./node_modules/node-static/bin/cli.js -a 0.0.0.0 -p 9080 build
 EOF
