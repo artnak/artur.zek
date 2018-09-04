@@ -12,7 +12,7 @@ docker pull some1else/artur
 
 # Build & serve the site
 
-The container will then build the website into the `build` folder.
+The container will build the website into the `build` folder.
 
 The website preview will be accessible on [http://localhost:9080](http://localhost:9080)
 
