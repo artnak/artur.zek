@@ -22,7 +22,7 @@ echo Copying code into container
 cp -Rn /mnt/repo/* ./
 ls -alF
 echo Running build command
-bundle exec make build
+make build
 echo Copying built artefact out of the container
 cp -Rf ./build /mnt/repo/
 echo Serving "build" at http://localhost:9080
