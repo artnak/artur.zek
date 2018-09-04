@@ -23,7 +23,7 @@ RUN gem install ffi -v '1.9.25' --source 'https://rubygems.org/'
 # Bundle deps
 RUN bundle
 
-# Copy package & lock file
+# Copy package.json
 COPY package.json ./
 
 # Yarn deps
