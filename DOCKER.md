@@ -6,20 +6,8 @@ Run these scripts in the project directory (for instance: `$ cd ~/Sites/artur.ze
 
 Fetch the Docker image:
 
-`docker pull some1else/artur`
-
-# First run
-
-If you have a fresh repository, this command will copy node_modules & lockfiles into the project. Run it once, or when dependencies change.
-
 ```
-docker run --rm -i -p 9080:9080 -v ${PWD}:/mnt/repo some1else/artur:latest sh -s <<EOF
-echo Copying node_modules
-cp -Rf node_modules /mnt/repo/
-echo Copying lockfiles
-cp -f Gemfile.lock /mnt/repo/
-cp -f yarn.lock /mnt/repo/
-EOF
+docker pull some1else/artur
 ```
 
 # Build & serve the site
@@ -30,8 +18,14 @@ The website preview will be accessible on [http://localhost:9080](http://localho
 
 ```
 docker run --rm -i -p 9080:9080 -v ${PWD}:/mnt/repo some1else/artur:latest sh -s <<EOF
-cd /mnt/repo
+echo Copying code into container
+cp -Rn /mnt/repo/* ./
+ls -alF
+echo Running build command
 bundle exec make build
+echo Copying built artefact out of the container
+cp -Rf ./build /mnt/repo/
+echo Serving "build" at http://localhost:9080
 node ./node_modules/node-static/bin/cli.js -a 0.0.0.0 -p 9080 build
 EOF
 ```
