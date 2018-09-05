@@ -2,6 +2,12 @@
 
 ![](http://i.imgur.com/DgxvOrO.png)
 
+## Building with Docker
+
+Check the [DOCKER.md](https://github.com/artnak/artur.zek/blob/master/DOCKER.md) file.
+
+## Building locally
+
 Deployment-ready files are contained in the `build` directory.
 
 To work on the project double-click `Preview on this Computer`
