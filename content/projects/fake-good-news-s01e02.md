@@ -31,9 +31,9 @@ T H E
 # <b>Origin</b>
 # __
 
-# <b>Blagovno trgovinski center (BTC CITY)</b> is a well known shopping mall, sports, entertainment and business area in Ljubljana, Slovenia, with more than 500 shops.  
+{{> img src="bus.jpg"}}
 
-{{> img src="bus.jpg" size="small"}}
+# <b>Blagovno trgovinski center (BTC CITY)</b> is a well known shopping mall, sports, entertainment and business area in Ljubljana, Slovenia, with more than 500 shops.  
 
 [{{> img src="map.jpg" size="small"}}](https://www.wikiwand.com/en/BTC_City)
 
@@ -43,9 +43,10 @@ T H E
 
 {{ spacer }} 
 
+{{> img src="btc-thumb.jpg" size="small"}}
+
 # <b>Bitcoin City (BTC City)</b> is a joke I did - an utopian project based on it's name - BTC (Bitcoin) with an existing BTC City visuals. 
 
-{{> img src="btc-thumb.jpg" size="small"}}
 
 <i>"The basic idea behind this concept of a city is that its whole economy runs on Bitcoin. Paying taxes happens automatically and functions somehow like paying fees to a payment service – only in this case the “fees” go directly to the city’s operational capital. Citizens then decide where they’d like to invest their tax money through the process of participative budgeting. 70% of their operational capital is spent on building schools and developing their own departments of science, philosophy, health, technology and art. 
 
@@ -57,7 +58,11 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>My Bitcoin City campaign</b>
+# <b>TIMELINE</b>
+
+{{ spacer }} {{ spacer }} 
+
+# <b>How I created Bitcoin City</b>
 # __
 
 # Viral fake news
@@ -285,19 +290,14 @@ Ni za kej Roljič.
 
 {{ spacer }} {{ spacer }}
 
-# Advertising
-
-{{> img src="cancer.png" size="small"}}
-
-{{ spacer }} {{ spacer }} {{ spacer }}
 
 # <b>ONE MONTH LATER </b>
 
 {{ spacer }} {{ spacer }} 
 
-# Unsuccessful ICO
+# [Unsuccessful ICO](https://kriptoreporter.com/razkrivamo-eligma-naj-bi-zbrala-15-178-eth-na-denarnicah-pa-zgolj-943-eth/)
 
-# [Uncovering](https://kriptoreporter.com/razkrivamo-eligma-naj-bi-zbrala-15-178-eth-na-denarnicah-pa-zgolj-943-eth/): Eligma supposedly raised 15.178 ETH but they only have 943 ETH on their wallets
+# Uncovering: Eligma supposedly raised 15.178 ETH but they only have 943 ETH on their wallets
 
 <p style="text-align: center;">
 400.65 ETH [0xE8ef703C0de875D5c6c882c71FF03D18598290B3](https://etherscan.io/address/0xE8ef703C0de875D5c6c882c71FF03D18598290B3) 
@@ -321,13 +321,17 @@ Ni za kej Roljič.
 
 {{ spacer }} {{ spacer }}
 
-{{> img src="cerar.jpg" size="small"}}
+# Get the prime minister on the phone!
+
+{{> youtube id="Tixowjvb5F4" }} 
 
 [{{> img src="bitcoincom.png" size="small"}}](https://news.bitcoin.com/slovenias-shopping-center-btc-city-genuine-bitcoin-city/)
 
+{{> img src="cerar.jpg" size="small"}}
+
 {{ spacer }} {{ spacer }}
 
-# New brand identity and new map
+# Create me a new brand identity and new map!
 
 {{> img src="btclogo.png" size="small"}}
 
@@ -335,17 +339,23 @@ Ni za kej Roljič.
 
 {{ spacer }} {{ spacer }}
 
-# Perseverance
+# Deny everything!
 
 {{> img src="fbreview.png" size="small"}}
+
+{{ spacer }} {{ spacer }}
+
+# Fake it till you make it!
+
+<p style="text-align: center;">Ladies and gentleman — Ted Danson! </p>
+
+{{> youtube id="-XGv1t4qFzI" }} 
 
 {{> img src="pr1.png" size="small"}}
 
 {{> img src="pr2.png" size="small"}}
 
 {{> img src="pr3.png" size="small"}}
-
-{{> img src="pr4.png" size="small"}}
 
 {{> img src="pr5.png" size="small"}}
 
@@ -381,9 +391,10 @@ Ni za kej Roljič.
 
 {{> img src="pr22.png" size="small"}}
 
-{{> img src="pr8.png" size="small"}}
+{{> img src="pr4.png" size="small"}}
 
 ## [More media response](https://medium.com/eligma-blog/amazing-media-response-to-bitcoin-city-6375605ac933)
+
 {{ spacer }} {{ spacer }}
 
 # Still filming ...
