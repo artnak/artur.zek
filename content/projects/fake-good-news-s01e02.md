@@ -39,30 +39,33 @@ T H E
 
 <h4><a href="https://www.wikiwand.com/en/BTC_City">BTC City | Wikipedia </a></h4>
 
-<p style="text-align: center;"> *BTC is also the currency ticker used for [Bitcoin](https://www.wikiwand.com/en/Bitcoin) </p>
+{{ spacer }} {{ spacer }} 
 
-{{ spacer }} 
-
-{{> img src="btc-thumb.jpg" size="small"}}
-
-# <b>Bitcoin City (BTC City)</b> is a joke I did - an utopian project based on it's name - BTC (Bitcoin) with an existing BTC City visuals. 
-
-
-<i>"The basic idea behind this concept of a city is that its whole economy runs on Bitcoin. Paying taxes happens automatically and functions somehow like paying fees to a payment service – only in this case the “fees” go directly to the city’s operational capital. Citizens then decide where they’d like to invest their tax money through the process of participative budgeting. 70% of their operational capital is spent on building schools and developing their own departments of science, philosophy, health, technology and art. 
-
-In this direct democracy all citizens act as politicians changing their local environment with active involvement in decision making and high levels of participation in online voting.
-
-Basic citizen income is provided daily to ensure the people’s basic needs but citizens are already considering creating their own cryptocoin due to Bitcoin’s extreme volatility. The new coin would be equally distributed to all BTC citizens, so that in theory everybody would have the same starting position."</i>
-
-Read more in the Guadrain article below
-
-{{ spacer }} {{ spacer }} {{ spacer }} 
-
+# __
 # <b>TIMELINE</b>
 
 {{ spacer }} {{ spacer }} 
 
-# <b>How I created Bitcoin City</b>
+# <b>How I created the Bitcoin City</b>
+
+
+{{> img src="btc-thumb.jpg" size="small"}}
+
+# <b>Bitcoin City (BTC City)</b> is a fake utopian project based on it's name - BTC (Bitcoin) with an existing BTC City visuals. 
+
+{{ spacer }} {{ spacer }} 
+
+# <b>THE CONCEPT</b>
+
+<i>The basic idea behind this concept of a city is that its whole economy runs on Bitcoin. Paying taxes happens automatically and functions somehow like paying fees to a payment service – only in this case the “fees” go directly to the city’s operational capital. Citizens then decide where they’d like to invest their tax money through the process of participative budgeting. 70% of their operational capital is spent on building schools and developing their own departments of science, philosophy, health, technology and art. 
+
+In this direct democracy all citizens act as politicians changing their local environment with active involvement in decision making and high levels of participation in online voting.
+
+Basic citizen income is provided daily to ensure the people’s basic needs but citizens are already considering creating their own cryptocoin due to Bitcoin’s extreme volatility. The new coin would be equally distributed to all BTC citizens, so that in theory everybody would have the same starting position.</i>
+
+{{ spacer }} {{ spacer }} {{ spacer }} 
+
+# <b>THE CAMPAIGN</b>
 # __
 
 # Viral fake news
@@ -93,7 +96,10 @@ Read more in the Guadrain article below
 
 {{> label title="with [Srđan Prodanović](https://github.com/some1else)" description="coding" }}
 
-{{ spacer }} 
+{{ spacer }} {{ spacer }} 
+
+# <b>RESPONSE </b>
+# __
 
 # Public opinion
 
@@ -135,19 +141,14 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# Antagonists
+# <b>ANTAGONISTS</b>
+# __
 
-{{ spacer }} 
-
-{{> img src="murnfb.png" size="small"}}
-
-{{> img src="dejanfake.png" size="small"}}
-
-{{ spacer }} {{ spacer }} 
-
-## <b>Miha Murn / Michael Gregorjev Murn</b>
+# Miha Murn / Michael Gregorjev Murn
 
 ## 'Artist'
+
+{{> img src="murnfb.png" size="small"}}
 
 {{> img src="mihamurn.jpg" size="small"}}
 
@@ -165,9 +166,11 @@ Read more in the Guadrain article below
 
 {{ spacer }} 
 
-## <b>Dejan Roljic</b>
+# Dejan Roljic
 
 ## 'Entrepreneur'
+
+{{> img src="dejanfake.png" size="small"}}
 
 {{> img src="dejanroljic.jpg" size="small"}}
 
@@ -178,7 +181,7 @@ Read more in the Guadrain article below
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>RESPONSE </b>
+# <b>WARNINGS</b>
 # __
 
 # Company's public statement 
@@ -195,7 +198,7 @@ Read more in the Guadrain article below
 
 {{ spacer }}
 
-# Last warnings 
+# Private warnings 
 
 {{> img src="andrej.png" size="small"}}
 
@@ -313,6 +316,9 @@ Ni za kej Roljič.
 
 {{ spacer }} {{ spacer }}
 
+# <b>PERSEVERANCE</b>
+# __
+
 # Nevermind guys, team work!
 
 {{> img src="murnmur2.png" size="small"}}
@@ -331,7 +337,7 @@ Ni za kej Roljič.
 
 {{ spacer }} {{ spacer }}
 
-# Create me a new brand identity and new map!
+# Create me a new brand identity and a map!
 
 {{> img src="btclogo.png" size="small"}}
 
