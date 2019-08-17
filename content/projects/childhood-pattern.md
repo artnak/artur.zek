@@ -3,11 +3,13 @@ name: Childhood Pattern (2012)
 title: childhood-pattern
 thumbnail: kapsi2.jpg
 cover: kapsi.png
-description: 
+description: Performance movie
 order: 2000
 ---
 
-{{ spacer }} {{ spacer }} {{ spacer }} 
+{{ spacer }}
+
+# 👮 👮 👮
 
 # "I love this. The Miha Artnak did graffiti in the middle of the day because he tricked the wall's owner by showing him a fake authorization supposedly sent by the Ministry of Culture. Although someone called the police, Miha still had the owner's approval - making it legal to continue."
 
@@ -17,27 +19,35 @@ order: 2000
 <b>president of Slovenia</b>
 </p>
 
-{{ spacer }} 
-
 <p style="text-align: center;">
 <i> #presidentofslovenia #artoftheday #superproud #onelove #graffiti #iwasonceyoungtooyouknow</i>
 </p>
 
+{{ spacer }} {{ spacer }}
+
+
+{{> img src="tanja.png" size="small"}}
+
+{{> img src="gliha.png" size="small"}}
+
+{{> img src="bork.png" size="small"}}
+
+{{ spacer }} {{ spacer }}
+
+{{> img src="stolfa.png" size="small"}}
+
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-{{> img src="prosnja.jpg" size="small"}}
 
-{{> label title="Unofficial application for spraying on the wall" description="2011" }}
-
-{{ spacer }} {{ spacer }} {{ spacer }}
-
-# WATCH TRAILER
-
-{{ spacer }}  
+# <b>WATCH TRAILER</b>
 
 {{> vimeo id="38960808" }}
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
+
+# Behind the Scenes
+
+{{ spacer }}
 
 {{> img src="the-miha-artnak-childhood-pattern-01.jpg" }}
 {{ spacer }} {{ spacer }} {{ spacer }} 
@@ -48,9 +58,7 @@ order: 2000
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# WATCH THE MOVIE
-
-{{ spacer }} 
+# <b>WATCH THE MOVIE</b>
 
 {{> vimeo id="39790215" }}
 
@@ -60,14 +68,19 @@ Written by The Miha Artnak / Directed by Tilen Sepič / Starring: The Miha Artna
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
+# Fake Authorization
+
+{{> img src="prosnja.jpg" size="small"}}
+
+{{> label title="Unofficial application for spraying on the wall" description="2011" }}
+
+{{ spacer }} {{ spacer }} {{ spacer }}
+
 {{> img src="the-miha-artnak-childhood-pattern-03.jpg" size="small"}}
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-{{> img src="artnak-miha-erjavec.jpg" size="small" }}
-{{> label title="Mini-spraycan-photography-object" description="by Miha Erjavec" }}
 
-{{ spacer }} {{ spacer }} 
 
           
 
@@ -82,17 +95,27 @@ js.src="http://g-ec2.images-amazon.com/images/G/01/imdb/plugins/rating/js/rating
 stags.parentNode.insertBefore(js,stags);})(document,'script','imdb-rating-api');    
 </script>  </h2>                  
 
-{{> label title="Slavimir Stojanović ★★★★★" description="Miha se pretvara iz mladog dizajnera u ozbiljnog umetnika koji ima šta da kaže, a što je najvažnije, i zna kako to da kaže. Pazljivo pratim njegov razvoj već skoro deset godina, i mogu reči sa iskrenim veseljem da sam sve ljubomorniji." }}
 
-{{> label title="Matej Gliha" description="to sem pa učeri vidu po celi dolžini ograje. Kaj naj ti rečem, res si car in upam da te dobijo" }}
-
-{{> label title="Ana Godec" description="skrivni dnevnik in rastoče težave jadrana krta" }}
-
-{{> label title="Dj Bartillier" description="ubistvu je namen tega filma da gledamo artnakovo guzo 15 min" }}
-
-{{> label title="Vuk Ćosić ★★★★★" description="The Miha film je pogumen in prepričljiv. Dobro deluje skupaj s trailerjem in bi morda celo priporočal skupno predvajanje, vsakič." }}
+# Miha se pretvara iz mladog dizajnera u ozbiljnog umetnika koji ima šta da kaže, a što je najvažnije, i zna kako to da kaže. Pazljivo pratim njegov razvoj već skoro deset godina, i mogu reči sa iskrenim veseljem da sam sve ljubomorniji.
+# <b>Slavimir Stojanović ★★★★★</b>
 
 {{ spacer }}  
+
+# The Miha film je pogumen in prepričljiv. Dobro deluje skupaj s trailerjem in bi morda celo priporočal skupno predvajanje, vsakič.
+# <b>Vuk Ćosić ★★★★★</b>
+
+{{ spacer }}  
+
+{{> img src="ana.png" size="small" }}
+
+{{> img src="gregor.png" size="small" }}
+
+{{ spacer }} {{ spacer }} 
+
+{{> img src="artnak-miha-erjavec.jpg" size="small" }}
+{{> label title="Mini-spraycan-photography-object" description="by Miha Erjavec" }}
+
+{{ spacer }} {{ spacer }} 
 
 # ______
 Performance by <b>The Miha Artnak</b>
