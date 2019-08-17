@@ -224,7 +224,7 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 {{ spacer }} {{ spacer }}
 
-## Anchorman: "This is crazy but a true story."
+## Anchorman: "This is crazy but it's also a true story."
 
 {{> youtube id="rsY1zbYt2tg"}} 
 
