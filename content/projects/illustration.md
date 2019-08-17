@@ -24,6 +24,15 @@ order: 6000
 {{> img src="volk.png" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+{{> img src="modra1.png" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="modra2.png" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="babit.png" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
 {{> img src="mesojeda.png" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
