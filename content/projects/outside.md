@@ -23,6 +23,14 @@ order: 999
 
 {{ spacer }} {{ spacer }} {{ spacer }}
 
+# Net Neutrality
+
+{{> label title="" description="Ljubljana, 2018" }}
+
+{{> img src="internet.jpg"}}
+
+{{ spacer }} {{ spacer }} {{ spacer }}
+
 # Dead Santa
 
 {{> label title="" description="Dobova, December 2015" }}

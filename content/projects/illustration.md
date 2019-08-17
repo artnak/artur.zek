@@ -22,6 +22,23 @@ order: 6000
 {{> img src="1zmajsneg.png" }}
 
 {{> img src="volk.png" }}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="mesojeda.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="kucha.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="bloomberg0.png" size="small"}}
+
+{{> img src="bloomberg1.png" size="small"}}
+
+{{> img src="bloomberg2.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }}
+
+{{> img src="smajli.png" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="spike.png" }}
 {{ spacer }} {{ spacer }} {{ spacer }}

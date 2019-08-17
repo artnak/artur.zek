@@ -28,6 +28,34 @@ T H E
 
 {{ spacer }} {{ spacer }}  
 
+# <b>Origin</b>
+# __
+
+# <b>THE CONCEPT</b>
+
+## No bullshit
+
+# I colored the canvas black and left it overnight in one of the dove breeding houses. I wanted it to be painted with doves feces to get that expressionistic mood. And doves have so much symbolism attached to it that it's a self-explanatory piece.
+
+<p style="text-align: center;"> August, 2017 </p>
+
+{{> youtube id="9KRBUsCYKZU" }} 
+
+<p style="text-align: center;">
+Hvala ti Branko.
+</p>
+
+{{ spacer }} 
+
+# __
+# <b>TIMELINE</b>
+
+{{ spacer }} {{ spacer }} 
+
+# <b>How I sold the painting for $1M</b>
+
+{{ spacer }} {{ spacer }} 
+
 ## The Miha Artnak
 
 # Dove & Peace
@@ -62,31 +90,14 @@ ARTIST's ETH ADDRESS
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>Origin</b>
-# __
 
-# No bullshit
-
-## The artwork
-
-<p style="text-align: center;"> August, 2017 </p>
-
-{{> youtube id="9KRBUsCYKZU" }} 
-
-<p style="text-align: center;">
-I colored the canvas black and left it overnight in one of the dove breeding houses. I wanted it to be painted with doves feces to get that expressionistic mood. And doves have so much symbolism attached to it that it's a self explanatory piece. Many thanks goes to Branko Jurman who helped me do the painting. 
-</p>
-
-<p style="text-align: center;">
-Hvala ti Branko.
-</p>
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>My art campaign</b>
+# <b>THE CAMPAIGN</b>
 # __
  
-# Fake News Media House
+# Fake Media House
 
 ## Brand
 
@@ -138,7 +149,7 @@ I started ZN Media Facebook page and shared some existing viral videos to build 
 
 <p style="text-align: center;"> 30th October, 2017 </p>
 
-{{> img src="fb-comments.jpg" size="small"}}
+{{> img src="fb-comments.jpg"}}
 {{ spacer }}
 {{> img src="comment.jpg" size="small"}}
 {{ spacer }}
@@ -170,7 +181,7 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>Results</b>
+# <b>RESULTS</b>
 # __
 
 # Real Newspaper
@@ -194,30 +205,38 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 {{ spacer }} {{ spacer }} 
 
 # Real News TV
+## Evening news
 
 <p style="text-align: center;"> 16th November, 2017 </p>
 
 {{> youtube id="sXEmVgbJ8D4?t=2040 " }} 
 {{> label title="Svet na Kanalu A" description="National news TV as the main story" }}
 
-<iframe id="report_video" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmiha.artnak%2Fvideos%2F10159605714195181%2F&show_text=0&width=375" width="100%" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
 {{> img src="usralo.png" size="small"}}
 
 <p style="text-align: center;"> "Good shit happened" </p> 
 
-{{> img src="svet.png" size="small"}}
+{{ spacer }} 
 
-<p style="text-align: center;"> Edited post on Facebook </p>
+## The interview
 
-{{ spacer }}
-</p>
+<iframe id="report_video" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmiha.artnak%2Fvideos%2F10159605714195181%2F&show_text=0&width=375" width="100%" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+{{ spacer }} {{ spacer }}
+
+## Anchorman: "This is crazy but a true story."
 
 {{> youtube id="rsY1zbYt2tg"}} 
 
-<p style="text-align: center;"> "Crazy, but true!" </p> 
+{{ spacer }}
+
+## Edited post
+
+{{> img src="svet.png" size="small"}}
 
 {{ spacer }} {{ spacer }} {{ spacer }}
+
+# <b>AFTERMATH</b>
 
 # Artist lied to us!
 
@@ -227,9 +246,8 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# <b>Aftermath</b>
 
-## Validation
+# Validation
 
 {{ spacer }} 
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article-full"><h4><a href="http://www.mladina.si/182842/fekalni-ekspresionizem-oziroma-poop-art/">Fekalni ekspresionizem oziroma poop-art | MLADINA.si</a></h4><p>Golobja umetnina © The Miha Artnak, ZEK Ljubljanski multimedijski umetnik The Miha Artnak je te dni uspešno izpeljal še eno izmed domiselnih potegavščin. S svojimi duhovitimi podvigi je doslej že večkrat marsikoga napetnajstil, denimo takrat, ko je policistom, ki so ga želeli ustaviti (in oglobiti) pri ustvarjanju Vzorca iz otroštva - osupljivo dolgega grafita, narejenega v eni potezi - suvereno predložil ponarejeno dovoljenje in mirno ustvarjal naprej.</p></blockquote>
@@ -254,19 +272,19 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 {{ spacer }} {{ spacer }} {{ spacer }} {{ spacer }} 
 
-# Successful art career
+# <b>Successful art career</b>
 
 {{> img src="china.jpg" size="small"}}
 
 {{ spacer }}
 
-## Commission work
+# <b>Commission work</b>
 
 {{> img src="artout.jpg" size="small"}}
 
 {{ spacer }}
 
-## Street art
+# <b>Street art</b>
 
 {{> img src="drek1.jpg" size="small"}}
 
@@ -280,7 +298,7 @@ I published my own article on [Guadrain](https://theguadrain.com/artanddesign/20
 
 {{ spacer }}
 
-## Meme
+# <b>Meme</b>
 
 {{> img src="meme.png" size="small"}}
 

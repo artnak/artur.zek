@@ -174,10 +174,10 @@ Basic citizen income is provided daily to ensure the people’s basic needs but 
 
 {{> img src="dejanroljic.jpg" size="small"}}
 
+{{> img src="roljicbio1.png" size="small"}}
+
 <blockquote class="embedly-card" data-card-key="4391e64690444f0ea2b580d367df61d9" data-card-controls="0" data-card-branding="0" data-card-type="article"><h4><a href="https://www.dnevnik.si/1042655773">Dejan Roljič, CEO of Formtaste is accused of stealing an idea from Print boks</a></h4><p>Slovenska zagonska podjetja so povezana v zelo tesni skupnosti, a očitno od časa do časa pride tudi do prepirov. Print boks, ki proizvaja kiosk za tiskanje, optično branje in fotokopiranje, je podjetje Formtaste innovations obtožil kraje ideje.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-{{> img src="roljicbio1.png" size="small"}}
 
 {{ spacer }} {{ spacer }} {{ spacer }} 
 

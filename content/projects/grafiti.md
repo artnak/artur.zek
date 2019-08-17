@@ -8,6 +8,8 @@ order: 9000
 ---
 
 {{ spacer }} {{ spacer }} {{ spacer }}
+{{> img src="cipilonika.jpg" size="small"}}
+{{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> youtube id="QxPGnCXqUeM" }} 
 
@@ -69,9 +71,6 @@ order: 9000
 {{> img src="kroznik-klobuk.jpg" }}
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-{{> img src="ms-universe.jpg" size="small"}}
-{{ spacer }} {{ spacer }} {{ spacer }} 
-
 {{> img src="najlepse-mesto-na-skretu.jpg" size="small" }}
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
@@ -81,16 +80,16 @@ order: 9000
 {{> img src="rit-te-imam.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
-{{> img src="dobra-volja-je-najbolja2.jpg" size="small"}}
+{{> img src="dobra-volja-je-najbolja.jpg" size="small"}}
 {{ spacer }} {{ spacer }} {{ spacer }} 
 
 {{> youtube id="7g2n824X0a8" }} 
 {{ spacer }} 
 
 
-<h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmiha.artnak%2Fposts%2F10158063062870181&width=500" width="100%" height="462" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
 
-<!--
+
+<!-- <h2> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmiha.artnak%2Fposts%2F10158063062870181&width=500" width="100%" height="462" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> </h2>
 ## <div class="fb-share-button" data-href="http://artur.zekcrew.com/projects/grafiti/" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fartur.zekcrew.com%2Fprojects%2Fgrafiti%2F&amp;src=sdkpreparse">Share</a></div>
 -->
 
