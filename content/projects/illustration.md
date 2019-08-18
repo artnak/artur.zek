@@ -21,7 +21,7 @@ order: 6000
 
 {{> img src="1zmajsneg.png" }}
 
-{{> img src="volk.png" }}
+{{> img src="volk3.png" }}
 {{ spacer }} {{ spacer }} {{ spacer }}
 
 {{> img src="modra1.png" }}
