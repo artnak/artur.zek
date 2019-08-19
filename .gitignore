@@ -8,8 +8,6 @@
 /build
 /node_modules
 
-/Gemfile.lock
-
 /.sass-cache
 
 /src/templates/compiled
@@ -20,5 +18,3 @@
 /.tmp
 
 .DS_Store
-
-/yarn.lock
